@@ -2,8 +2,8 @@
 
 These are my dot files for linux installs
 Initially comes from CentOS 7 install 
-The idea is that i can pick up these files if needed for other installs with hopefully minimal need for change
-It may be useful for others to use
+The idea is that i can pick up these files if needed for other installs with hopefully minimal change
+It may be useful for others to use as a starting point or to take snippets
 
 ## .bashrc
 
