@@ -1,2 +1,2 @@
-# dotfiles
-my dotfiles &amp; tools to push them around
+# linux
+my dotfiles, shell scripts and anything else linux related
