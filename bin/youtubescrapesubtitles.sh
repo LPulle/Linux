@@ -1,10 +1,4 @@
-#!/usr/bin/env bash
-HOME=/root
-LOGNAME=root
-PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-LANG=en_GB.UTF-8
-SHELL=/bin/sh
-export DISPLAY=:0.0
+#!/bin/bash
 # Install instructions
 # 1)Install node, node-typescript and npm if you don't have them already using your package manager and upgrade to the latest version
 # For ubuntu this is done like this (replace apt with your package manager: for centos: yum, suse: zypper etc):
