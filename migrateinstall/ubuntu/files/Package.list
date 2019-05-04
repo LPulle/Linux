@@ -82,6 +82,7 @@ debconf						install
 debconf-i18n					install
 debhelper					install
 debianutils					install
+debugedit					install
 dh-autoreconf					install
 dh-python					install
 dh-strip-nondeterminism				install
@@ -369,6 +370,7 @@ libdumbnet1:amd64				install
 libdvbpsi10:amd64				install
 libdvdnav4:amd64				install
 libdvdread4:amd64				install
+libdw1:amd64					install
 libeatmydata1:amd64				install
 libebml4v5:amd64				install
 libedit2:amd64					install
@@ -919,6 +921,10 @@ libreadline7:amd64				install
 libresid-builder0c2a				install
 librest-0.7-0:amd64				install
 libroken18-heimdal:amd64			install
+librpm8						install
+librpmbuild8					install
+librpmio8					install
+librpmsign8					install
 librsvg2-2:amd64				install
 librsvg2-common:amd64				install
 librtmp1:amd64					install
@@ -943,6 +949,7 @@ libsemanage1:amd64				install
 libsensors4:amd64				install
 libsepol1:amd64					install
 libserd-0-0:amd64				install
+libserf-1-1:amd64				install
 libshine3:amd64					install
 libshout3:amd64					install
 libsidplay2					install
@@ -976,6 +983,7 @@ libstartup-notification0:amd64			install
 libstdc++-8-dev:amd64				install
 libstdc++6:amd64				install
 libsub-name-perl				install
+libsvn1:amd64					install
 libswresample3:amd64				install
 libswscale5:amd64				install
 libsys-hostname-long-perl			install
@@ -1022,6 +1030,7 @@ libusb-0.1-4:amd64				install
 libusb-1.0-0:amd64				install
 libustr-1.0-1:amd64				install
 libutempter0:amd64				install
+libutf8proc2:amd64				install
 libuuid1:amd64					install
 libva-drm2:amd64				install
 libva-wayland2:amd64				install
@@ -1362,6 +1371,9 @@ readline-common					install
 rename						install
 resolvconf					install
 rfkill						install
+rpm						install
+rpm-common					install
+rpm2cpio					install
 rsync						install
 rsyslog						install
 rtmpdump					install
@@ -1393,6 +1405,7 @@ squashfs-tools					install
 ssh-import-id					install
 ssl-cert					install
 strace						install
+subversion					install
 sudo						install
 synaptic					install
 systemd						install
