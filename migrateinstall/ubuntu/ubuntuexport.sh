@@ -14,9 +14,7 @@ sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 # Push to GitHub
 cp ~/Package.list ./files
 cp ~/Repo.keys ./files
-cp ~/sources.list ./files
-cp ~/sources.list.distUpgrade ./files
-cp ~/sources.list.save ./files
+cp ~/sources.list* ./files
 git commit -am "Update ubuntu export files"
 git push #login to github
 
