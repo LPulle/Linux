@@ -32,3 +32,5 @@ sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremov
 #Python pip
 sudo pip install --upgrade pip
 sudo pip3 install --upgrade pip
+sudo pip3 install --upgrade setuptools pip
+sudo python -m pip install --upgrade pip
