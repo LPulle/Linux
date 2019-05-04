@@ -12,9 +12,9 @@ sudo cp -nRf /etc/apt/sources.list* ~/ #creates ~/sources.list files
 sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 
 # Push to GitHub
-cp ~/Package.list ./files
-cp ~/Repo.keys ./files
-cp ~/sources.list* ./files
+cp -nRf ~/Package.list ~/GitHub/Linux/files
+cp -nRf ~/Repo.keys ~/GitHub/Linux/files
+cp -nRf ~/sources.list* ~/GitHub/Linux/files
 git commit -am "Update ubuntu export files"
 git push #login to github
 
