@@ -8,7 +8,7 @@ sudo git pull origin master
 
 # Export dpkg files and repos
 dpkg --get-selections > ~/Package.list #creates ~/Package.list
-sudo cp -R /etc/apt/sources.list* ~/ #creates ~/sources.list files
+sudo cp -nRf /etc/apt/sources.list* ~/ #creates ~/sources.list files
 sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 
 # Push to GitHub
