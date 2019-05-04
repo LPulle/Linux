@@ -24,3 +24,11 @@ rm ~/temp_avail
 sudo dpkg --clear-selections
 sudo dpkg --set-selections < ~/files/Package.list
 sudo apt-get dselect-upgrade -y
+
+# Check for updates again after installing new software
+sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove -y
+
+# Some software manages upgrades with their own package manager
+#Python pip
+sudo pip install --upgrade pip
+sudo pip3 install --upgrade pip
