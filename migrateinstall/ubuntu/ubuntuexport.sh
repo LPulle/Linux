@@ -12,9 +12,9 @@ sudo cp -nRf /etc/apt/sources.list* ~/ #creates ~/sources.list files
 sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 
 # Push to GitHub
-sudo cp -nRf ~/Package.list ~/GitHub/Linux/files
-sudo cp -nRf ~/Repo.keys ~/GitHub/Linux/files
-sudo cp -nRf ~/sources.list* ~/GitHub/Linux/files
+sudo cp -nRf ~/Package.list ~/GitHub/Linux/migrateinstall/ubuntu/files
+sudo cp -nRf ~/Repo.keys ~/GitHub/Linux/migrateinstall/ubuntu/files
+sudo cp -nRf ~/sources.list* ~/GitHub/Linux/migrateinstall/ubuntu/files
 sudo git commit -am "Update ubuntu export files"
 sudo git push #login to github
 
