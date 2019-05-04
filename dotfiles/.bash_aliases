@@ -2,6 +2,10 @@
 # sudo commands parse aliases
 alias sudo='sudo '
 
+# Change bash prompt. See the article
+# http://www-106.ibm.com/developerwork.../l-tip-prompt/
+export PS1='\d \@ \[\e[32;1m\]\u\[\e[34;1m\]@\[\e[36;1m\]\H \[\e[34;1m\]\w\[\e[32;1m\] $ \[\e[0m\]'
+
 # General
 alias ..='cd ..'
 alias ...='cd ../../'
@@ -11,13 +15,14 @@ alias .4='cd ../../../../'
 alias .5='cd ../../../../../'
 alias cd..='cd ..'
 alias cd~='cd ~'
-alias yum='sudo yum'
 #alias git='sudo git'
+alias gitadd='checkShellFile ? git addsrcipt "$1" : && git add "$1"'
 alias grep='grep --color=auto'
 alias egrep='egrep --color=auto -n'
 alias fgrep='fgrep --color=auto -n'
 alias mkdir='mkdir -pv'
 alias mount='mount | column -t'
+alias nano='nano -w'
 alias now='date +"%T"'
 alias nowtime=now
 alias nowdate='date +"%d-%m-%Y"'
@@ -42,14 +47,20 @@ alias cx='chmod +x'
 # Clear the screen of your clutter
 alias c="clear"
 alias cl="clear;ls;pwd"
+alias cls='clear'
 # some ls aliases
 alias ls='ls --color=auto'
-alias ll='ls -alh'
+alias ll='ls -alch'
 alias llc='ls -AlhF --color=auto'
 alias la='ls -A'
 alias l='ls -CFlh'
 alias lsd="ls -alF | grep /$"
 alias l.='ls -d .* --color=auto'
+alias lls='ls -lac'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
 # Networking
 alias ports='netstat -tulanp'
@@ -72,6 +83,20 @@ alias crontabl='sudo crontab -l'
 alias restartcron='sudo systemctl restart crond.service'
 alias startcron='sudo systemctl start crond.service'
 alias stopcron='sudo systemctl stop crond.service'
+
+# Upgrade/update system
+##Ubuntu -apt
+alias apt='sudo apt'
+alias apt-fullup='sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove -y'
+alias apt-install='sudo apt-get install'
+alias apt-search='apt-cache search'
+alias apt-show='apt-cache show'
+alias apt-purge='sudo apt-get --purge  remove'
+alias apt-remove='sudo apt-get remove'
+alias apt-up='sudo apt-get update -y && sudo apt-get upgrade -y'
+alias apt-policy='LANG=C apt-cache policy'
+##Centos -yum
+alias yum='sudo yum'
 
 # Functions
 function mkcd() { mkdir $1;cd $1; }
@@ -102,6 +127,19 @@ function extract () {
   fi
 }
 
+# perform 'ls' after 'cd' if successful.
+cdls() {
+  builtin cd "$*"
+  RESULT=$?
+  if [ "$RESULT" -eq 0 ]; then
+    ls
+  fi
+}
+
+function checkShellFile(){
+    return ${1: -3} == ".sh"
+}
+
 # Safety
 alias rm='rm -Iv --preserve-root'
 alias mv='mv -vi'
@@ -114,6 +152,13 @@ alias chgrp='chgrp --preserve-root'
 #make this symlink first ln -s /home/<username>/.local/share/Trash/ ~/.Trash
 #note: case sensitive and the dot before Trash
 alias trsh='mv --target-directory=`~/.local/share/Trash/files/`'
+
+# Become system administrator
+alias god='sudo -i'
+alias root='sudo -i'
+
+# Restart Apache as a process
+alias startapache='sudo /etc/init.d/apache2 restart&'
 
 # Use this alias to edit the bashrc 
 # When you do it will reload ~/.bashrc on exit enabling any changes
@@ -134,6 +179,8 @@ alias findhugefiles="find . -printf '%s %p\n' | sort -nr | head -10"
 alias diskspace="du -S | sort -n -r |more"
 # Show me the size (sorted) of only the folders in this directory
 alias folders="find . -maxdepth 1 -type d -print | xargs du -sk | sort -rn"
+# Disk free in human terms
+alias df='df -h'
 
 # For fun
 alias woo='Fortune'
