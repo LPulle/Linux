@@ -1,0 +1,2 @@
+# deb https://deb.nodesource.com/node_10.x cosmic main # disabled on upgrade to cosmic
+# deb-src https://deb.nodesource.com/node_10.x cosmic main # disabled on upgrade to cosmic

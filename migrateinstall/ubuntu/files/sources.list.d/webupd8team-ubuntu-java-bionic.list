@@ -1,0 +1,4 @@
+# deb http://ppa.launchpad.net/webupd8team/java/ubuntu cosmic main # disabled on upgrade to cosmic
+# deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu bionic main
+# deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu bionic main
+# deb-src http://ppa.launchpad.net/webupd8team/java/ubuntu bionic main
