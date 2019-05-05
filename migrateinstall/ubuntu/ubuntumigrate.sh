@@ -1,6 +1,6 @@
 #!/bin/bash
 # install svn
-apt install subversion
+sudo apt install subversion
 
 # download the files
 # make sure you don't have a folder called "files"
