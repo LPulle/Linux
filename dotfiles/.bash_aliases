@@ -157,8 +157,9 @@ alias trsh='mv --target-directory=`~/.local/share/Trash/files/`'
 alias god='sudo -i'
 alias root='sudo -i'
 
-# Restart Apache as a process
+# Apache
 alias startapache='sudo /etc/init.d/apache2 restart&'
+alias stopapache='sudo apache2ctl stop'
 
 # Use this alias to edit the bashrc 
 # When you do it will reload ~/.bashrc on exit enabling any changes
