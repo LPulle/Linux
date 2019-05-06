@@ -1,5 +1,5 @@
 # Migrating Ubuntu Installs
-This is the Ubuntu version\
+This is the Ubuntu version
 
 Run the ubuntuexport.sh script on the source\
 Upload the output files to the files folder - this will need to be updated periodically\
