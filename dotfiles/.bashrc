@@ -22,9 +22,6 @@ case $- in
       *) return;;
 esac
 
-# Enable colour for grep
-export GREP_OPTIONS='--color=auto'
-
 # Add date and time to bash history
 export HISTTIMEFORMAT="%d/%m/%y %T "
 
