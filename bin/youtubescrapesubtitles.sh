@@ -14,6 +14,7 @@
 #     sudo npm install youtube-captions-scraper
 #     sudo npm install yargs
 # 3) scrapersimple.ts <- filename to save the below 4 lines as - it's typescript to need to remove the #'s
+# (If you cloned the repo or downloaded the folder this file is in the /bin folder)
 #  // ES5 /TypeScript
 #  var getSubtitles = require('youtube-captions-scraper').getSubtitles;
 #  const args = require('yargs').argv;
