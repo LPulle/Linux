@@ -1,16 +1,19 @@
 #!/bin/bash
+# switch to home directory
+cd ~
+
 # install svn
 sudo yum install subversion
 
 # download the files
 # make sure you don't have a folder called "files"
-svn export https://github.com/LPulle/Linux/trunk/migrateinstall/centos/files
+sudo svn export https://github.com/LPulle/Linux/trunk/migrateinstall/centos/files
 
 # Update base install, install latest dist and clean
 sudo yum update
 
 # Install packages with yum
-yum shell ~/files/yum.installed
+sudo yum shell ~/files/yum.installed
 
 # Check for updates again after installing new software
 sudo yum update
