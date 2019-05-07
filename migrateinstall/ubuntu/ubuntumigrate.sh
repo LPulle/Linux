@@ -1,4 +1,7 @@
 #!/bin/bash
+# switch to home directory
+cd ~
+
 # install svn
 sudo apt install subversion
 
