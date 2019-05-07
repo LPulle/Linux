@@ -1,32 +1,19 @@
 #!/bin/bash
 # install svn
-sudo apt install subversion
+sudo yum install subversion
 
 # download the files
 # make sure you don't have a folder called "files"
-svn export https://github.com/LPulle/Linux/trunk/migrateinstall/ubuntu/files
+svn export https://github.com/LPulle/Linux/trunk/migrateinstall/centos/files
 
 # Update base install, install latest dist and clean
-sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
+sudo yum update
 
-# Copy repo keys and apt sources
-sudo apt-key add ~/files/Repo.keys
-sudo apt-key update
-sudo cp -nRf ~/files/sources.list* /etc/apt/
-
-# Install packages with apt-get and dpkg
-sudo apt update
-sudo apt install dselect
-sudo dselect update
-apt-cache dumpavail > ~/temp_avail
-sudo dpkg --merge-avail ~/temp_avail
-rm ~/temp_avail
-sudo dpkg --clear-selections
-sudo dpkg --set-selections < ~/files/Package.list
-sudo apt-get dselect-upgrade -y
+# Install packages with yum
+yum shell ~/files/yum.installed
 
 # Check for updates again after installing new software
-sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
+sudo yum update
 
 # Some software manages upgrades with their own package manager
 #Python pip
