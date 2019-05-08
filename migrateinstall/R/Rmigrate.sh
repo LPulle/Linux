@@ -7,5 +7,5 @@ cd ~
 svn cat https://github.com/LPulle/Linux/trunk/migrateinstall/R/RPackages.csv > RPackages.csv
 svn cat https://github.com/LPulle/Linux/trunk/migrateinstall/R/Rmigrate.R > Rmigrate.R
 
-RScript ~/Rmigrate.R
+Rscript ~/Rmigrate.R
 
