@@ -10,6 +10,7 @@ sudo git pull origin master
 rpm -qa > ~/yum.installed
 sed -i 's/^/install /' ~/yum.installed
 echo run >> ~/yum.installed
+sudo cp -nRf /etc/yum.repos.d/*.repo ~/ #creates ~/*.repo files
 
 # Export python modules
 sudo -H pip2 install --upgrade pip
@@ -26,6 +27,7 @@ cp -nRf ~/yum.installed ./files
 cp -nRf ~/pip2freeze.txt ./files
 cp -nRf ~/pip3freeze.txt ./files
 cp -nRf ~/npmmodules.txt ./files
+cp -nRf ~/*.repo ./files
 git commit -am "Update CentOS export files"
 git push #login to github
 
