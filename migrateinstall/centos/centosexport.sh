@@ -28,6 +28,7 @@ cp -nRf ~/pip2freeze.txt ./files
 cp -nRf ~/pip3freeze.txt ./files
 cp -nRf ~/npmmodules.txt ./files
 cp -nRf ~/*.repo ./files
+git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
 
