@@ -1,0 +1,15 @@
+#!/bin/bash
+os=`lsb_release -i | sed 's/.*://'`
+cd ~/GitHub
+find . -maxdepth 1 -type d -print -execdir git --git-dir={}/.git --work-tree=$PWD/{} pull origin master \;
+cp -nRf ~/GitHub/Linux/dotfiles/.bashrc ~/.bashrc
+cp -nRf ~/GitHub/Linux/dotfiles/.bash_aliases ~/.bash_aliases
+sudo cp -nRf ~/GitHub/Linux/bin/superscript.sh /etc/init.d/superscript
+sudo chmod 755 /etc/init.d/superscript
+if [[ $os="Ubuntu" ]]
+then apt-fullup
+fi
+sudo -H pip install --upgrade pip
+sudo -H pip3 install --upgrade pip
+sudo -H pip3 install --upgrade setuptools pip
+sudo -H python -m pip install --upgrade pip
