@@ -23,11 +23,11 @@ sudo npm update -g npm
 ls `npm root -g` > ~/npmmodules.txt
 
 # Push to GitHub
-cp -nRf ~/yum.installed ./files
-cp -nRf ~/pip2freeze.txt ./files
-cp -nRf ~/pip3freeze.txt ./files
-cp -nRf ~/npmmodules.txt ./files
-cp -nRf ~/*.repo ./files
+yes | /bin/cp -f ~/yum.installed files/
+yes | /bin/cp -f ~/pip2freeze.txt files/
+yes | /bin/cp -f ~/pip3freeze.txt files/
+yes | /bin/cp -f ~/npmmodules.txt files/
+yes | /bin/cp -f ~/*.repo files/
 git add -A
 git commit -am "Update CentOS export files"
 git push #login to github

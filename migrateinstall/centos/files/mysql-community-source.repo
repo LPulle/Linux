@@ -60,3 +60,10 @@ baseurl=http://repo.mysql.com/yum/mysql-cluster-7.6-community/el/7/SRPMS
 enabled=0
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-mysql
+
+[mysql-cluster-8.0-community-source]
+name=MySQL Cluster 8.0 Community - Source
+baseurl=http://repo.mysql.com/yum/mysql-cluster-8.0-community/el/7/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-mysql
