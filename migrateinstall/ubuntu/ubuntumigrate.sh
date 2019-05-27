@@ -1,13 +1,15 @@
 #!/bin/bash
 # switch to home directory
 cd ~
+mkdir -p files
 
 # install svn
-sudo apt install subversion
+sudo apt -y install subversion
 
 # download the files
 # make sure you don't have a folder called "files"
 svn export https://github.com/LPulle/Linux/trunk/migrateinstall/ubuntu/files
+cp -R ~/GitHub/Linux/migrateinstall/ubuntu/files/* ~/files
 
 # Update base install, install latest dist and clean
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
