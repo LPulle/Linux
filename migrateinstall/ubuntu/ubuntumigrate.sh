@@ -41,8 +41,8 @@ sudo -H pip3 install --upgrade setuptools pip
 sudo -H python -m pip install --upgrade pip
 
 # Install python modules exported
-pip2 install -r ~/files/pip2freeze.txt
-pip3 install -r ~/files/pip3freeze.txt
+sudo -H pip2 install -r ~/files/pip2freeze.txt
+sudo -H pip3 install -r ~/files/pip3freeze.txt
 
 # Install npm modules exported
 sed 's/#.*//' npmmodules.txt | xargs sudo npm install -g # this should work but stops if it gets an error
