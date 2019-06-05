@@ -24,8 +24,10 @@ sudo cp -nRf /etc/yum.repos.d/*.repo ~/ #creates ~/*.repo files
 # Export python modules
 sudo -H pip2 install --upgrade pip
 sudo -H pip3 install --upgrade pip
+sudo -H pip3.7 install --upgrade pip
 pip2 freeze > ~/pip2freeze.txt
 pip3 freeze > ~/pip3freeze.txt
+pip3.7 freeze > ~/pip37freeze.txt
 
 # Export npm modules
 sudo npm update -g npm
@@ -35,6 +37,7 @@ ls `npm root -g` > ~/npmmodules.txt
 yes | /bin/cp -f ~/yum.installed files/
 yes | /bin/cp -f ~/pip2freeze.txt files/
 yes | /bin/cp -f ~/pip3freeze.txt files/
+yes | /bin/cp -f ~/pip37freeze.txt files/
 yes | /bin/cp -f ~/npmmodules.txt files/
 yes | /bin/cp -f ~/*.repo ls filesfiles/
 git add -A
