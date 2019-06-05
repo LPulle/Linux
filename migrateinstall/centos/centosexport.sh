@@ -4,6 +4,15 @@ sudo yum update
 
 # update Linux repo with latest files
 cd ~/GitHub/Linux
+DIRECTORY='~/GitHub/Linux'
+if [ ! -d "$DIRECTORY" ]; then
+  # Control will enter here if $DIRECTORY doesn't exist.
+  cd ~/GitHub
+  git clone https://github.com/LPulle/Linux
+  cd Linux
+  else
+   cd ~/GitHub/Linux 
+fi
 sudo git pull origin master
 
 # Export dpkg files and repos
@@ -27,7 +36,7 @@ yes | /bin/cp -f ~/yum.installed files/
 yes | /bin/cp -f ~/pip2freeze.txt files/
 yes | /bin/cp -f ~/pip3freeze.txt files/
 yes | /bin/cp -f ~/npmmodules.txt files/
-yes | /bin/cp -f ~/*.repo files/
+yes | /bin/cp -f ~/*.repo ls filesfiles/
 git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
