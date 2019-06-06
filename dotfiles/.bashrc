@@ -128,7 +128,7 @@ else
 fi
 
 # change the prompt to custom
-export PS1='\[\e[1;32m\][\d \t \u\[\e[34;1m\]@\[\e[36;1m\]\H \[\e[34;1m\]\w\[\e[32;1m\] $ \[\e[0m\]]'
+export PS1='\[\e[1;32m\][\d \t \u\[\e[34;1m\]@\[\e[36;1m\]\H \[\e[34;1m\]\w\[\e[32;1m\]] $ \[\e[0m\]'
 
 # pyenv paths
 export PATH="/home/pullel/.pyenv/bin:$PATH"
