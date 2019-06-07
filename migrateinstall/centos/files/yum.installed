@@ -307,7 +307,6 @@ install paps-0.6.8-28.el7.1.x86_64
 install libidn-1.28-4.el7.x86_64
 install python-ply-3.4-11.el7.noarch
 install words-3.0-22.el7.noarch
-install mutter-3.28.3-6.el7_6.x86_64
 install nepomuk-core-4.10.5-6.el7.x86_64
 install texlive-bibtex-svn26689.0.99d-43.el7.noarch
 install dconf-0.28.0-4.el7.x86_64
@@ -447,6 +446,7 @@ install yum-utils-1.1.31-50.el7.noarch
 install libasyncns-0.8-7.el7.x86_64
 install libXcursor-devel-1.1.15-1.el7.x86_64
 install ImageMagick-7.0.3-7.x86_64
+install kexec-tools-2.0.15-21.el7_6.3.x86_64
 install m17n-contrib-1.1.14-3.el7.noarch
 install perl-LWP-Protocol-https-6.04-4.el7.noarch
 install texlive-cm-super-svn15878.0-43.el7.noarch
@@ -523,6 +523,7 @@ install libmount-2.23.2-59.el7_6.1.x86_64
 install libreoffice-langpack-en-5.3.6.1-19.el7.x86_64
 install texinfo-tex-5.1-5.el7.x86_64
 install libiec61883-1.2.0-10.el7.x86_64
+install zeromq-devel-4.1.4-6.el7.x86_64
 install fontconfig-2.13.0-4.3.el7.i686
 install perl-Time-Piece-1.20.1-294.el7_6.x86_64
 install zziplib-0.13.62-9.el7.x86_64
@@ -571,7 +572,6 @@ install java-1.8.0-openjdk-headless-1.8.0.212.b04-0.el7_6.x86_64
 install jansson-2.10-1.el7.x86_64
 install virtuoso-opensource-6.1.6-6.el7.x86_64
 install texlive-mdwtools-svn15878.1.05.4-43.el7.noarch
-install kexec-tools-2.0.15-21.el7.x86_64
 install hardlink-1.0-19.el7.x86_64
 install subversion-perl-1.7.14-14.el7.x86_64
 install Canna-libs-3.7p3-43.el7.x86_64
@@ -597,6 +597,7 @@ install libreoffice-x11-5.3.6.1-19.el7.x86_64
 install subversion-python-1.7.14-14.el7.x86_64
 install samba-common-4.8.3-4.el7.noarch
 install soundtouch-1.4.0-9.el7.x86_64
+install libsodium-1.0.17-1.el7.x86_64
 install freetype-2.8-12.el7_6.1.i686
 install perl-Filter-1.49-3.el7.x86_64
 install cyrus-sasl-gssapi-2.1.26-23.el7.x86_64
@@ -1095,6 +1096,7 @@ install pptp-1.7.2-22.el7.x86_64
 install pango-devel-1.42.4-1.el7.x86_64
 install bc-1.06.95-13.el7.x86_64
 install texlive-thumbpdf-svn26689.3.15-43.el7.noarch
+install firefox-60.7.0-1.el7.centos.x86_64
 install texlive-ltxmisc-svn21927.0-43.el7.noarch
 install libXpm-devel-3.5.12-1.el7.i686
 install patch-2.7.1-10.el7_5.x86_64
@@ -1250,6 +1252,7 @@ install mozjs52-52.9.0-1.el7.x86_64
 install libevent-2.0.21-4.el7.x86_64
 install xorg-x11-fonts-ISO8859-1-75dpi-7.5-9.el7.noarch
 install texlive-pst-slpe-svn24391.1.31-43.el7.noarch
+install openpgm-5.2.122-2.el7.x86_64
 install texlive-thumbpdf-bin-svn6898.0-43.20130427_r30134.el7.noarch
 install libsexy-0.1.11-23.el7.x86_64
 install startup-notification-devel-0.12-8.el7.x86_64
@@ -1325,7 +1328,6 @@ install p11-kit-0.23.5-3.el7.x86_64
 install lohit-oriya-fonts-2.5.4.1-3.el7.noarch
 install httpd24u-filesystem-2.4.38-1.ius.centos7.noarch
 install lohit-punjabi-fonts-2.5.3-2.el7.noarch
-install firefox-60.6.1-1.el7.centos.x86_64
 install libdc1394-2.2.2-3.el7.x86_64
 install perl-Mozilla-CA-20130114-5.el7.noarch
 install mesa-dri-drivers-18.0.5-4.el7_6.x86_64
@@ -1813,6 +1815,7 @@ install krb5-devel-1.15.1-37.el7_6.x86_64
 install libcap-ng-0.7.5-4.el7.x86_64
 install filesystem-3.2-25.el7.x86_64
 install fxload-2002_04_11-16.el7.x86_64
+install mutter-3.28.3-7.el7_6.x86_64
 install samba-client-4.8.3-4.el7.x86_64
 install perl-Pod-Escapes-1.04-294.el7_6.noarch
 install perl-XML-NamespaceSupport-1.11-10.el7.noarch
@@ -1892,6 +1895,7 @@ install liblouis-2.5.2-12.el7_4.x86_64
 install xorg-x11-xauth-1.0.9-1.el7.x86_64
 install perl-Text-Template-1.45-12.el7.noarch
 install wget-1.14-18.el7.x86_64
+install zeromq-4.1.4-6.el7.x86_64
 install texlive-beamer-svn29349.3.26-43.el7.noarch
 install abrt-python-2.1.11-52.el7.centos.x86_64
 install texlive-subfig-svn15878.1.3-43.el7.noarch
@@ -1962,6 +1966,7 @@ install python2-cryptography-1.7.2-2.el7.x86_64
 install texlive-latex-bin-svn26689.0-43.el7.noarch
 install paratype-pt-sans-fonts-20101909-3.el7.noarch
 install unrar-5.0.12-2.el7.nux.x86_64
+install ruby-devel-2.0.0.648-35.el7_6.x86_64
 install libmusicbrainz5-5.0.1-9.el7.x86_64
 install libXi-devel-1.7.9-1.el7.x86_64
 install atk-2.28.1-1.el7.i686
