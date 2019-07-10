@@ -1,6 +1,7 @@
+core-js
 http-server
 npm
 npm-check
-npm-debug.log
 typescript
 xml2json-command
+yarn

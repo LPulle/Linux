@@ -81,6 +81,7 @@ install smc-meera-fonts-6.0-7.el7.noarch
 install clutter-gst2-2.0.18-1.el7.x86_64
 install libselinux-2.5-14.1.el7.i686
 install iwl4965-firmware-228.61.2.24-69.el7.noarch
+install setools-console-3.3.8-4.el7.x86_64
 install PackageKit-glib-1.1.10-1.el7.centos.x86_64
 install kgreeter-plugins-4.11.19-12.el7.x86_64
 install rdate-1.4-25.el7.x86_64
@@ -159,6 +160,7 @@ install grub2-common-2.02-0.76.el7.centos.1.noarch
 install polkit-0.112-18.el7_6.1.x86_64
 install m17n-db-1.6.4-4.el7.noarch
 install gnome-shell-extension-common-3.28.1-5.el7.noarch
+install setools-3.3.8-4.el7.x86_64
 install perl-HTTP-Message-6.06-6.el7.noarch
 install lohit-tamil-fonts-2.5.3-2.el7.noarch
 install libkadm5-1.15.1-37.el7_6.x86_64
@@ -1167,6 +1169,7 @@ install blktrace-1.0.5-8.el7.x86_64
 install libreport-python-2.1.11-42.el7.centos.x86_64
 install tzdata-java-2018i-1.el7.noarch
 install tagsoup-1.2.1-8.el7.noarch
+install bwidget-1.9.0-6.el7.noarch
 install libnfnetlink-1.0.1-4.el7.x86_64
 install pygpgme-0.3-9.el7.x86_64
 install kmenuedit-4.11.19-12.el7.x86_64
@@ -2253,6 +2256,7 @@ install rarian-compat-0.8.1-11.el7.x86_64
 install qt-x11-4.8.7-2.el7.x86_64
 install satyr-0.13-15.el7.x86_64
 install xorg-x11-fonts-ISO8859-14-75dpi-7.5-9.el7.noarch
+install setools-libs-tcl-3.3.8-4.el7.x86_64
 install iwl2030-firmware-18.168.6.1-69.el7.noarch
 install xorg-x11-fonts-ISO8859-2-100dpi-7.5-9.el7.noarch
 install gnome-shell-extension-apps-menu-3.28.1-5.el7.noarch
@@ -2328,6 +2332,7 @@ install open-vm-tools-10.2.5-3.el7.x86_64
 install sed-4.2.2-5.el7.x86_64
 install cheese-libs-3.28.0-1.el7.x86_64
 install iwl100-firmware-39.31.5.1-69.el7.noarch
+install setools-gui-3.3.8-4.el7.x86_64
 install python-setuptools-0.9.8-7.el7.noarch
 install texlive-euler-svn17261.2.5-43.el7.noarch
 install mesa-libgbm-18.0.5-4.el7_6.x86_64
