@@ -40,14 +40,14 @@ ls `npm root -g` > ~/npmmodules.txt
 
 # Push to GitHub
 cd ~/GitHub/Linux/migrateinstall/centos
-yes | /bin/cp -f ~/yum.installed files
-yes | /bin/cp -f ~/pip2freeze.txt files
-yes | /bin/cp -f ~/pip3freeze.txt files
-yes | /bin/cp -f ~/pip37freeze.txt files
-yes | /bin/cp -f ~/pipfreezemerge.txt files
-yes | /bin/cp -f ~/pipfreezeinstall.txt files
-yes | /bin/cp -f ~/npmmodules.txt files
-yes | /bin/cp -f ~/*.repo files
+yes | sudo /bin/cp -f ~/yum.installed files
+yes | sudo /bin/cp -f ~/pip2freeze.txt files
+yes | sudo /bin/cp -f ~/pip3freeze.txt files
+yes | sudo /bin/cp -f ~/pip37freeze.txt files
+yes | sudo /bin/cp -f ~/pipfreezemerge.txt files
+yes | sudo /bin/cp -f ~/pipfreezeinstall.txt files
+yes | sudo /bin/cp -f ~/npmmodules.txt files
+yes | sudo /bin/cp -f ~/*.repo files
 git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
