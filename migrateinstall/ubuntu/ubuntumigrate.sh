@@ -39,7 +39,7 @@ sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
 sudo -H pip2 install --upgrade pip
 sudo -H pip2 install --upgrade setuptools pip
 sudo -H python2 -m pip install --upgrade pip
-#3.6
+#3.x
 sudo -H pip3 install --upgrade pip
 sudo -H pip3 install --upgrade setuptools pip
 sudo -H python3 -m pip install --upgrade pip
