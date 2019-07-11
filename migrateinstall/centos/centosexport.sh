@@ -32,6 +32,7 @@ pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip3freeze.tx
 /usr/local/bin/pip3.7 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip37freeze.txt
 cat ~/pip2freeze.txt ~/pip3freeze.txt ~/pip37freeze.txt | sort > pipfreeze.txt
 uniq pipfreeze.txt > pipfreezemerge.txt
+cut -d "=" -f1 Linux/migrateinstall/centos/files/pipfreezemerge.txt | uniq > pipfreezeinstall.txt
 
 # Export npm modules
 sudo npm update -g npm
@@ -44,6 +45,7 @@ yes | /bin/cp -f ~/pip2freeze.txt files
 yes | /bin/cp -f ~/pip3freeze.txt files
 yes | /bin/cp -f ~/pip37freeze.txt files
 yes | /bin/cp -f ~/pipfreezemerge.txt files
+yes | /bin/cp -f ~/pipfreezeinstall.txt files
 yes | /bin/cp -f ~/npmmodules.txt files
 yes | /bin/cp -f ~/*.repo files
 git add -A
