@@ -20,7 +20,7 @@ dpkg --get-selections > ~/Package.list #creates ~/Package.list
 sudo cp -nRf /etc/apt/sources.list* ~/ #creates ~/sources.list files
 sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 
-# Export python modules
+# Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
 sudo -H pip2 install --upgrade pip
 sudo -H pip3 install --upgrade pip
 pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip2freeze.txt
@@ -35,14 +35,14 @@ ls `npm root -g` > ~/npmmodules.txt
 
 # Push to GitHub
 cd ~/GitHub/Linux/migrateinstall/ubuntu
-yes | /bin/cp -f ~/Package.list files
-yes | /bin/cp -f ~/Repo.keys files
-yes | /bin/cp -f ~/sources.list* files
-yes | /bin/cp -f ~/pip2freeze.txt files
-yes | /bin/cp -f ~/pip3freeze.txt files
-yes | /bin/cp -f ~/pipfreezemerge.txt files
-yes | /bin/cp -f ~/pipfreezeinstall.txt files
-yes | /bin/cp -f  ~/npmmodules.txt files
+yes | sudo /bin/cp -f ~/Package.list files
+yes | sudo /bin/cp -f ~/Repo.keys files
+yes | sudo /bin/cp -f ~/sources.list* files
+yes | sudo /bin/cp -f ~/pip2freeze.txt files
+yes | sudo /bin/cp -f ~/pip3freeze.txt files
+yes | sudo /bin/cp -f ~/pipfreezemerge.txt files
+yes | sudo /bin/cp -f ~/pipfreezeinstall.txt files
+yes | sudo /bin/cp -f  ~/npmmodules.txt files
 git add -A
 git commit -am "Update ubuntu export files"
 git push #login to github
