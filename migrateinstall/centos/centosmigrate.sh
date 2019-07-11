@@ -51,9 +51,9 @@ sudo -H /usr/local/bin/python3.7 -m pip install --upgrade pip
 
 # install using a for loop so will keep going even if it encounters an error
 # it will find errors as pipfreezeinstall.txt is a merge of python 2 and 3 module exports
-for i in $(cat ~/pipfreezeinstall.txt); do sudo /usr/local/bin/pip3.7 install $i; done
-for i in $(cat ~/pipfreezeinstall.txt); do sudo pip3 install $i; done
-for i in $(cat ~/pipfreezeinstall.txt); do sudo pip2 install $i; done
+for i in $(cat ~/pipfreezeinstall.txt); do sudo /usr/local/bin/pip3.7 -qq install $i; done
+for i in $(cat ~/pipfreezeinstall.txt); do sudo pip3 -qq install $i; done
+for i in $(cat ~/pipfreezeinstall.txt); do sudo pip2 -qq install $i; done
 
 # Install npm modules exported
 sed 's/#.*//' npmmodules.txt | xargs sudo npm install -g # this should work but stops if it gets an error
