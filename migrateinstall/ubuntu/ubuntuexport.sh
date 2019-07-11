@@ -37,7 +37,7 @@ ls `npm root -g` > ~/npmmodules.txt
 cd ~/GitHub/Linux/migrateinstall/ubuntu
 yes | sudo /bin/cp -f ~/Package.list files
 yes | sudo /bin/cp -f ~/Repo.keys files
-yes | sudo /bin/cp -f ~/sources.list* files
+yes | sudo /bin/cp -rf ~/sources.list* files
 yes | sudo /bin/cp -f ~/pip2freeze.txt files
 yes | sudo /bin/cp -f ~/pip3freeze.txt files
 yes | sudo /bin/cp -f ~/pipfreezemerge.txt files
