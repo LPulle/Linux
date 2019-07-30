@@ -1,4 +1,5 @@
 acme==0.31.0
+acme==0.35.1
 aenum==2.1.2
 agate==1.6.1
 agate-dbf==0.2.1
@@ -28,6 +29,7 @@ Brlapi==0.6.0
 bs4==0.0.1
 ccsm==0.8.4
 certbot==0.31.0
+certbot==0.35.1
 certifi==2018.11.29
 cffi==1.12.3
 chardet==3.0.4
@@ -105,6 +107,7 @@ Jinja2==2.10
 jmespath==0.9.0
 joblib==0.13.2
 josepy==1.1.0
+josepy==1.2.0
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
