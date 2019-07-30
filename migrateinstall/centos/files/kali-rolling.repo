@@ -1,6 +1,0 @@
-
-[kali-rolling]
-name=added from: http://http.kali.org/kali
-baseurl=http://http.kali.org/kali
-enabled=0
-
