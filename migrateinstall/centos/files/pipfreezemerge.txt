@@ -7,12 +7,10 @@ agate-sql==0.5.4
 applicationinsights==0.11.9
 asn1crypto==0.24.0
 astroid==1.6.5
-astroid==2.1.0
 astroid==2.2.5
 attrs==19.1.0
 audioread==1.0.1
 Automat==0.7.0
-Babel==0.9.6
 Babel==2.7.0
 backcall==0.1.0
 backports-abc==0.5
@@ -90,7 +88,6 @@ ipaclient==4.6.4
 ipaddress==1.0.16
 ipalib==4.6.4
 ipaplatform==4.6.4
-ipaplatform==4.8.0
 ipapython==4.6.4
 IPy==0.75
 ipykernel==4.10.0
@@ -144,7 +141,6 @@ notebook==5.7.4
 ntplib==0.3.2
 ntplib==0.3.3
 numpy==1.15.4
-openpyxl==2.2.0b1
 openpyxl==2.6.2
 packaging==18.0
 pandas==0.23.4
@@ -166,7 +162,6 @@ policycoreutils-default-encoding==0.1
 prettytable==0.7.2
 prometheus-client==0.5.0
 prompt-toolkit==1.0.16
-prompt-toolkit==2.0.8
 prompt-toolkit==2.0.9
 psutil==2.2.1
 ptyprocess==0.6.0
@@ -250,11 +245,13 @@ soupsieve==1.6.2
 SpeechRecognition==3.8.1
 SQLAlchemy==1.1.3
 sqlparse==0.2.4
+sqlparse==0.3.0
 SSSDConfig==1.16.2
 statsmodels==0.10.0
 stopwords==0.1.3
 subprocess32==3.2.6
 subprocess32==3.5.4
+tabulate==0.8.3
 targetcli-fb===2.1.fb46
 terminado==0.8.1
 terminaltables==3.1.0
@@ -262,7 +259,6 @@ testpath==0.4.2
 text-unidecode==1.2
 tornado==5.1.1
 traitlets==4.3.2
-typed-ast==1.1.1
 typed-ast==1.4.0
 typing==3.5.2.2
 Unidecode==0.4.19
@@ -270,7 +266,6 @@ urlgrabber==3.10
 urlgrabber==4.0.0
 urllib3==1.24.1
 urwid==1.1.1
-urwid==2.0.1
 w3lib==1.20.0
 wcwidth==0.1.7
 webencodings==0.5.1

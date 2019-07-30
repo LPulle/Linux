@@ -222,6 +222,7 @@ SSSDConfig
 statsmodels
 stopwords
 subprocess32
+tabulate
 targetcli-fb
 terminado
 terminaltables
