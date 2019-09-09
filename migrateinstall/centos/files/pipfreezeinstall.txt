@@ -194,6 +194,7 @@ rsa
 rtslib-fb
 ruamel.ordereddict
 ruamel.yaml
+ruamel.yaml.clib
 s3transfer
 scandir
 schedutils

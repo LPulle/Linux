@@ -330,9 +330,9 @@ install cups-pk-helper-0.2.6-2.el7.x86_64
 install libfontenc-1.1.3-3.el7.x86_64
 install at-spi2-core-2.28.0-1.el7.x86_64
 install nss-util-3.36.0-1.1.el7_6.x86_64
+install unixODBC-2.3.1-11.el7.x86_64
 install usermode-1.111-5.el7.x86_64
 install jbigkit-libs-2.0-11.el7.i686
-install easy-rsa-3.0.3-1.el7.noarch
 install perl-Class-Accessor-0.34-12.el7.noarch
 install gvfs-gphoto2-1.36.2-1.el7.x86_64
 install usbmuxd-1.1.0-1.el7.x86_64
@@ -350,7 +350,6 @@ install wpa_supplicant-2.6-12.el7.x86_64
 install libglvnd-1.0.1-0.8.git5baa1e5.el7.x86_64
 install libXft-devel-2.3.2-2.el7.x86_64
 install libcap-2.22-9.el7.i686
-install python34-setuptools-39.2.0-3.el7.noarch
 install kbd-1.15.5-15.el7.x86_64
 install libgcab1-0.7-4.el7_4.x86_64
 install pyOpenSSL-0.13.1-4.el7.x86_64
@@ -409,6 +408,7 @@ install libetonyek-0.1.7-1.el7.x86_64
 install python-di-0.3-2.el7.noarch
 install libXpm-3.5.12-1.el7.x86_64
 install perl-File-Temp-0.23.01-3.el7.noarch
+install flash-plugin-32.0.0.238-release.x86_64
 install sysstat-10.1.5-17.el7.x86_64
 install libXi-1.7.9-1.el7.i686
 install kdelibs-ktexteditor-4.14.8-6.el7_3.x86_64
@@ -485,6 +485,7 @@ install libcom_err-1.42.9-13.el7.x86_64
 install bolt-0.4-3.el7.x86_64
 install plymouth-0.8.9-0.31.20140113.el7.centos.x86_64
 install libieee1284-0.2.11-15.el7.x86_64
+install code-1.38.0-1567548134.el7.x86_64
 install libXcursor-1.1.15-1.el7.i686
 install kernel-tools-libs-3.10.0-514.21.1.el7.x86_64
 install libva-1.8.3-1.el7.x86_64
@@ -890,6 +891,7 @@ install libgcj-4.8.2-16.el7.i686
 install gamin-0.1.10-16.el7.x86_64
 install liberation-mono-fonts-1.07.2-16.el7.noarch
 install zip-3.0-11.el7.x86_64
+install youtube-dl-2019.01.30-2.el7.noarch
 install yajl-2.0.4-4.el7.x86_64
 install perl-macros-5.16.3-294.el7_6.x86_64
 install openblas-Rblas-0.3.3-2.el7.x86_64
@@ -1042,6 +1044,7 @@ install usbredir-0.7.1-3.el7.x86_64
 install checkpolicy-2.5-8.el7.x86_64
 install dbus-devel-1.10.24-13.el7_6.x86_64
 install perl-Parse-EDID-1.0.7-1.el7.noarch
+install python34-setuptools-39.2.0-4.el7.noarch
 install libsecret-0.18.6-1.el7.x86_64
 install cyrus-sasl-2.1.26-23.el7.x86_64
 install libXcomposite-0.4.4-4.1.el7.x86_64
@@ -1333,7 +1336,6 @@ install libpinyin-0.9.93-4.el7.x86_64
 install libxklavier-5.4-7.el7.x86_64
 install avahi-glib-0.6.31-19.el7.x86_64
 install xkeyboard-config-2.24-1.el7.noarch
-install code-1.36.1-1562627663.el7.x86_64
 install kcm_colors-4.11.19-12.el7.x86_64
 install texlive-dvipdfmx-svn26765.0-43.el7.noarch
 install libXpm-3.5.12-1.el7.i686
@@ -1453,7 +1455,6 @@ install pango-1.42.4-1.el7.i686
 install glusterfs-client-xlators-3.12.2-18.el7.x86_64
 install gnu-free-sans-fonts-20120503-8.el7.noarch
 install libsmartcols-2.23.2-59.el7_6.1.x86_64
-install gdal-libs-1.11.4-3.el7.x86_64
 install clutter-gtk-1.8.4-1.el7.x86_64
 install iwl2000-firmware-18.168.6.1-69.el7.noarch
 install gnome-shell-extension-launch-new-instance-3.28.1-5.el7.noarch
@@ -1658,13 +1659,13 @@ install popt-1.13-16.el7.x86_64
 install policycoreutils-2.5-29.el7_6.1.x86_64
 install dbus-glib-0.100-7.el7.x86_64
 install pygtk2-libglade-2.24.0-9.el7.x86_64
-install flash-plugin-32.0.0.223-release.x86_64
 install cups-client-1.6.3-35.el7.x86_64
 install bash-4.2.46-31.el7.x86_64
 install ldns-1.6.16-10.el7.x86_64
 install bash-completion-2.1-6.el7.noarch
 install python-cffi-1.6.0-5.el7.x86_64
 install libcgroup-0.41-20.el7.x86_64
+install unixODBC-devel-2.3.1-11.el7.x86_64
 install hypervfcopyd-0-0.34.20180415git.el7.x86_64
 install perl-Getopt-Long-2.40-3.el7.noarch
 install libxslt-devel-1.1.28-5.el7.x86_64
@@ -1793,7 +1794,6 @@ install atlas-3.10.1-12.el7.x86_64
 install abrt-addon-vmcore-2.1.11-52.el7.centos.x86_64
 install boost-program-options-1.53.0-27.el7.x86_64
 install libglvnd-core-devel-1.0.1-0.8.git5baa1e5.el7.x86_64
-install postgis-2.0.7-2.el7.x86_64
 install gnome-getting-started-docs-3.28.2-1.el7.noarch
 install clutter-gst3-3.0.26-1.el7.x86_64
 install kwin-4.11.19-12.el7.x86_64
@@ -1808,6 +1808,7 @@ install libpng-1.5.13-7.el7_2.i686
 install colord-libs-1.3.4-1.el7.x86_64
 install abattis-cantarell-fonts-0.0.25-1.el7.noarch
 install json-glib-1.4.2-2.el7.x86_64
+install easy-rsa-3.0.6-1.el7.noarch
 install pcre-8.32-17.el7.i686
 install centos-logos-70.0.6-3.el7.centos.noarch
 install libvdpau-1.1.1-3.el7.x86_64
@@ -1886,6 +1887,7 @@ install cracklib-dicts-2.9.0-11.el7.x86_64
 install gnome-clocks-3.28.0-1.el7.x86_64
 install libgpg-error-1.12-3.el7.x86_64
 install gdk-pixbuf2-2.36.12-3.el7.i686
+install libnghttp2-1.31.1-2.el7.x86_64
 install perl-Data-Dumper-2.145-3.el7.x86_64
 install libibverbs-17.2-3.el7.x86_64
 install libvirt-daemon-driver-storage-core-4.5.0-10.el7_6.6.x86_64
@@ -1942,7 +1944,6 @@ install texlive-subfig-svn15878.1.3-43.el7.noarch
 install python-configobj-4.7.2-7.el7.noarch
 install libsepol-devel-2.5-10.el7.x86_64
 install libuv-1.26.0-1.el7.x86_64
-install libnghttp2-1.31.1-1.el7.x86_64
 install perl-XML-LibXML-2.0018-5.el7.x86_64
 install libwacom-data-0.30-1.el7.noarch
 install libsepol-2.5-10.el7.i686
@@ -2015,7 +2016,6 @@ install cifs-utils-6.2-10.el7.x86_64
 install abrt-addon-ccpp-2.1.11-52.el7.centos.x86_64
 install texlive-enumitem-svn24146.3.5.2-43.el7.noarch
 install cyrus-sasl-devel-2.1.26-23.el7.x86_64
-install gdal-1.11.4-3.el7.x86_64
 install libtool-ltdl-2.4.2-22.el7_3.x86_64
 install diffutils-3.3-4.el7.x86_64
 install tracker-preferences-1.10.5-6.el7.x86_64
@@ -2492,7 +2492,6 @@ install perl-Sys-Syslog-0.33-3.el7.x86_64
 install texlive-caption-svn29026.3.3__2013_02_03_-43.el7.noarch
 install gpg-pubkey-f6777c67-45e5b1b9
 install libXrandr-1.5.1-2.el7.i686
-install unixODBC-2.3.7-1.rh.x86_64
 install libselinux-2.5-14.1.el7.x86_64
 install game-music-emu-0.6.2-1.el7.x86_64
 install perl-XML-SAX-Base-1.08-7.el7.noarch
