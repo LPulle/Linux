@@ -1,7 +1,7 @@
 #!/bin/bash
 # switch to home directory
 cd ~
-mkdir -p files
+#mkdir -p files
 
 # install svn
 sudo apt -y install subversion
