@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copy this file into a new file, chmod +x it and run on a clean ubuntu install
 # install git
 sudo apt -y install git
 mkdir -p ~/GitHub
