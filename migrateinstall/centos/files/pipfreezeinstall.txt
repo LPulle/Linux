@@ -7,6 +7,7 @@ agate-sql
 applicationinsights
 asn1crypto
 astroid
+atomicwrites
 attrs
 audioread
 Automat
@@ -30,15 +31,18 @@ certbot
 certifi
 cffi
 chardet
+chrome-gnome-shell
 cleanup
 Click
 cli-helpers
 colorama
+conda
 ConfigArgParse
 configobj
 configparser
 configshell-fb
 constantly
+cookies
 coverage
 cssselect
 csvkit
@@ -73,9 +77,11 @@ hyperlink
 idna
 image
 imageio
+importlib-metadata
 incremental
 iniparse
 initial-setup
+iotop
 ipaclient
 ipaddress
 ipalib
@@ -114,6 +120,7 @@ matplotlib
 mccabe
 mistune
 mock
+more-itertools
 mssql-cli
 mssql-scripter
 nbconvert
@@ -142,6 +149,7 @@ pexpect
 pickleshare
 Pillow
 pip-review
+pluggy
 ply
 policycoreutils-default-encoding
 prettytable
@@ -149,10 +157,14 @@ prometheus-client
 prompt-toolkit
 psutil
 ptyprocess
+py
 pyasn1
 pyasn1-modules
 PyAudio
+pycairo
+pycosat
 pycparser
+pycrypto
 pycups
 pycurl
 Pygments
@@ -163,12 +175,15 @@ pyinotify
 pykickstart
 pyliblzma
 pylint
+PyPAM
 pyparsing
 pyparted
 pyRFC3339
 pyroute2
 pyrsistent
 pysmbc
+PySocks
+pytest
 python-augeas
 python-dateutil
 python-ldap
@@ -176,6 +191,7 @@ python-linux-procfs
 python-meh
 python-nss
 python-slugify
+python-xapp
 python-yubico
 pytimeparse
 pytz
@@ -190,6 +206,9 @@ qtconsole
 requests
 requests-toolbelt
 Requires
+responses
+rpm
+rpy2
 rsa
 rtslib-fb
 ruamel.ordereddict
@@ -197,6 +216,7 @@ ruamel.yaml
 ruamel.yaml.clib
 s3transfer
 scandir
+scdate
 schedutils
 scikit-learn
 scipy
@@ -207,6 +227,7 @@ Send2Trash
 seobject
 sepolicy
 service-identity
+setproctitle
 setroubleshoot
 simplegeneric
 singledispatch
@@ -233,6 +254,7 @@ tornado
 traitlets
 typed-ast
 typing
+tzlocal
 Unidecode
 urlgrabber
 urllib3
@@ -247,6 +269,7 @@ xlrd
 youtube-dl
 yum-langpacks
 yum-metadata-parser
+zipp
 zope.component
 zope.deferredimport
 zope.deprecation

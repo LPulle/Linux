@@ -1,26 +1,23 @@
 [ius-testing]
-name=IUS Community Packages for Enterprise Linux 7 - $basearch - Testing
-#baseurl=https://dl.iuscommunity.org/pub/ius/testing/CentOS/7/$basearch
-mirrorlist=https://mirrors.iuscommunity.org/mirrorlist?repo=ius-centos7-testing&arch=$basearch&protocol=http
-failovermethod=priority
-enabled=0
-gpgcheck=1
-gpgkey=file:///etc/pki/rpm-gpg/IUS-COMMUNITY-GPG-KEY
+name = IUS for Enterprise Linux 7 - Testing - $basearch
+baseurl = https://repo.ius.io/testing/7/$basearch/
+enabled = 0
+repo_gpgcheck = 0
+gpgcheck = 1
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-IUS-7
 
 [ius-testing-debuginfo]
-name=IUS Community Packages for Enterprise Linux 7 - $basearch - Testing Debug
-#baseurl=https://dl.iuscommunity.org/pub/ius/testing/CentOS/7/$basearch/debuginfo
-mirrorlist=https://mirrors.iuscommunity.org/mirrorlist?repo=ius-centos7-testing-debuginfo&arch=$basearch&protocol=http
-failovermethod=priority
-enabled=0
-gpgcheck=1
-gpgkey=file:///etc/pki/rpm-gpg/IUS-COMMUNITY-GPG-KEY
+name = IUS for Enterprise Linux 7 - Testing - $basearch - Debug
+baseurl = https://repo.ius.io/testing/7/$basearch/debug/
+enabled = 0
+repo_gpgcheck = 0
+gpgcheck = 1
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-IUS-7
 
 [ius-testing-source]
-name=IUS Community Packages for Enterprise Linux 7 - $basearch - Testing Source
-#baseurl=https://dl.iuscommunity.org/pub/ius/testing/CentOS/7/SRPMS
-mirrorlist=https://mirrors.iuscommunity.org/mirrorlist?repo=ius-centos7-testing-source&arch=source&protocol=http
-failovermethod=priority
-enabled=0
-gpgcheck=1
-gpgkey=file:///etc/pki/rpm-gpg/IUS-COMMUNITY-GPG-KEY
+name = IUS for Enterprise Linux 7 - Testing - Source
+baseurl = https://repo.ius.io/testing/7/src/
+enabled = 0
+repo_gpgcheck = 0
+gpgcheck = 1
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-IUS-7
