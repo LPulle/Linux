@@ -1,0 +1,8 @@
+[intel-daal-repo]
+name=Intel(R) Data Analytics Acceleration Library
+baseurl=https://yum.repos.intel.com/daal
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://yum.repos.intel.com/daal/setup/PUBLIC_KEY.PUB
+

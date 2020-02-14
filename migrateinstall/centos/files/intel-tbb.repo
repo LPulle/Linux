@@ -1,0 +1,8 @@
+[intel-tbb-repo]
+name=Intel(R) Threading Building Blocks
+baseurl=https://yum.repos.intel.com/tbb
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://yum.repos.intel.com/tbb/setup/PUBLIC_KEY.PUB
+

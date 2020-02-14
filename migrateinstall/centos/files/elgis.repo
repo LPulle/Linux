@@ -1,0 +1,42 @@
+[elgis]
+name=EL GIS 6 - $basearch
+baseurl=http://elgis.argeo.org/repos/6/elgis/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+# Update the base distribution
+[elgis-plus]
+name=EL GIS 6 Plus - $basearch
+baseurl=http://elgis.argeo.org/repos/6/elgis-plus/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-debuginfo]
+name=EL GIS 6 - $basearch - Debug
+baseurl=http://elgis.argeo.org/repos/6/elgis/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-plus-debuginfo]
+name=EL GIS 6 Plus - $basearch - Debug
+baseurl=http://elgis.argeo.org/repos/6/elgis-plus/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-source]
+name=EL GIS 6 - $basearch - Source
+baseurl=http://elgis.argeo.org/repos/6/elgis/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-plus-source]
+name=EL GIS 6 Plus - $basearch - Source
+baseurl=http://elgis.argeo.org/repos/6/elgis-plus/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS

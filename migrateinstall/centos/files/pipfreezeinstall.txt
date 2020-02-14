@@ -5,6 +5,7 @@ agate-dbf
 agate-excel
 agate-sql
 applicationinsights
+asgiref
 asn1crypto
 astroid
 atomicwrites
@@ -42,6 +43,7 @@ configobj
 configparser
 configshell-fb
 constantly
+contextlib2
 cookies
 coverage
 cssselect
@@ -175,6 +177,7 @@ pyinotify
 pykickstart
 pyliblzma
 pylint
+pyodbc
 PyPAM
 pyparsing
 pyparted
@@ -207,6 +210,7 @@ requests
 requests-toolbelt
 Requires
 responses
+rfc3986
 rpm
 rpy2
 rsa

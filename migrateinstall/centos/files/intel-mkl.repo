@@ -1,0 +1,8 @@
+[intel-mkl-repo]
+name=Intel(R) Math Kernel Library
+baseurl=https://yum.repos.intel.com/mkl
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://yum.repos.intel.com/mkl/setup/PUBLIC_KEY.PUB
+

@@ -1,0 +1,42 @@
+[elgis-testing]
+name=EL GIS 6 Testing - $basearch
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+# Update the base distribution
+[elgis-plus-testing]
+name=EL GIS 6 Plus Testing - $basearch
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis-plus/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-testing-debuginfo]
+name=EL GIS 6 Testing - $basearch - Debug
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-plus-testing-debuginfo]
+name=EL GIS 6 Plus Testing - $basearch - Debug
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis-plus/$basearch
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-testing-source]
+name=EL GIS 6 Testing - $basearch - Source
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
+
+[elgis-plus-testing-source]
+name=EL GIS 6 Plus Testing - $basearch - Source
+baseurl=http://elgis.argeo.org/repos/testing/6/elgis-plus/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-ELGIS
