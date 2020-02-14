@@ -37,7 +37,7 @@ cut -d "=" -f1 ~/pipfreezemerge.txt | uniq > ~/pipfreezeinstall.txt
 # Export npm modules
 sudo npm install -g npm@latest
 sudo npm update
-#sudo npm update -g
+sudo npm update -g
 ls `npm root -g` > ~/npmmodules.txt
 
 # Push to GitHub
