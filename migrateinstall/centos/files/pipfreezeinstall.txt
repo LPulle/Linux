@@ -6,6 +6,7 @@ agate-dbf
 agate-excel
 agate-sql
 aiohttp
+appdirs
 applicationinsights
 asgiref
 asn1crypto
@@ -67,6 +68,7 @@ dbfread
 decorator
 defusedxml
 di
+distlib
 distro
 Django
 dnspython
@@ -77,6 +79,7 @@ enum34
 ethtool
 et-xmlfile
 falcon
+filelock
 firstboot
 Flask
 fros
@@ -324,6 +327,7 @@ urlgrabber
 urllib3
 urwid
 venusian
+virtualenv
 w3lib
 wcwidth
 web2py

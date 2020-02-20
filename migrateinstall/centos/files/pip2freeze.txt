@@ -4,6 +4,7 @@ agate==1.6.1
 agate-dbf==0.2.1
 agate-excel==0.2.3
 agate-sql==0.5.4
+appdirs==1.4.3
 applicationinsights==0.11.9
 asn1crypto==0.24.0
 astroid==1.6.5
@@ -57,6 +58,7 @@ dbfread==2.0.7
 decorator==4.3.2
 defusedxml==0.5.0
 di==0.3
+distlib==0.3.0
 distro==1.2.0
 Django==1.11.28
 dnspython==1.16.0
@@ -67,6 +69,7 @@ enum34==1.1.6
 et-xmlfile==1.0.1
 ethtool==0.8
 falcon==2.0.0
+filelock==3.0.12
 firstboot==19.5
 Flask==1.1.1
 fros==1.0
@@ -86,6 +89,7 @@ idna==2.6
 image==1.5.27
 imageio==2.5.0
 importlib-metadata==0.23
+importlib-resources==1.0.2
 incremental==17.5.0
 iniparse==0.4
 initial-setup==0.3.9.44
@@ -230,7 +234,7 @@ s3transfer==0.3.3
 scandir==1.10.0
 scdate==1.10.6
 schedutils==0.4
-scikit-learn==0.20.4
+scikit-learn==0.17.1
 scipy==1.2.3
 sckdump==2.0.13
 selenium==3.141.0
@@ -272,6 +276,7 @@ urlgrabber==3.10
 urllib3==1.25.6
 urwid==1.1.1
 venusian==2.1.0
+virtualenv==20.0.4
 w3lib==1.20.0
 wcwidth==0.1.7
 web2py==2.1.1
