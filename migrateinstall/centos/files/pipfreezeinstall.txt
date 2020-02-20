@@ -25,6 +25,7 @@ backports.csv
 backports.functools-lru-cache
 backports.shutil-get-terminal-size
 backports.ssl-match-hostname
+backports.weakref
 beautifulsoup4
 bleach
 blivet
