@@ -248,6 +248,7 @@ python-slugify
 python-xapp
 python-yubico
 pytimeparse
+pytoml
 pytz
 pyudev
 pyusb
@@ -258,6 +259,7 @@ pyzmq
 qrcode
 qtconsole
 queuelib
+registries
 repoze.lru
 requests
 requests-oauthlib
