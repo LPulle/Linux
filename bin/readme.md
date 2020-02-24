@@ -12,3 +12,4 @@ As with the dotfiles, some of this I found quite useful code so may be useful on
 * scrapersimple.ts - script written in typescript needed to build scrapersimple.js
 * scrapersimple.js - javascript of typescript youtube caption scraper: scrapersimple.ts
 * upgradepython.sh - upgrades pip and all python modules for each install of python - in this instance v2.7, v3.6 and v3.7 all installed in separate locations
+* yumupdateall.sh - updates yum before running yum update all packages skipping broken
