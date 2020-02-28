@@ -8,6 +8,7 @@ It may be useful for others to use as a starting point or to take snippets
 ## .bashrc
 
 Fairly basic .bashrc file with a custom prompt, some colouring, date/time in bash_history and a call to load .bash_aliases
+It has a couple of lines for pyenv which i was using which you may need to take out if you don't have it
 
 ## .bash_aliases
 
