@@ -11,6 +11,8 @@ Fairly basic .bashrc file with a custom prompt, some colouring, date/time in bas
 
 ## .bash_aliases
 
-This comes from CentOS 7 probably just the yum and systemctl ones that are local
+This started off from what i was using on a CentOS 7 install but most are fairly generic
+I used it on some ubuntu installs so it now has some local ones for that too
 It's mostly the more frequent commands in more memorable and/or more concise format which i imagine will evolve in time
 Should also be useful so i don't have to build this collection again
+Think it is just the yum and systemctl ones that are for CentOS and the apt ones for Ubuntu
