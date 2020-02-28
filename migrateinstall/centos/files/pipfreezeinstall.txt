@@ -305,6 +305,7 @@ sqlparse
 SSSDConfig
 statsmodels
 stopwords
+style
 subprocess32
 tabulate
 targetcli-fb
@@ -326,6 +327,7 @@ typing
 typing-extensions
 tzlocal
 Unidecode
+update
 urlgrabber
 urllib3
 urwid

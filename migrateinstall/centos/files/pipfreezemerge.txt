@@ -47,9 +47,9 @@ blivet==0.61.15.74
 bokeh==1.4.0
 boto==2.49.0
 boto3==1.12.0
-boto3==1.12.5
+boto3==1.12.8
 botocore==1.15.0
-botocore==1.15.5
+botocore==1.15.8
 bottle==0.12.18
 brewer2mpl==1.4.1
 Brlapi==0.6.0
@@ -75,7 +75,6 @@ cleanup==1.0.2
 cleanup==1.0.3
 Click==7.0
 cli-helpers==0.2.3
-cli-helpers==1.2.1
 colorama==0.3.7
 colorama==0.4.3
 conda==4.3.16
@@ -116,7 +115,6 @@ dnspython==1.16.0
 docopt==0.6.2
 docutils==0.12
 docutils==0.15.2
-docutils==0.16
 entrypoints==0.3
 enum34==1.1.6
 enum34==1.1.9
@@ -212,6 +210,7 @@ Jinja2==2.10.3
 Jinja2==2.11.1
 jmespath==0.9.0
 jmespath==0.9.4
+jmespath==0.9.5
 joblib==0.13.2
 joblib==0.14.0
 joblib==0.14.1
@@ -306,7 +305,7 @@ parsel==1.5.1
 parsel==1.5.2
 parso==0.3.3
 parso==0.5.1
-parso==0.6.1
+parso==0.6.2
 PasteDeploy==2.1.0
 pathlib2==2.3.4
 pathlib2==2.3.5
@@ -336,7 +335,6 @@ prometheus-client==0.5.0
 prometheus-client==0.7.1
 prompt-toolkit==1.0.18
 prompt-toolkit==2.0.10
-prompt-toolkit==3.0.3
 Protego==0.1.16
 protobuf==3.11.3
 psutil==2.2.1
@@ -365,7 +363,7 @@ Pygments==2.5.2
 pygobject==3.22.0
 pygpgme==0.3
 PyHamcrest==1.9.0
-PyHamcrest==2.0.0
+PyHamcrest==2.0.1
 pyinotify==0.9.4
 pyinotify==0.9.6
 pykickstart==1.99.66.21
@@ -426,7 +424,7 @@ PyYAML==5.1.2
 PyYAML==5.3
 pyzmq==17.1.2
 pyzmq==18.1.0
-pyzmq==18.1.1
+pyzmq==19.0.0
 qrcode==5.0.1
 qrcode==6.1
 qtconsole==4.4.3
@@ -441,8 +439,8 @@ requests-oauthlib==1.3.0
 requests-toolbelt==0.8.0
 requests-toolbelt==0.9.1
 Requires==0.0.3
+responses==0.10.11
 responses==0.10.6
-responses==0.10.9
 responses==0.5.1
 rfc3986==1.3.0
 rfc3986==1.3.2
@@ -465,7 +463,7 @@ scdate==1.10.6
 schedutils==0.4
 scikit-learn==0.17.1
 scikit-learn==0.20.1
-scikit-learn==0.22.1
+scikit-learn==0.21.3
 scipy==1.2.2
 scipy==1.4.1
 sckdump==2.0.13
@@ -502,6 +500,7 @@ SSSDConfig==1.16.4
 statsmodels==0.10.0
 statsmodels==0.11.1
 stopwords==0.1.3
+style==1.1.0
 subprocess32==3.2.6
 subprocess32==3.5.4
 tabulate==0.8.3
@@ -537,6 +536,7 @@ typing-extensions==3.7.4.1
 tzlocal==2.0.0
 Unidecode==0.4.19
 Unidecode==1.1.1
+update==0.0.1
 urlgrabber==3.10
 urlgrabber==4.1.0
 urllib3==1.25.6
@@ -548,7 +548,7 @@ urwid==2.1.0
 venusian==2.1.0
 venusian==3.0.0
 virtualenv==20.0.4
-virtualenv==20.0.5
+virtualenv==20.0.7
 w3lib==1.20.0
 w3lib==1.21.0
 wcwidth==0.1.7
@@ -562,6 +562,7 @@ widgetsnbextension==3.5.1
 wordcloud==1.5.0
 wordcloud==1.6.0
 wrapt==1.10.11
+wrapt==1.11.2
 wrapt==1.12.0
 xlrd==1.0.0
 xlrd==1.2.0

@@ -254,6 +254,7 @@ SQLAlchemy==1.1.3
 sqlparse==0.2.4
 statsmodels==0.10.0
 stopwords==0.1.3
+style==1.1.0
 subprocess32==3.5.4
 tabulate==0.8.5
 tempora==2.1.0
@@ -274,6 +275,7 @@ typing==3.5.2.2
 typing-extensions==3.7.4.1
 tzlocal==2.0.0
 Unidecode==0.4.19
+update==0.0.1
 urllib3==1.25.7
 urwid==2.0.1
 venusian==3.0.0
