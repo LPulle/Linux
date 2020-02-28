@@ -18,6 +18,7 @@ alias cd~='cd ~'
 #alias git='sudo git'
 alias gitadd='checkShellFile ? git addsrcipt "$1" : && git add "$1"'
 alias gitupdateall='find . -maxdepth 1 -type d -print -execdir git --git-dir={}/.git --work-tree=$PWD/{} pull origin master \;'
+alias gitclonestarred='curl https://api.github.com/users/lpulle/starred | jq -r '.[].html_url' | xargs -l git clone'
 alias grep='grep --color=auto'
 alias egrep='egrep --color=auto -n'
 alias fgrep='fgrep --color=auto -n'
@@ -32,8 +33,8 @@ alias ping='ping -c 5'
 alias fastping='ping -c 100 -s.2'
 alias ports='netstat -tulanp'
 alias meminfo='free -m -l -t'
-alias psmem='ps -aux | head -1 ; ps auxf | sort -nr -k 5'
-alias psmem10='ps -aux | head -1 ; ps auxf | sort -nr -k 5 | head -10'
+alias psmem='pas -aux | head -1 ;ps auxf | sort -nr -k 4'
+alias psmem10='ps -aux | head -1 ; ps auxf | sort -nr -k 4 | head -10'
 alias pscpu='ps -aux | head -1 ; ps auxf | sort -nr -k 3'
 alias pscpu10='ps -aux | head -1 ; ps auxf | sort -nr -k 3 | head -10'
 alias cpuinfo='lscpu'
@@ -42,7 +43,7 @@ alias wget='wget -c'
 alias csv='paste -d, -s'
 alias untar='tar -xvf'
 alias bc='bc -l'
-alias diff='colordiff'
+#alias diff='colordiff'
 alias cx='chmod +x'
 #alias myips="ifconfig | sed -En 's/127.0.0.1//;s/.*inet (addr:)?(([0-9]*\.){3}[0-9]*).*/\2/p'"
 # Clear the screen of your clutter
@@ -98,6 +99,7 @@ alias apt-up='sudo apt update -y && sudo apt upgrade -y'
 alias apt-policy='LANG=C apt-cache policy'
 ##Centos -yum
 alias yum='sudo yum'
+alias packagesizes='rpm -qa --queryformat '%10{size} - %-25{name} \t %{version}\n' | sort -n | numfmt --field 1 --to=iec'
 
 # Functions
 function mkcd() { mkdir $1;cd $1; }
@@ -183,6 +185,8 @@ alias diskspace="du -S | sort -n -r |more"
 alias folders="find . -maxdepth 1 -type d -print | xargs du -sk | sort -rn"
 # Disk free in human terms
 alias df='df -h'
+# Free up swap
+alias swapfree='sudo swapoff -a; sudo swapon -a'
 
 # For fun
 alias woo='Fortune'
