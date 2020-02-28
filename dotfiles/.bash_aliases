@@ -99,7 +99,7 @@ alias apt-up='sudo apt update -y && sudo apt upgrade -y'
 alias apt-policy='LANG=C apt-cache policy'
 ##Centos -yum
 alias yum='sudo yum'
-alias packagesizes='rpm -qa --queryformat '%10{size} - %-25{name} \t %{version}\n' | sort -n | numfmt --field 1 --to=iec'
+alias packagesizes="rpm -qa --queryformat '%10{size} - %-25{name} \t %{version}\n' | sort -n | numfmt --field 1 --to=iec"
 
 # Functions
 function mkcd() { mkdir $1;cd $1; }
@@ -141,6 +141,12 @@ cdls() {
 
 function checkShellFile(){
     return ${1: -3} == ".sh"
+}
+
+function git-push() {
+	git add -A
+	git commit -am "$1" #"Text for update"
+	git push
 }
 
 # Safety
