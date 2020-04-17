@@ -34,7 +34,7 @@ rm ~/temp_avail
 #sudo apt-get dselect-upgrade -y
 
 # for loop is much better to iterate through Package.list and install each item one by one
-for i in $(cat ~/files/Package.list | awk '{print$1}'); do sudo apt-get -y install $i; done
+for i in $(awk '{print$1}' ~/files/Package.list); do sudo apt-get -y install $i; done
 
 # Check for updates again after installing new software
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
