@@ -35,6 +35,11 @@ sudo dselect update
 # for loop is much better to iterate through Package.list and install each item one by one
 for i in $(awk '{print$1}' ~/files/Package.list); do sudo apt-get -y install $i; done
 
+# xargs is faster - you have to make the amended package list first
+# however if any fail the whole list fails so not as reliable so below not being used
+#awk '{print$1}' ~/files/Package.list > ~/files/pkglist
+#xargs sudo apt-get -y install < ~/files/pkglist
+
 # Check for updates again after installing new software
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
 
