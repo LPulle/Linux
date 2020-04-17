@@ -20,15 +20,14 @@ sudo apt-key update
 sudo cp -nRf ~/files/sources.list* /etc/apt/
 
 # Install packages with apt-get and dpkg
+# dselect is very dangerous and is not the best way to do this
+# this has destroyed an install keep the install and update dselect though
 sudo apt update
 sudo apt install dselect
 sudo dselect update
-apt-cache dumpavail > ~/temp_avail
-sudo dpkg --merge-avail ~/temp_avail
-rm ~/temp_avail
-
-# dselect is very dangerous and is not the best way to do this
-# this has destroyed an install
+#apt-cache dumpavail > ~/temp_avail
+#sudo dpkg --merge-avail ~/temp_avail
+#rm ~/temp_avail
 #sudo dpkg --clear-selections
 #sudo dpkg --set-selections < ~/files/Package.list
 #sudo apt-get dselect-upgrade -y
