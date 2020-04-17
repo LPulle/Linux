@@ -26,9 +26,15 @@ sudo dselect update
 apt-cache dumpavail > ~/temp_avail
 sudo dpkg --merge-avail ~/temp_avail
 rm ~/temp_avail
-sudo dpkg --clear-selections
-sudo dpkg --set-selections < ~/files/Package.list
-sudo apt-get dselect-upgrade -y
+
+# dselect is very dangerous and is not the best way to do this
+# this has destroyed an install
+#sudo dpkg --clear-selections
+#sudo dpkg --set-selections < ~/files/Package.list
+#sudo apt-get dselect-upgrade -y
+
+# for loop is much better to iterate through Package.list and install each item one by one
+for i in $(cat ~/files/Package.list | awk '{print$1}'); do sudo apt-get -y install $i; done
 
 # Check for updates again after installing new software
 sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y
