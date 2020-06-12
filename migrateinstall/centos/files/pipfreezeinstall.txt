@@ -49,6 +49,7 @@ CherryPy
 chrome-gnome-shell
 cleanup
 Click
+click
 cli-helpers
 colorama
 conda
@@ -92,9 +93,14 @@ futures
 gast
 gensim
 ggplot
+google-api-core
+googleapis-common-protos
 google-auth
 google-auth-oauthlib
+google-cloud-core
+google-cloud-storage
 google-pasta
+google-resumable-media
 grpcio
 gssapi
 h5py
@@ -199,6 +205,7 @@ pluggy
 ply
 policycoreutils-default-encoding
 portend
+pretty-cron
 prettytable
 prometheus-client
 prompt-toolkit
@@ -237,6 +244,7 @@ pyroute2
 pyrsistent
 pysmbc
 PySocks
+pytesseract
 pytest
 python-augeas
 python-dateutil
@@ -258,7 +266,9 @@ PyYAML
 pyzmq
 qrcode
 qtconsole
+QtPy
 queuelib
+regex
 registries
 repoze.lru
 requests
@@ -311,14 +321,17 @@ tabulate
 targetcli-fb
 tempora
 tensorboard
-tensorflow
+tensorboard-plugin-wit
 tensorflow-estimator
 termcolor
 terminado
 terminaltables
 testpath
 text-unidecode
+threadpoolctl
+toml
 tornado
+tqdm
 traitlets
 translationstring
 Twisted
