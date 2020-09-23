@@ -1,0 +1,7 @@
+[lux]
+name=CentOS $releasever - $basearch - Lux
+baseurl=http://repo.iotti.biz/CentOS/$releasever
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-LUX
+

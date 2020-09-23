@@ -1,5 +1,5 @@
 absl-py==0.9.0
-acme==1.3.0
+acme==1.7.0
 aenum==2.1.2
 agate==1.6.1
 agate-dbf==0.2.1
@@ -26,7 +26,7 @@ backports.ssl-match-hostname==3.5.0.1
 backports.weakref==1.0.post1
 beautifulsoup4==4.7.1
 bleach==3.1.0
-blivet==0.61.15.74
+blivet==0.61.15.75
 boto==2.49.0
 boto3==1.12.0
 botocore==1.15.0
@@ -37,7 +37,7 @@ bs4==0.0.1
 bz2file==0.98
 cachetools==3.1.1
 ccsm==0.8.4
-certbot==1.3.0
+certbot==1.7.0
 certifi==2018.11.29
 cffi==1.12.3
 chardet==3.0.4
@@ -106,11 +106,11 @@ incremental==17.5.0
 iniparse==0.4
 initial-setup==0.3.9.44
 iotop==0.6
-ipaclient==4.6.5
+ipaclient==4.6.6
 ipaddress==1.0.16
-ipalib==4.6.5
-ipaplatform==4.6.5
-ipapython==4.6.5
+ipalib==4.6.6
+ipaplatform==4.6.6
+ipapython==4.6.6
 IPy==0.75
 ipykernel==4.10.0
 ipython==5.8.0
@@ -225,6 +225,7 @@ PySocks==1.7.1
 pytesseract==0.3.2
 python-augeas==0.5.0
 python-dateutil==2.8.0
+python-dmidecode==3.10.13
 python-ldap==2.4.15
 python-linux-procfs==0.4.9
 python-meh==0.25.3
@@ -287,6 +288,8 @@ statsmodels==0.10.0
 stopwords==0.1.3
 style==1.1.0
 subprocess32==3.2.6
+subscription-manager==1.24.26
+syspurpose==1.24.26
 tabulate==0.8.3
 targetcli-fb===2.1.fb49
 tempora==1.14.1

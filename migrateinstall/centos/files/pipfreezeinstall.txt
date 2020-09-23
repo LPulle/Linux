@@ -8,10 +8,13 @@ agate-sql
 aiohttp
 appdirs
 applicationinsights
+argon2-cffi
 asgiref
 asn1crypto
 astor
 astroid
+astunparse
+async-generator
 asyncio
 async-timeout
 atomicwrites
@@ -87,6 +90,7 @@ Flask
 fros
 funcsigs
 functools32
+funkify
 fusion-icon
 future
 futures
@@ -99,6 +103,7 @@ google-auth
 google-auth-oauthlib
 google-cloud-core
 google-cloud-storage
+google-crc32c
 google-pasta
 google-resumable-media
 grpcio
@@ -116,6 +121,7 @@ imageio
 importlib-metadata
 importlib-resources
 incremental
+iniconfig
 iniparse
 initial-setup
 iotop
@@ -131,6 +137,8 @@ ipython-genutils
 ipywidgets
 isodate
 isort
+itemadapter
+itemloaders
 itsdangerous
 jaraco.classes
 jaraco.collections
@@ -148,6 +156,7 @@ jupyter
 jupyter-client
 jupyter-console
 jupyter-core
+jupyterlab-pygments
 jwcrypto
 Keras
 Keras-Applications
@@ -170,9 +179,11 @@ more-itertools
 mssql-cli
 mssql-scripter
 multidict
+nbclient
 nbconvert
 nbformat
 ndg-httpsclient
+nest-asyncio
 netaddr
 netifaces
 NeuroTools
@@ -248,6 +259,7 @@ pytesseract
 pytest
 python-augeas
 python-dateutil
+python-dmidecode
 python-ldap
 python-linux-procfs
 python-meh
@@ -275,6 +287,7 @@ requests
 requests-oauthlib
 requests-toolbelt
 Requires
+requires
 responses
 rfc3986
 rpm
@@ -317,11 +330,14 @@ statsmodels
 stopwords
 style
 subprocess32
+subscription-manager
+syspurpose
 tabulate
 targetcli-fb
 tempora
 tensorboard
 tensorboard-plugin-wit
+tensorflow
 tensorflow-estimator
 termcolor
 terminado
