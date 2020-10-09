@@ -2,7 +2,7 @@
 name=Extra OKay Packages for Enterprise Linux - $basearch
 baseurl=http://repo.okay.com.mx/centos/$releasever/$basearch/release
 failovermethod=priority
-enabled=1
+enabled=0
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-OKAY
 
