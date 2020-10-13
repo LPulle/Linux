@@ -2,7 +2,7 @@
 ## Variables for mail location, machine name, and date
 mailpath=$(echo "/var/mail/root") #change this if your mail is in a different location
 mailpathbkp=$(echo "/var/mail/rootbkp") #change this if your backup needs to go elsewhere
-machine=$(echo "root@"$hostname".localdomain") #change this if the from address is a different format
+machine=$(echo "root@"$HOSTNAME".localdomain") #change this if the from address is a different format
 today="$(date +"%a %b %e")" #change this if the date format is different
 search="$(echo "$machine" ""  "$today")" #make the search string (note the padded spaces)
 
