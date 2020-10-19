@@ -27,9 +27,9 @@ yes | sudo /bin/cp -nRf /etc/yum.repos.d/*.repo ~/ #creates ~/*.repo files
 sudo -H pip2 install --upgrade pip
 sudo -H pip3 install --upgrade pip
 sudo -H /usr/local/bin/pip3.7 install --upgrade pip
-pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip2freeze.txt
-pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip3freeze.txt
-/usr/local/bin/pip3.7 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip37freeze.txt
+pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip2freeze.txt
+pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip3freeze.txt
+/usr/local/bin/pip3.7 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip37freeze.txt
 cat ~/pip2freeze.txt ~/pip3freeze.txt ~/pip37freeze.txt | sort > ~/pipfreeze.txt
 uniq ~/pipfreeze.txt > ~/pipfreezemerge.txt
 cut -d "=" -f1 ~/pipfreezemerge.txt | uniq > ~/pipfreezeinstall.txt
