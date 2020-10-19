@@ -23,8 +23,8 @@ sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 # Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
 sudo -H pip2 install --upgrade pip
 sudo -H pip3 install --upgrade pip
-pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip2freeze.txt
-pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' > ~/pip3freeze.txt
+pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip2freeze.txt
+pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip3freeze.txt
 cat ~/pip2freeze.txt ~/pip3freeze.txt | sort > ~/pipfreeze.txt
 uniq ~/pipfreeze.txt > ~/pipfreezemerge.txt
 cut -d "=" -f1 ~/pipfreezemerge.txt | uniq > ~/pipfreezeinstall.txt
