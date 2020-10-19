@@ -16,6 +16,6 @@ apt-get dselect-upgrade -y
 
 This could result in components of the base OS install being removed as they didn't match the input
 the dselect-upgrade switch will remove anything not in the inputfile list and install everything on the list
-If there is variation it will remove those packages rendering it unable to install the ones that do match
-Solution was to replace this with taking the first column of Package.list and looping through this with apt-get install
+If there is variation it will remove those packages rendering it unable to install the ones that do match <br />
+Solution was to replace this with taking the first column of Package.list and looping through this with apt-get install <br />
 This will result in an attempt to install each item and will move on to the next item if it already installed and is uptodate
