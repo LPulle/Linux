@@ -87,6 +87,9 @@ falcon
 filelock
 firstboot
 Flask
+fontdiffenator
+fonttools
+freetype-py
 fros
 funcsigs
 functools32
@@ -96,6 +99,7 @@ future
 futures
 gast
 gensim
+gfdiffbrowsers
 ggplot
 google-api-core
 googleapis-common-protos
@@ -216,7 +220,6 @@ pluggy
 ply
 policycoreutils-default-encoding
 portend
-pretty-cron
 prettytable
 prometheus-client
 prompt-toolkit
@@ -228,7 +231,7 @@ py
 pyasn1
 pyasn1-modules
 PyAudio
-pycairo
+pybrowserstack-screenshots
 pycosat
 pycparser
 pycrypto
@@ -265,13 +268,11 @@ python-linux-procfs
 python-meh
 python-nss
 python-slugify
-python-xapp
 python-yubico
 pytimeparse
 pytoml
 pytz
 pyudev
-pyusb
 pyxattr
 pyxdg
 PyYAML
@@ -314,6 +315,7 @@ service-identity
 setproctitle
 setroubleshoot
 simplegeneric
+simplejson
 singledispatch
 six
 skll
@@ -355,6 +357,7 @@ typed-ast
 typing
 typing-extensions
 tzlocal
+uharfbuzz
 Unidecode
 update
 urlgrabber
