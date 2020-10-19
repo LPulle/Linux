@@ -1,5 +1,5 @@
-# Migrating CentOS Installs
-This is the CentOS version
+# Migrating CentOS 7 Installs
+This is the CentOS 7 version
 
 Run the centosexport.sh script on the source\
 Upload the output files to the files folder - this will need to be updated periodically\
