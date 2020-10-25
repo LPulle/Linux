@@ -9,8 +9,8 @@ As with the dotfiles, some of this I found quite useful code so may be useful on
 * HomeFolderSize.sh - simple command for calculating the size of everything in the /home folder in gigabytes. Useful as a precursor to Backup.sh to determine size required for backup
 * rebootneeded.sh - checks to see if a kernel install has occurred which would require a reboot. There is a better utility in centos built into yum-utils "needs-restarting -r" which checks all of yum rather than just the kernel. /var/run/reboot-required works on some other linux flavours.
 * youtubescrapesubtitles.sh - bash script (instructions in the comments) to create scrapersimple.ts and .js which will download the auto captions of a youtube video parsing the video id. Uses nodejs, typescript, wget, perl, awk, grep, gsub to format the output txt file in a reasonably legible format
-* ~~scrapersimple.ts - script written in typescript needed to build scrapersimple.js
-* ~~scrapersimple.js - javascript of typescript youtube caption scraper: scrapersimple.ts
+* ~~scrapersimple.ts - script written in typescript needed to build scrapersimple.js~~
+* ~~scrapersimple.js - javascript of typescript youtube caption scraper: scrapersimple.ts~~
 * upgradepython.sh - upgrades pip and all python modules for each install of python - in this instance v2.7, v3.6 and v3.7 all installed in separate locations
 * yumupdateall.sh - updates yum before running yum update all packages skipping broken
 * clearoldmail.sh - searches root's mail for the first mail received today and deletes all previous mail
