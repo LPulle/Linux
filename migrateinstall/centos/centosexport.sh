@@ -17,11 +17,14 @@ fi
 # pull the latest version from repo
 sudo git pull origin master
 
-# Export dpkg files and repos
+# Export rpm files and yum repos
 rpm -qa > ~/yum.installed
 sed -i 's/^/install /' ~/yum.installed
 echo run >> ~/yum.installed
 yes | sudo /bin/cp -nRf /etc/yum.repos.d/*.repo ~/ #creates ~/*.repo files
+
+# Export rpm package names to installed-software.log
+rpm -qa --qf "%{NAME}\n" |sort > ~/GitHub/Linux/migrateinstall/centos/installed-software.log
 
 # Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
 sudo -H pip2 install --upgrade pip
