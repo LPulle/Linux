@@ -41,6 +41,7 @@ brewer2mpl
 Brlapi
 bs4
 bz2file
+cached-property
 cachetools
 ccsm
 certbot
