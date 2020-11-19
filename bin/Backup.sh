@@ -1,5 +1,9 @@
 #!/bin/bash
 find /home -maxdepth 2 -type d -name .cache > /usr/local/bin/backupexclusions.txt
+find /home -maxdepth 2 -type d -name .config >> /usr/local/bin/backupexclusions.txt
+find /home -maxdepth 2 -type d -name .pcsc* >> /usr/local/bin/backupexclusions.txt
+find /home -maxdepth 2 -type d -name .speech-dispatcher >> /usr/local/bin/backupexclusions.txt
+find /home -maxdepth 2 -type d -name .thinclient_drives >> /usr/local/bin/backupexclusions.txt
 BACKUPTIME=`date +%Y%m%d%H%M%S` #get the current date/time
 DESTINATION=/data/backup/Backup$BACKUPTIME.tar.gz #create a backup file using the current date in it's name
 SOURCEFOLDER=/home #the folder that contains the files that we want to backup
