@@ -53,7 +53,6 @@ CherryPy
 chrome-gnome-shell
 cleanup
 Click
-click
 cli-helpers
 colorama
 conda
@@ -88,6 +87,7 @@ falcon
 filelock
 firstboot
 Flask
+flatbuffers
 fontdiffenator
 fonttools
 freetype-py
@@ -162,6 +162,7 @@ jupyter-client
 jupyter-console
 jupyter-core
 jupyterlab-pygments
+jupyterlab-widgets
 jwcrypto
 Keras
 Keras-Applications
