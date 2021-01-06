@@ -39,6 +39,7 @@ cut -d "=" -f1 ~/pipfreezemerge.txt | uniq > ~/pipfreezeinstall.txt
 
 # Export npm modules
 sudo npm install -g npm@latest
+sudo npm install -g npm
 sudo npm update
 sudo npm update -g
 ls `npm root -g` > ~/npmmodules.txt
