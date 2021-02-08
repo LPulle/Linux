@@ -310,12 +310,14 @@ sckdump
 Scrapy
 seaborn
 selenium
+semantic-version
 Send2Trash
 seobject
 sepolicy
 service-identity
 setproctitle
 setroubleshoot
+setuptools-rust
 simplegeneric
 simplejson
 singledispatch

@@ -307,6 +307,7 @@ dhclient
 dhcp-common
 dhcp-libs
 dia
+diffmark
 diffstat
 diffutils
 distribution-gpg-keys
@@ -314,6 +315,7 @@ djvulibre-libs
 dleyna-connector-dbus
 dleyna-core
 dleyna-server
+dlib
 dmenu
 dmidecode
 dmraid
@@ -357,6 +359,7 @@ emacs-nox
 emerald
 empathy
 enchant
+enchant2
 engrampa
 enscript
 environment-modules
@@ -393,8 +396,10 @@ expat
 expat-devel
 faac
 faad2-libs
+fann
 farstream
 farstream02
+fastlz
 fcoe-utils
 fdk-aac
 festival
@@ -415,6 +420,7 @@ filezilla
 findutils
 fipscheck
 fipscheck-lib
+firebird-libfbclient
 firefox
 firewall-config
 firewalld
@@ -441,6 +447,8 @@ fprintd-pam
 freeglut
 freeipmi
 freerdp-libs
+freetds
+freetds-libs
 freetype
 freetype
 freetype-devel
@@ -767,9 +775,11 @@ harfbuzz-devel
 harfbuzz-icu
 hddtemp
 hdf5
+HdrHistogram_c6php-libs
 hesiod
 hicolor-icon-theme
 highcontrast-qt5
+hiredis-last
 hostname
 hpijs
 hplip-common
@@ -844,6 +854,7 @@ intel-tbb-libs-32bit-2019.8-281
 intltool
 inxi
 iotop
+IP2Location-libs
 ipa-client-common
 ipa-common
 ipa-python-compat
@@ -904,6 +915,7 @@ jq-devel
 json-c
 json-glib
 js-uglify-1
+judy
 junit
 jwhois
 kactivities
@@ -982,6 +994,7 @@ lcms2-devel
 ldns
 ledmon
 less
+leveldb
 liba52
 libabw
 libacl
@@ -1026,6 +1039,7 @@ libcap
 libcap
 libcap-ng
 libcap-ng
+libc-client
 libcddb
 libcdio
 libcdio-paranoia
@@ -1044,6 +1058,8 @@ libcom_err-devel
 libcompizconfig
 libconfig
 libconfuse
+libcouchbase
+libcouchbase-libevent
 libcroco
 libcrystalhd
 libcurl
@@ -1147,6 +1163,7 @@ libgudev1
 libgusb
 libgweather
 libgxps
+libhandlebars
 libhangul
 libibverbs
 libical
@@ -1194,10 +1211,13 @@ libmatemixer
 libmateweather
 libmateweather-data
 libmatroska
+libmaxminddb
 libmbim
 libmbim-utils
 libmcrypt
 libmediaart
+libmemcached
+libmemcached-opt-libs
 libmfx
 libmimic
 libmms
@@ -1215,6 +1235,7 @@ libmspack
 libmspub
 libmtp
 libmusicbrainz5
+libmustache
 libmwaw
 libnatpmp
 libndp
@@ -1267,10 +1288,12 @@ libqmi
 libqmi-utils
 libquadmath
 libquadmath-devel
+librabbitmq
 librados2
 libraqm
 libraw1394
 librbd1
+librdkafka1php
 librdmacm
 libref_array
 libreoffice-base
@@ -1541,9 +1564,12 @@ libXxf86vm
 libXxf86vm-devel
 libyami
 libyaml
+libyaz
 libzapojit
 libzip
+libzip5
 libzmf
+libzstd
 lightdm
 lightdm-gobject
 lightdm-gtk
@@ -1557,6 +1583,7 @@ lldpad
 llvm
 llvm-libs
 llvm-private
+lmdb-libs
 lm_sensors
 lm_sensors-libs
 lockdev
@@ -1687,6 +1714,7 @@ mlocate
 mobile-broadband-provider-info
 mock
 mock-core-configs
+mock-filesystem
 ModemManager
 ModemManager-glib
 mokutil
@@ -1700,6 +1728,7 @@ mpfr
 mpfr-devel
 mpg123-libs
 msgpack
+msodbcsql17
 mtdev
 mtools
 mtr
@@ -1732,6 +1761,8 @@ nepomuk-core-libs
 nepomuk-widgets
 netcdf
 netcf-libs
+net-snmp
+net-snmp-agent-libs
 net-snmp-libs
 nettle
 net-tools
@@ -1762,6 +1793,9 @@ nfs4-acl-tools
 nfs-utils
 nhn-nanum-fonts-common
 nhn-nanum-gothic-fonts
+NLopt
+NLopt-devel
+NLopt-doc
 nmap
 nmap-ncat
 nm-connection-editor
@@ -1800,6 +1834,7 @@ openal-soft
 openblas
 openblas-openmp
 openblas-Rblas
+openblas-threads
 openbox
 openbox-debuginfo
 openbox-devel
@@ -2033,13 +2068,27 @@ php74-php-common
 php74-php-json
 php74-php-xml
 php74-runtime
+php80
+php80-php-bcmath
+php80-php-cli
+php80-php-common
+php80-php-devel
+php80-php-fpm
+php80-php-gd
+php80-php-mbstring
+php80-php-mysqlnd
+php80-php-pdo
+php80-php-pear
+php80-php-pecl-zip
+php80-php-process
+php80-php-xml
+php80-runtime
 php-cli
 php-common
 php-doctrine-instantiator
 php-fedora-autoloader
 php-gd
 php-intl
-php-json
 php-mbstring
 php-mysqlnd
 php-opcache
@@ -2131,6 +2180,7 @@ portaudio
 portaudio-devel
 postfix
 postgresql-jdbc
+postgresql-libs
 ppp
 pptp
 procps-ng
@@ -2392,6 +2442,7 @@ rpmforge-release
 rpm-libs
 rpm-python
 rpm-sign
+rrdtool
 rstudio
 rstudio-server
 rsync
@@ -2454,6 +2505,7 @@ shapelib
 shared-desktop-ontologies
 shared-mime-info
 shim-x64
+shiny-server
 sil-abyssinica-fonts
 sil-nuosu-fonts
 sil-padauk-fonts
@@ -2483,6 +2535,7 @@ spice-streaming-agent
 spice-vdagent
 sqlite
 sqlite-devel
+ssdeep-libs
 sssd
 sssd-ad
 sssd-client
@@ -2788,6 +2841,7 @@ tk
 tk-devel
 tkinter
 tmux
+tokyocabinet
 tomcat-servlet-3.0-api
 totem
 totem-nautilus
@@ -2845,6 +2899,7 @@ uuid
 v8
 v8-devel
 valgrind
+varnish-libs
 vim-common
 vim-enhanced
 vim-filesystem
