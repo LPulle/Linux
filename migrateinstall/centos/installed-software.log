@@ -2603,7 +2603,6 @@ tcp_wrappers-libs
 tcsh
 tdb-tools
 teamd
-teams
 telepathy-farstream
 telepathy-filesystem
 telepathy-gabble
