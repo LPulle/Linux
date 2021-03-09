@@ -891,7 +891,6 @@ iwl6000g2a-firmware
 iwl6000g2b-firmware
 iwl6050-firmware
 iwl7260-firmware
-iwl7265-firmware
 jack-audio-connection-kit
 jansson
 jasper-devel
@@ -2275,6 +2274,7 @@ python3-jinja2-doc
 python3-libs
 python3-pip
 python3-setuptools
+python3-templated-dictionary
 python3-tkinter
 python-audioread
 python-augeas

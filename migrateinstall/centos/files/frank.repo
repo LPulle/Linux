@@ -1,0 +1,10 @@
+[frank]
+name=CentOS $releasever - $basearch - Frank
+baseurl=http://repo.iotti.biz/Frank/$releasever
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-LUX
+# Frank should be manually enabled
+enabled=0
+# Frank packages should be explicitly included with includepkgs
+exclude=*
+
