@@ -12,7 +12,9 @@ asgiref
 asn1crypto
 astor
 astroid
+async-generator
 asyncio
+async-timeout
 atomicwrites
 attrs
 audioread
@@ -83,16 +85,19 @@ Flask
 fros
 funcsigs
 functools32
+funkify
 fusion-icon
 future
 futures
 gast
 gensim
 google-api-core
+googleapis-common-protos
 google-auth
 google-auth-oauthlib
 google-cloud-core
 google-cloud-storage
+google-crc32c
 google-pasta
 google-resumable-media
 grpcio
@@ -180,6 +185,7 @@ numpy
 oauthlib
 openpyxl
 opt-einsum
+packaging
 pandas
 pandasql
 pandocfilters
@@ -309,6 +315,7 @@ tabulate
 targetcli-fb
 tempora
 tensorboard
+tensorboard-plugin-wit
 termcolor
 terminado
 terminaltables

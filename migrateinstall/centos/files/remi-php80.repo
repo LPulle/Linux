@@ -6,7 +6,7 @@ name=Remi's PHP 8.0 RPM repository for Enterprise Linux 7 - $basearch
 #baseurl=http://rpms.remirepo.net/enterprise/7/php80/$basearch/
 #mirrorlist=https://rpms.remirepo.net/enterprise/7/php80/httpsmirror
 mirrorlist=http://cdn.remirepo.net/enterprise/7/php80/mirror
-enabled=0
+enabled=1
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-remi
 
