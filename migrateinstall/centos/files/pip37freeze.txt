@@ -99,6 +99,7 @@ pykickstart==3.32
 pyparsing==2.4.7
 pyramid==2.0
 pyRFC3339==1.1
+pyroute2==0.5.14
 pyrsistent==0.17.3
 pytest==6.2.2
 python-dateutil==2.8.1

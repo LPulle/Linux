@@ -234,7 +234,6 @@ install intel-openmp-32bit-19.0.5-281-19.0.5-281.x86_64
 install libcgroup-tools-0.41-21.el7.x86_64
 install python36-crypto-2.6.1-16.el7.x86_64
 install gpg-pubkey-23b66a9d-40912de3
-install nodejs-13.14.0-1nodesource.x86_64
 install libvorbis-1.3.3-8.el7.1.x86_64
 install rpm-4.11.3-45.el7.x86_64
 install pyparted-3.9-15.el7.x86_64
@@ -609,7 +608,6 @@ install libvpx-1.3.0-8.el7.x86_64
 install kde-baseapps-libs-4.10.5-6.el7.x86_64
 install texlive-mparhack-svn15878.1.4-45.el7.noarch
 install libmatroska-1.5.2-1.el7.x86_64
-install nodesource-release-el7-1.noarch
 install tcl-8.5.13-8.el7.x86_64
 install avahi-gobject-0.6.31-20.el7.x86_64
 install openssl11-libs-1.1.1g-2.el7.x86_64
@@ -1217,6 +1215,7 @@ install jline-1.0-8.el7.noarch
 install ethtool-4.8-10.el7.x86_64
 install libgpg-error-devel-1.12-3.el7.x86_64
 install ghc-template-haskell-2.8.0.0-26.4.el7.x86_64
+install nodesource-release-el7-1.noarch
 install mathjax-math-fonts-2.7.4-2.el7.noarch
 install hiredis-last-0.13.3-1.el7.remi.x86_64
 install fontconfig-2.13.0-4.3.el7.x86_64
@@ -1780,6 +1779,7 @@ install texlive-texconfig-svn29349.0-45.el7.noarch
 install mate-menus-1.16.0-1.el7.x86_64
 install gstreamer1-plugins-bad-freeworld-1.0.6-2.el7.nux.x86_64
 install libnl3-cli-3.2.28-4.el7.x86_64
+install nodejs-13.14.0-1nodesource.x86_64
 install libnl-1.1.4-3.el7.x86_64
 install xemacs-packages-base-el-20140715-1.el7.noarch
 install texlive-metafont-svn26689.2.718281-45.el7.noarch
