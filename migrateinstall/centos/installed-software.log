@@ -951,8 +951,6 @@ kde-workspace-libs
 kernel
 kernel
 kernel
-kernel
-kernel
 kernel-headers
 kernel-ml
 kernel-tools
@@ -1621,6 +1619,7 @@ luajit
 lux-release
 lvm2
 lvm2-libs
+lynis
 lynx
 lz4
 lz4
@@ -1726,6 +1725,9 @@ mock-core-configs
 mock-filesystem
 ModemManager
 ModemManager-glib
+mod_evasive
+mod_security
+mod_security_crs
 mokutil
 mousetweaks
 mozilla-filesystem
@@ -2453,6 +2455,7 @@ rhino
 rhythmbox
 R-java
 R-java-devel
+rkhunter
 rng-tools
 rootfiles
 rpcbind
