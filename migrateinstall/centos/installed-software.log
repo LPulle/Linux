@@ -2980,7 +2980,6 @@ vlc
 vlc-core
 vlc-debuginfo
 vlc-devel
-vlc-extras
 vlc-plugin-jack
 vlgothic-fonts
 vo-amrwbenc

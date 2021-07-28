@@ -169,6 +169,7 @@ mccabe
 mistune
 mock
 more-itertools
+mssql-scripter
 multidict
 nbclient
 nbconvert
