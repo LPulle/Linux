@@ -1,5 +1,5 @@
+install rhash-1.3.4-2.el7.x86_64
 install libwpd-0.10.0-2.el7.x86_64
-install php-cli-8.0.8-1.el7.remi.x86_64
 install grubby-8.28-26.el7.x86_64
 install bridge-utils-1.5-9.el7.x86_64
 install libgeotiff-1.4.0-1.el6.x86_64
@@ -8,6 +8,7 @@ install gpg-pubkey-33d40bc6-55e8543d
 install opencv-2.4.5-3.el7.x86_64
 install pkgconfig-0.27.1-4.el7.x86_64
 install rstudio-server-1.3.1093-1.x86_64
+install devtoolset-10-elfutils-debuginfod-client-0.182-3.el7.x86_64
 install gstreamer1-plugins-bad-free-gtk-1.10.4-3.el7.x86_64
 install pciutils-3.5.1-3.el7.x86_64
 install caribou0-0.4.21-26.el7.x86_64
@@ -92,7 +93,7 @@ install keyutils-libs-1.5.8-3.el7.x86_64
 install python2-future-0.18.2-2.el7.noarch
 install libreoffice-calc-5.3.6.1-25.el7_9.x86_64
 install libglvnd-devel-1.0.1-0.8.git5baa1e5.el7.x86_64
-install php-common-8.0.8-1.el7.remi.x86_64
+install php-common-8.0.9-1.el7.remi.x86_64
 install perl-macros-5.16.3-299.el7_9.x86_64
 install perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64
 install smc-meera-fonts-6.0-7.el7.noarch
@@ -105,6 +106,7 @@ install rdate-1.4-25.el7.x86_64
 install apr15u-util-1.5.4-3.ius.el7.x86_64
 install python36-six-1.14.0-3.el7.noarch
 install python-augeas-0.5.0-2.el7.noarch
+install devtoolset-7-libstdc++-devel-7.3.1-5.16.el7.x86_64
 install man-pages-3.53-5.el7.noarch
 install libXtst-1.2.3-1.el7.i686
 install smc-fonts-common-6.0-7.el7.noarch
@@ -184,6 +186,7 @@ install nhn-nanum-fonts-common-3.020-9.el7.noarch
 install remmina-plugins-nx-1.4.18-1.el7.x86_64
 install mate-media-1.16.0-1.el7.x86_64
 install ntsysv-1.7.6-1.el7.x86_64
+install php80-php-pdo-8.0.9-1.el7.remi.x86_64
 install texlive-fix2col-svn17133.0-45.el7.noarch
 install boost-filesystem-1.53.0-28.el7.x86_64
 install m17n-db-1.6.4-4.el7.noarch
@@ -191,10 +194,10 @@ install htop-2.2.0-3.el7.x86_64
 install setools-3.3.8-4.el7.x86_64
 install keybinder-0.3.1-1.el7.x86_64
 install perl-HTTP-Message-6.06-6.el7.noarch
-install php80-php-bcmath-8.0.8-1.el7.remi.x86_64
 install lohit-tamil-fonts-2.5.3-2.el7.noarch
 install systemtap-sdt-devel-4.0-13.el7.x86_64
 install gnome-desktop-debuginfo-2.32.0-13.el7.nux.x86_64
+install devtoolset-7-gcc-gfortran-7.3.1-5.16.el7.x86_64
 install texlive-breakurl-svn15878.1.30-45.el7.noarch
 install libbase-1.1.3-10.el7.noarch
 install libglvnd-egl-1.0.1-0.8.git5baa1e5.el7.x86_64
@@ -285,6 +288,7 @@ install gpg-pubkey-62e74ca5-539c878e
 install telepathy-haze-0.8.0-1.el7.x86_64
 install abrt-addon-pstoreoops-2.1.11-60.el7.centos.x86_64
 install xorg-x11-fonts-100dpi-7.5-9.el7.noarch
+install rh-python36-2.0-1.el7.x86_64
 install doxygen-1.8.5-4.el7.x86_64
 install numad-0.5-18.20150602git.el7.x86_64
 install wvdial-1.61-9.el7.x86_64
@@ -292,6 +296,7 @@ install mate-screensaver-1.16.1-1.el7.x86_64
 install xml-commons-apis-1.4.01-16.el7.noarch
 install libinput-1.10.7-2.el7.x86_64
 install openssh-clients-7.4p1-21.el7.x86_64
+install php-cli-8.0.9-1.el7.remi.x86_64
 install subversion-gnome-1.7.14-16.el7.x86_64
 install perl-Module-CoreList-2.76.02-299.el7_9.noarch
 install redland-1.0.16-6.el7.x86_64
@@ -303,6 +308,7 @@ install libtermkey-0.20-4.el7.x86_64
 install python-lxml-3.2.1-4.el7.x86_64
 install avalon-logkit-2.1-14.el7.noarch
 install ccsm-0.8.4-16.el7.nux.noarch
+install devtoolset-7-gcc-c++-7.3.1-5.16.el7.x86_64
 install hdf5-1.8.12-12.el7.x86_64
 install texlive-luatexbase-svn22560.0.31-45.el7.noarch
 install iwl5000-firmware-8.83.5.1_1-80.el7_9.noarch
@@ -319,7 +325,6 @@ install libwinpr-2.1.1-2.el7.x86_64
 install texlive-pdfpages-svn27574.0.4t-45.el7.noarch
 install xorg-x11-drv-dummy-0.3.7-1.el7.1.x86_64
 install gpg-pubkey-00f97f56-467e318a
-install nodejs-14.17.2-1nodesource.x86_64
 install cairomm-1.12.0-1.el7.x86_64
 install alsa-lib-devel-1.1.8-1.el7.x86_64
 install libvirt-glib-1.0.0-1.el7.x86_64
@@ -381,6 +386,7 @@ install fontpackages-filesystem-1.44-8.el7.noarch
 install gt5-1.4.0-12.gf.el6.noarch
 install remmina-plugins-exec-1.4.18-1.el7.x86_64
 install urw-base35-fonts-common-20170801-10.el7.noarch
+install scl-utils-build-20130529-19.el7.x86_64
 install gpm-libs-1.20.7-6.el7.x86_64
 install w3c-libwww-apps-5.4.1-0.25.20060206cvs.el7.nux.x86_64
 install texlive-ifluatex-svn26725.1.3-45.el7.noarch
@@ -392,6 +398,7 @@ install perl-5.16.3-299.el7_9.x86_64
 install python-ply-3.4-11.el7.noarch
 install subversion-javahl-1.7.14-16.el7.x86_64
 install words-3.0-22.el7.noarch
+install php80-php-mysqlnd-8.0.9-1.el7.remi.x86_64
 install mythes-1.2.3-7.el7.x86_64
 install eom-1.16.1-1.el7.x86_64
 install nepomuk-core-4.10.5-6.el7.x86_64
@@ -406,6 +413,7 @@ install texlive-pst-tree-svn24142.1.12-45.el7.noarch
 install osinfo-db-20200529-1.el7.noarch
 install hicolor-icon-theme-0.12-7.el7.noarch
 install nx-libs-3.5.99.26-1.el7.x86_64
+install java-1.8.0-openjdk-headless-1.8.0.302.b08-0.el7_9.x86_64
 install libserializer-1.1.2-10.el7.noarch
 install gpg-pubkey-baadae52-49beffa4
 install xz-devel-5.2.2-1.el7.x86_64
@@ -491,9 +499,9 @@ install icedax-1.1.11-25.el7.x86_64
 install iw-4.3-2.el7.x86_64
 install gnome-documents-libs-3.28.2-2.el7.x86_64
 install gnome-packagekit-updater-3.28.0-1.el7.x86_64
+install rh-python36-python-libs-3.6.12-1.el7.x86_64
 install urw-base35-z003-fonts-20170801-10.el7.noarch
 install fusioninventory-agent-task-deploy-2.3.21-3.el7.noarch
-install java-1.8.0-openjdk-devel-1.8.0.292.b10-1.el7_9.x86_64
 install libsmi-0.4.8-13.el7.x86_64
 install ppp-2.4.5-34.el7_7.x86_64
 install urw-base35-c059-fonts-20170801-10.el7.noarch
@@ -502,9 +510,9 @@ install perl-NKF-2.1.3-5.el7.x86_64
 install libwps-0.4.7-1.el7.x86_64
 install liberation-fonts-common-1.07.2-16.el7.noarch
 install texlive-mfnfss-svn19410.0-45.el7.noarch
+install php80-php-xml-8.0.9-1.el7.remi.x86_64
 install lshw-2.17-1.el7.rf.x86_64
 install abrt-java-connector-1.0.6-12.el7.x86_64
-install php80-php-xml-8.0.8-1.el7.remi.x86_64
 install xcb-util-keysyms-0.4.0-1.el7.x86_64
 install lash-0.5.4-26.el7.x86_64
 install lohit-kannada-fonts-2.5.3-3.el7.noarch
@@ -515,6 +523,7 @@ install yum-plugin-priorities-1.1.31-54.el7_8.noarch
 install libfonts-1.1.3-13.el7.noarch
 install kbd-legacy-1.15.5-15.el7.noarch
 install texlive-bera-svn20031.0-45.el7.noarch
+install flatpak-libs-1.0.9-11.el7_9.x86_64
 install iwl100-firmware-39.31.5.1-80.el7_9.noarch
 install kernel-tools-libs-3.10.0-1062.4.1.el7.x86_64
 install python-di-0.3-2.el7.noarch
@@ -608,7 +617,7 @@ install qt5-qtbase-common-5.9.7-5.el7_9.noarch
 install lcms2-2.6-3.el7.x86_64
 install perl-Locale-Maketext-Simple-0.21-299.el7_9.noarch
 install pth-2.0.7-23.el7.x86_64
-install php-tidy-8.0.8-1.el7.remi.x86_64
+install php80-php-gd-8.0.9-1.el7.remi.x86_64
 install libvisio-0.1.6-1.el7.x86_64
 install mate-calc-1.8.0-1.el7.x86_64
 install paps-libs-0.6.8-28.el7.1.x86_64
@@ -620,6 +629,7 @@ install tcl-8.5.13-8.el7.x86_64
 install avahi-gobject-0.6.31-20.el7.x86_64
 install php-phpunit-File-Iterator-1.4.0-1.el7.noarch
 install perl-Params-Check-0.38-2.el7.noarch
+install nodejs-14.17.5-1nodesource.x86_64
 install srvadmin-xmlsup-10.1.0.0-4561.18274.el7.x86_64
 install kernel-headers-3.10.0-1062.4.1.el7.x86_64
 install iwl6000-firmware-9.221.4.1-80.el7_9.noarch
@@ -706,10 +716,10 @@ install texlive-chngcntr-svn17157.1.0a-45.el7.noarch
 install libtidyp-1.02-11.el7.x86_64
 install qpdf-libs-5.0.1-4.el7.x86_64
 install setserial-2.17-33.el7.x86_64
-install php-process-8.0.8-1.el7.remi.x86_64
 install xml-commons-resolver-1.2-15.el7.noarch
 install patch-2.7.1-12.el7_7.x86_64
 install libverto-tevent-0.2.5-4.el7.x86_64
+install php-process-8.0.9-1.el7.remi.x86_64
 install kde-runtime-drkonqi-4.10.5-11.el7.x86_64
 install python3-pip-9.0.3-8.el7.noarch
 install gpg-pubkey-4b274df2-5c17ce56
@@ -809,13 +819,13 @@ install subversion-1.7.14-16.el7.x86_64
 install gjs-1.52.5-1.el7_6.x86_64
 install libwpg-0.3.0-1.el7.x86_64
 install libusbx-1.0.21-1.el7.x86_64
-install php-xml-8.0.8-1.el7.remi.x86_64
 install color-filesystem-1-13.el7.noarch
 install overpass-fonts-2.1-1.el7.noarch
 install NetworkManager-openvpn-1.8.10-1.el7.x86_64
 install python-backports-ssl_match_hostname-3.5.0.1-1.el7.noarch
 install evince-3.28.2-10.el7.x86_64
 install compiz-devel-0.8.8-27.el7.nux.x86_64
+install php-soap-8.0.9-1.el7.remi.x86_64
 install tre-devel-0.8.0-18.20140228gitc2f5d13.el7.x86_64
 install libmpc-1.0.1-3.el7.x86_64
 install empathy-3.12.13-1.el7.x86_64
@@ -823,7 +833,6 @@ install libRmath-3.6.0-1.el7.x86_64
 install texlive-thumbpdf-bin-svn6898.0-45.20130427_r30134.el7.noarch
 install pentaho-libxml-1.1.3-10.el7.noarch
 install libglvnd-gles-1.0.1-0.8.git5baa1e5.el7.x86_64
-install code-1.58.2-1626302881.el8.x86_64
 install php-sebastian-recursion-context-1.0.2-1.el7.noarch
 install php-symfony-filesystem-2.8.12-2.el7.noarch
 install iwl3160-firmware-25.30.13.0-80.el7_9.noarch
@@ -900,7 +909,6 @@ install centos-release-scl-2-3.el7.centos.noarch
 install fann-2.2.0-6.el7.x86_64
 install texlive-fancyhdr-svn15878.3.1-45.el7.noarch
 install unzip-6.0-22.el7_9.x86_64
-install java-1.8.0-openjdk-headless-1.8.0.292.b10-1.el7_9.x86_64
 install adcli-0.8.1-16.el7_9.1.x86_64
 install rhythmbox-3.4.2-2.el7.x86_64
 install kdepimlibs-kxmlrpcclient-4.10.5-4.el7.x86_64
@@ -916,6 +924,7 @@ install adobe-release-x86_64-1.0-1.noarch
 install caja-image-converter-1.16.0-1.el7.x86_64
 install flute-1.3.0-11.OOo31.el7.noarch
 install subversion-devel-1.7.14-16.el7.x86_64
+install php-mysqlnd-8.0.9-1.el7.remi.x86_64
 install xorg-x11-fonts-75dpi-7.5-9.el7.noarch
 install oxygen-icon-theme-4.10.5-2.el7.noarch
 install subversion-python-1.7.14-16.el7.x86_64
@@ -929,6 +938,7 @@ install xorg-x11-apps-7.7-7.el7.x86_64
 install libpagemaker-0.0.3-1.el7.x86_64
 install php80-php-pecl-zip-1.19.3-2.el7.remi.x86_64
 install lua-bit32-5.3.0-2.el7.x86_64
+install php-intl-8.0.9-1.el7.remi.x86_64
 install pygtk2-2.24.0-9.el7.x86_64
 install vlc-plugin-jack-2.2.8-1.el7.nux.x86_64
 install libpciaccess-0.14-1.el7.x86_64
@@ -941,6 +951,7 @@ install tar-1.26-35.el7.x86_64
 install avalon-framework-4.3-10.el7.noarch
 install rxvt-unicode-9.21-4.el7.x86_64
 install libXxf86misc-1.0.3-7.1.el7.x86_64
+install devtoolset-10-gcc-10.2.1-11.1.el7.x86_64
 install redhat-menus-12.0.2-8.el7.noarch
 install xmlsec1-1.2.20-7.el7_4.x86_64
 install stoken-libs-0.92-1.el7.x86_64
@@ -971,7 +982,6 @@ install cowsay-3.04-4.el7.noarch
 install cinnamon-settings-daemon-3.6.2-3.el7.x86_64
 install xorg-x11-drv-evdev-2.10.6-1.el7.x86_64
 install libreport-plugin-reportuploader-2.1.11-53.el7.centos.x86_64
-install php80-php-pear-1.10.12-9.el7.remi.noarch
 install openbox-3.5.2-6.el7.x86_64
 install php-phpunit-PHPUnit-4.8.36-1.el7.noarch
 install iptables-1.4.21-35.el7.x86_64
@@ -1074,6 +1084,7 @@ install perl-Git-2.31.1-1.WANdisco.469.noarch
 install NetworkManager-openconnect-1.2.4-4.el7.x86_64
 install icoutils-0.31.3-1.el7_3.x86_64
 install nss-util-3.53.1-1.el7_9.x86_64
+install rh-python36-python-3.6.12-1.el7.x86_64
 install adobe-mappings-cmap-deprecated-20171205-3.el7.noarch
 install texlive-wasysym-svn15878.2.0-45.el7.noarch
 install libreoffice-emailmerge-5.3.6.1-25.el7_9.x86_64
@@ -1106,8 +1117,8 @@ install emacs-filesystem-24.3-23.el7.noarch
 install html401-dtds-4.01-19991224.12.el7.3.noarch
 install python-qrcode-core-5.0.1-1.el7.noarch
 install qimageblitz-0.0.6-7.el7.x86_64
-install php-sodium-8.0.8-1.el7.remi.x86_64
 install caja-open-terminal-1.16.0-1.el7.x86_64
+install php80-php-mbstring-8.0.9-1.el7.remi.x86_64
 install perl-Thread-Queue-3.02-2.el7.noarch
 install texlive-helvetic-svn28614.0-45.el7.noarch
 install ghostscript-cups-9.25-5.el7.x86_64
@@ -1115,9 +1126,9 @@ install mythes-en-3.0-13.el7.noarch
 install libdv-1.0.0-17.el7.x86_64
 install vlc-devel-2.2.8-1.el7.nux.x86_64
 install llvm-3.4.2-9.el7.x86_64
-install php80-php-process-8.0.8-1.el7.remi.x86_64
 install ruby-libs-2.0.0.648-36.el7.x86_64
 install neovim-0.3.0-2.el7.x86_64
+install devtoolset-10-elfutils-libelf-0.182-3.el7.x86_64
 install texlive-pst-3d-svn17257.1.10-45.el7.noarch
 install python2-pyasn1-modules-0.1.9-7.el7.noarch
 install postgresql-jdbc-9.2.1002-8.el7_8.noarch
@@ -1131,6 +1142,7 @@ install libRmath-devel-3.6.0-1.el7.x86_64
 install python-nss-0.16.0-3.el7.x86_64
 install python36-distro-1.2.0-3.el7.noarch
 install pcre2-utf16-10.23-2.el7.x86_64
+install flatpak-1.0.9-11.el7_9.x86_64
 install texlive-latex-svn27907.0-45.el7.noarch
 install pentaho-reporting-flow-engine-0.9.4-8.el7.noarch
 install sane-backends-libs-1.0.24-12.el7.x86_64
@@ -1255,6 +1267,7 @@ install libidn2-2.3.1-1.el7.x86_64
 install perl-Module-Load-Conditional-0.54-3.el7.noarch
 install texlive-zapfding-svn28614.0-45.el7.noarch
 install setools-libs-3.3.8-4.el7.x86_64
+install rh-python36-runtime-2.0-1.el7.x86_64
 install fusioninventory-agent-2.3.21-3.el7.x86_64
 install perl-HTML-Tagset-3.20-15.el7.noarch
 install gnome-initial-setup-3.28.0-2.el7.x86_64
@@ -1289,6 +1302,7 @@ install libtiff-devel-4.0.3-35.el7.x86_64
 install flite-1.3-22.el7.x86_64
 install nss-pem-1.0.3-7.el7.x86_64
 install libogg-1.3.0-7.el7.x86_64
+install cmake3-data-3.17.5-1.el7.noarch
 install rarian-0.8.1-11.el7.x86_64
 install urw-base35-fonts-20170801-10.el7.noarch
 install wqy-zenhei-fonts-0.9.46-11.el7.noarch
@@ -1300,13 +1314,14 @@ install mate-search-tool-1.16.1-2.el7.x86_64
 install libetonyek-0.1.7-1.el7.x86_64
 install perl-SGML-Parser-OpenSP-0.994-16.el7.x86_64
 install pango-devel-1.42.4-4.el7_7.x86_64
+install php80-php-process-8.0.9-1.el7.remi.x86_64
 install python-dns-1.12.0-4.20150617git465785f.el7.noarch
 install anaconda-tui-21.48.22.159-1.el7.centos.x86_64
-install php80-php-common-8.0.8-1.el7.remi.x86_64
 install kde-baseapps-4.10.5-6.el7.x86_64
 install evolution-data-server-3.28.5-5.el7.x86_64
 install texlive-pst-grad-svn15878.1.06-45.el7.noarch
 install libexttextcat-3.4.1-3.el7.x86_64
+install devtoolset-7-runtime-7.1-4.el7.x86_64
 install guake-0.8.7-1.el7.noarch
 install python2-caribou0-0.4.21-26.el7.noarch
 install R-java-devel-3.6.0-1.el7.x86_64
@@ -1315,6 +1330,7 @@ install texlive-xunicode-svn23897.0.981-45.el7.noarch
 install vlgothic-fonts-20130607-2.el7.noarch
 install libXt-devel-1.1.5-3.el7.x86_64
 install liblayout-0.2.10-8.el7.noarch
+install java-1.8.0-openjdk-devel-1.8.0.302.b08-0.el7_9.x86_64
 install php-phpunit-Version-1.0.5-1.el7.noarch
 install ncurses-libs-5.9-14.20130511.el7_4.x86_64
 install srvadmin-hapi-10.1.0.0-4561.18274.el7.x86_64
@@ -1480,6 +1496,7 @@ install libreoffice-math-5.3.6.1-25.el7_9.x86_64
 install nss-softokn-freebl-3.53.1-6.el7_9.i686
 install xcb-util-0.4.0-2.el7.x86_64
 install redland-virtuoso-1.0.16-6.el7.x86_64
+install php80-php-common-8.0.9-1.el7.remi.x86_64
 install docbook-style-xsl-1.78.1-3.el7.noarch
 install sac-1.3-17.el7.noarch
 install engrampa-1.16.1-1.el7.x86_64
@@ -1487,10 +1504,10 @@ install libnice-0.1.3-4.el7.x86_64
 install texlive-pst-math-svn20176.0.61-45.el7.noarch
 install accountsservice-libs-0.6.50-7.el7.x86_64
 install rubygems-2.0.14.1-36.el7.noarch
-install php-opcache-8.0.8-1.el7.remi.x86_64
 install wireshark-1.10.14-25.el7.x86_64
 install tagsoup-1.2.1-8.el7.noarch
 install bwidget-1.9.0-6.el7.noarch
+install php-mbstring-8.0.9-1.el7.remi.x86_64
 install libnfnetlink-1.0.1-4.el7.x86_64
 install libzmf-0.0.2-1.el7.x86_64
 install ius-release-2-1.el7.ius.noarch
@@ -1500,8 +1517,8 @@ install plymouth-plugin-label-0.8.9-0.34.20140113.el7.centos.x86_64
 install ustr-1.0.4-16.el7.x86_64
 install gpg-pubkey-34fa74dd-540237d4
 install perl-Storable-2.45-3.el7.x86_64
-install php80-php-gd-8.0.8-1.el7.remi.x86_64
 install libverto-0.2.5-4.el7.i686
+install devtoolset-7-gcc-7.3.1-5.16.el7.x86_64
 install libtimezonemap-0.4.4-1.el7.x86_64
 install apache-commons-logging-1.1.2-7.el7.noarch
 install python36-chardet-3.0.4-1.el7.noarch
@@ -1514,6 +1531,7 @@ install dia-0.97.3-16.el7.x86_64
 install srvadmin-omacs-10.1.0.0-4561.18274.el7.x86_64
 install phonon-4.6.0-10.el7.x86_64
 install php-phpunit-PHP-Invoker-1.1.3-6.el7.noarch
+install php80-php-pear-1.10.13-1.el7.remi.noarch
 install python-urllib3-1.10.2-7.el7.noarch
 install texlive-currfile-svn29012.0.7b-45.el7.noarch
 install nautilus-3.26.3.1-7.el7.x86_64
@@ -1679,8 +1697,8 @@ install system-config-kdump-2.0.13-21.el7.centos.noarch
 install subversion-libs-1.7.14-16.el7.x86_64
 install texlive-etex-svn22198.2.1-45.el7.noarch
 install parallel-20160222-1.el7.noarch
+install php-pdo-8.0.9-1.el7.remi.x86_64
 install mate-screenshot-1.16.1-2.el7.x86_64
-install php-mbstring-8.0.8-1.el7.remi.x86_64
 install tcl-devel-8.5.13-8.el7.x86_64
 install libpinyin-0.9.93-4.el7.x86_64
 install libxklavier-5.4-7.el7.x86_64
@@ -1688,10 +1706,10 @@ install xerces-j2-2.11.0-17.el7_0.noarch
 install xkeyboard-config-2.24-1.el7.noarch
 install anaconda-widgets-21.48.22.159-1.el7.centos.x86_64
 install texlive-sepnum-svn20186.2.0-45.el7.noarch
+install php-opcache-8.0.9-1.el7.remi.x86_64
 install libXpm-3.5.12-1.el7.i686
 install python3-setuptools-39.2.0-10.el7.noarch
 install libebml-1.3.9-1.el7.x86_64
-install php80-php-mbstring-8.0.8-1.el7.remi.x86_64
 install gstreamer-tools-0.10.36-7.el7.x86_64
 install gnome-python2-gconf-2.28.1-14.el7.x86_64
 install javamail-1.4.6-8.el7.noarch
@@ -1699,6 +1717,7 @@ install kbd-misc-1.15.5-15.el7.noarch
 install groff-base-1.22.2-8.el7.x86_64
 install texlive-thumbpdf-svn26689.3.15-45.el7.noarch
 install wavpack-4.60.1-9.el7.x86_64
+install devtoolset-7-gcc-plugin-devel-7.3.1-5.16.el7.x86_64
 install geoipupdate-2.5.0-1.el7.x86_64
 install aspell-0.60.6.1-9.el7.x86_64
 install srvadmin-omilcore-10.1.0.0-4561.18274.el7.x86_64
@@ -1840,6 +1859,7 @@ install gnu-free-sans-fonts-20120503-8.el7.noarch
 install yum-plugin-replace-0.2.7-1.ius.el7.noarch
 install remmina-plugins-secret-1.4.18-1.el7.x86_64
 install libreoffice-graphicfilter-5.3.6.1-25.el7_9.x86_64
+install rh-python36-python-virtualenv-15.1.0-3.el7.noarch
 install librevenge-0.0.2-2.el7.x86_64
 install clutter-gtk-1.8.4-1.el7.x86_64
 install zziplib-0.13.62-12.el7.x86_64
@@ -1880,6 +1900,7 @@ install urw-base35-gothic-fonts-20170801-10.el7.noarch
 install perl-libs-5.16.3-299.el7_9.x86_64
 install pypy-libs-5.0.1-3.el7.x86_64
 install lohit-assamese-fonts-2.5.3-2.el7.noarch
+install php-8.0.9-1.el7.remi.x86_64
 install subversion-tools-1.7.14-16.el7.x86_64
 install liblangtag-0.6.2-1.1.el7.x86_64
 install mate-system-log-1.16.1-2.el7.x86_64
@@ -1889,7 +1910,7 @@ install texlive-anysize-svn15878.0-45.el7.noarch
 install oddjob-0.31.5-4.el7.x86_64
 install dotconf-1.3-8.el7.x86_64
 install python-enum34-1.0.4-1.el7.noarch
-install php80-php-mysqlnd-8.0.8-1.el7.remi.x86_64
+install php-tidy-8.0.9-1.el7.remi.x86_64
 install python-netaddr-0.7.5-9.el7.noarch
 install apr15u-1.5.2-2.ius.el7.x86_64
 install libconfig-1.4.9-5.el7.x86_64
@@ -1902,6 +1923,7 @@ install libestr-0.1.9-2.el7.x86_64
 install libdwarf-20130207-4.el7.x86_64
 install php-phpunit-PHP-Timer-1.0.9-1.el7.noarch
 install gstreamer-0.10.36-7.el7.x86_64
+install devtoolset-10-binutils-2.35-5.el7.x86_64
 install p7zip-16.02-20.el7.x86_64
 install libXt-1.1.5-3.el7.x86_64
 install librepository-1.1.3-9.el7.noarch
@@ -1937,7 +1959,6 @@ install perl-ExtUtils-ParseXS-3.18-3.el7.noarch
 install hamcrest-1.3-6.el7.noarch
 install lklug-fonts-0.6-10.20090803cvs.el7.noarch
 install libargon2-20161029-3.el7.x86_64
-install mock-2.11-1.el7.noarch
 install xorg-x11-drv-fbdev-0.5.0-1.el7.x86_64
 install python36-xapp-1.0.1-9.el7.noarch
 install libopenraw-0.0.9-7.el7.x86_64
@@ -2039,6 +2060,7 @@ install libreoffice-pyuno-5.3.6.1-25.el7_9.x86_64
 install texlive-section-svn20180.0-45.el7.noarch
 install sqlite-3.7.17-8.el7_7.1.x86_64
 install adobe-mappings-cmap-20171205-3.el7.noarch
+install rh-python36-python-setuptools-36.5.0-1.el7.noarch
 install mate-dictionary-1.16.1-2.el7.x86_64
 install expat-devel-2.1.0-12.el7.x86_64
 install boost-program-options-1.53.0-28.el7.x86_64
@@ -2051,7 +2073,6 @@ install rpcbind-0.2.0-49.el7.x86_64
 install freetype-2.8-14.el7_9.1.i686
 install lz4-1.8.3-1.el7.i686
 install gvnc-0.7.0-3.el7.x86_64
-install flatpak-1.0.9-10.el7_9.x86_64
 install python-brlapi-0.6.0-16.el7.x86_64
 install vte-profile-0.52.4-1.el7.x86_64
 install konsole-4.10.5-5.el7.x86_64
@@ -2072,11 +2093,11 @@ install NetworkManager-vpnc-gnome-1.2.6-1.el7.x86_64
 install wqy-microhei-fonts-0.2.0-0.12.beta.el7.noarch
 install urw-base35-nimbus-sans-fonts-20170801-10.el7.noarch
 install libXdamage-devel-1.1.4-4.1.el7.x86_64
-install php-8.0.8-1.el7.remi.x86_64
 install perl-ExtUtils-Install-1.58-299.el7_9.noarch
 install liborcus-0.12.1-2.el7.x86_64
 install lockdev-1.0.4-0.13.20111007git.el7.x86_64
 install lcms2-2.6-3.el7.i686
+install php80-php-devel-8.0.9-1.el7.remi.x86_64
 install ghostscript-9.25-5.el7.x86_64
 install texlive-parskip-svn19963.2.0-45.el7.noarch
 install mate-backgrounds-1.16.0-1.el7.noarch
@@ -2084,11 +2105,11 @@ install mesa-libGLU-9.0.0-4.el7.x86_64
 install iotop-0.6-4.el7.noarch
 install llvm-libs-3.4.2-9.el7.x86_64
 install opencv-core-2.4.5-3.el7.x86_64
-install php80-php-pdo-8.0.8-1.el7.remi.x86_64
 install libfreehand-0.1.1-1.el7.x86_64
 install flac-libs-1.3.0-5.el7_1.x86_64
 install xorg-x11-fonts-ISO8859-14-100dpi-7.5-9.el7.noarch
 install libvterm-0-0.2.bzr681.el7.x86_64
+install devtoolset-10-runtime-10.1-0.el7.x86_64
 install strigi-libs-0.7.7-13.20120626.el7.x86_64
 install texlive-pst-coil-svn24020.1.06-45.el7.noarch
 install libmnl-1.0.3-7.el7.x86_64
@@ -2101,6 +2122,7 @@ install libXcomp-3.5.99.26-1.el7.x86_64
 install libloader-1.1.3-9.el7.noarch
 install dbus-glib-0.100-7.el7.x86_64
 install pygtk2-libglade-2.24.0-9.el7.x86_64
+install java-1.8.0-openjdk-1.8.0.302.b08-0.el7_9.x86_64
 install alpine-2.24-1.el7.x86_64
 install ldns-1.6.16-10.el7.x86_64
 install texlive-hyperref-svn28213.6.83m-45.el7.noarch
@@ -2225,10 +2247,10 @@ install mdadm-4.1-7.el7_9.x86_64
 install texlive-fpl-svn15878.1.002-45.el7.noarch
 install system-config-date-docs-1.0.11-4.el7.noarch
 install libdmx-1.1.3-3.el7.x86_64
-install java-1.8.0-openjdk-1.8.0.292.b10-1.el7_9.x86_64
 install libreoffice-gtk2-5.3.6.1-25.el7_9.x86_64
 install libsemanage-python-2.5-14.el7.x86_64
 install telepathy-farstream-0.6.0-5.el7.x86_64
+install rh-python36-python-pip-9.0.1-5.el7.noarch
 install nss-softokn-3.53.1-6.el7_9.x86_64
 install texlive-rcs-svn15878.0-45.el7.noarch
 install libdaemon-0.14-7.el7.x86_64
@@ -2275,9 +2297,9 @@ install gnome-getting-started-docs-3.28.2-1.el7.noarch
 install clutter-gst3-3.0.26-1.el7.x86_64
 install mate-disk-usage-analyzer-1.16.1-2.el7.x86_64
 install libgs-9.25-5.el7.x86_64
+install php80-php-fpm-8.0.9-1.el7.remi.x86_64
 install pango-1.42.4-4.el7_7.i686
 install xalan-j2-2.7.1-23.el7.noarch
-install php80-php-cli-8.0.8-1.el7.remi.x86_64
 install okay-release-1-3.el8.noarch
 install ncompress-4.2.4.4-3.1.el7_8.x86_64
 install ruby-devel-2.0.0.648-36.el7.x86_64
@@ -2288,6 +2310,7 @@ install gnome-shell-3.28.3-33.el7.x86_64
 install php-phpunit-Text-Template-1.2.0-5.el7.noarch
 install fftw-libs-double-3.3.3-8.el7.x86_64
 install brotli-1.0.7-5.el7.x86_64
+install mock-2.12-1.el7.noarch
 install qemu-guest-agent-2.12.0-3.el7.x86_64
 install srvadmin-isvc-10.1.0.0-4561.18274.el7.x86_64
 install php-symfony-finder-2.8.12-2.el7.noarch
@@ -2374,8 +2397,8 @@ install boost-iostreams-1.53.0-28.el7.x86_64
 install mate-terminal-1.16.3-2.el7.x86_64
 install geronimo-jms-1.1.1-19.el7.noarch
 install mobile-broadband-provider-info-1.20170310-1.el7.noarch
-install php-soap-8.0.8-1.el7.remi.x86_64
 install dvd+rw-tools-7.1-15.el7.x86_64
+install php80-php-bcmath-8.0.9-1.el7.remi.x86_64
 install plymouth-plugin-two-step-0.8.9-0.34.20140113.el7.centos.x86_64
 install totem-nautilus-3.26.2-1.el7.x86_64
 install mtools-4.0.18-5.el7.x86_64
@@ -2385,6 +2408,7 @@ install iwl2030-firmware-18.168.6.1-80.el7_9.noarch
 install chrome-gnome-shell-10.1-4.el7.x86_64
 install libformula-1.1.3-10.el7.noarch
 install srvadmin-omcommon-10.1.0.0-4561.18274.el7.x86_64
+install code-1.59.0-1628120127.el8.x86_64
 install php-phpunit-PHP-TokenStream-1.4.11-1.el7.noarch
 install mesa-khr-devel-18.3.4-12.el7_9.x86_64
 install cracklib-dicts-2.9.0-11.el7.x86_64
@@ -2471,10 +2495,10 @@ install iscsi-initiator-utils-6.2.0.874-20.el7_9.x86_64
 install subversion-ruby-1.7.14-16.el7.x86_64
 install libsepol-2.5-10.el7.i686
 install perl-devel-5.16.3-299.el7_9.x86_64
-install php-gd-8.0.8-1.el7.remi.x86_64
 install network-manager-applet-1.8.6-2.el7.x86_64
 install libuv-1.41.0-1.el7.x86_64
 install kde-runtime-libs-4.10.5-11.el7.x86_64
+install php-gd-8.0.9-1.el7.remi.x86_64
 install texlive-ntgclass-svn15878.0-45.el7.noarch
 install hunspell-en-US-0.20121024-6.el7.noarch
 install libmspub-0.1.2-1.el7.x86_64
@@ -2567,8 +2591,8 @@ install libtool-ltdl-2.4.2-22.el7_3.x86_64
 install texlive-palatino-svn28614.0-45.el7.noarch
 install libuuid-devel-2.23.2-65.el7_9.1.x86_64
 install hyperv-daemons-license-0-0.34.20180415git.el7.noarch
-install php-intl-8.0.8-1.el7.remi.x86_64
 install libcdr-0.1.4-1.el7.x86_64
+install php-xml-8.0.9-1.el7.remi.x86_64
 install python36-urllib3-1.25.6-2.el7.noarch
 install packages-microsoft-prod-1.0-1.el7.noarch
 install texlive-memoir-svn21638.3.6j_patch_6.0g-45.el7.noarch
@@ -2660,7 +2684,6 @@ install filezilla-3.7.4.1-1.el7.x86_64
 install mtr-0.85-7.el7.x86_64
 install libmbim-utils-1.14.2-1.el7.x86_64
 install cgdcbxd-1.0.2-7.el7.x86_64
-install php-mysqlnd-8.0.8-1.el7.remi.x86_64
 install openjpeg-libs-1.5.1-18.el7.i686
 install libvncserver-0.9.9-14.el7_8.1.x86_64
 install libusb-0.1.4-3.el7.x86_64
@@ -2763,7 +2786,6 @@ install nautilus-sendto-3.8.6-1.el7.x86_64
 install mesa-libxatracker-18.3.4-12.el7_9.x86_64
 install mate-settings-daemon-1.16.2-1.el7.x86_64
 install openbox-kde-3.5.2-6.el7.noarch
-install php-pdo-8.0.8-1.el7.remi.x86_64
 install perl-Time-Piece-1.20.1-299.el7_9.x86_64
 install subversion-perl-1.7.14-16.el7.x86_64
 install perl-Compress-Raw-Zlib-2.061-4.el7.x86_64
@@ -2772,6 +2794,7 @@ install clang-3.4.2-9.el7.x86_64
 install libcmis-0.5.1-2.el7.x86_64
 install texlive-pst-node-svn27799.1.25-45.el7.noarch
 install perl-Digest-SHA-5.85-4.el7.x86_64
+install devtoolset-10-elfutils-libs-0.182-3.el7.x86_64
 install libsrtp-1.4.4-11.20101004cvs.el7.x86_64
 install fipscheck-1.4.1-6.el7.x86_64
 install python36-markupsafe-0.23-3.el7.x86_64
@@ -2796,7 +2819,6 @@ install srvadmin-oslog-10.1.0.0-4561.18274.el7.x86_64
 install libuuid-2.23.2-65.el7_9.1.x86_64
 install NetworkManager-pptp-gnome-1.2.8-1.el7.x86_64
 install python3-3.6.8-18.el7.x86_64
-install flatpak-libs-1.0.9-10.el7_9.x86_64
 install gnome-disk-utility-3.28.3-1.el7.x86_64
 install ibus-m17n-1.3.4-13.el7.x86_64
 install librsvg2-2.40.20-1.el7.x86_64
@@ -2864,6 +2886,7 @@ install graphite2-1.3.10-1.el7_3.i686
 install libreoffice-langpack-en-5.3.6.1-25.el7_9.x86_64
 install libmpc-devel-1.0.1-3.el7.x86_64
 install texlive-beton-svn15878.0-45.el7.noarch
+install cmake3-3.17.5-1.el7.x86_64
 install rarian-compat-0.8.1-11.el7.x86_64
 install boost-system-1.53.0-28.el7.x86_64
 install mate-menus-preferences-category-menu-1.16.0-1.el7.x86_64
@@ -2877,6 +2900,7 @@ install xorg-x11-fonts-ISO8859-2-100dpi-7.5-9.el7.noarch
 install evolution-data-server-langpacks-3.28.5-5.el7.noarch
 install hostname-3.13-3.el7_7.1.x86_64
 install notify-python-0.1.1-28.el7.x86_64
+install devtoolset-7-binutils-2.28-11.el7.x86_64
 install caribou0-gtk2-module-0.4.21-26.el7.x86_64
 install python-idna-2.4-1.el7.noarch
 install log4j-1.2.17-16.el7_4.noarch
@@ -2967,6 +2991,7 @@ install pam-devel-1.1.8-23.el7.x86_64
 install pulseaudio-10.0-6.el7_9.x86_64
 install rkhunter-1.4.6-3.el7.noarch
 install libmwaw-0.3.5-1.el7.x86_64
+install php80-php-cli-8.0.9-1.el7.remi.x86_64
 install subversion-kde-1.7.14-16.el7.x86_64
 install caja-sendto-1.16.0-1.el7.x86_64
 install cheese-libs-3.28.0-1.el7.x86_64
@@ -2977,8 +3002,8 @@ install python-setuptools-0.9.8-7.el7.noarch
 install texlive-bookman-svn28614.0-45.el7.noarch
 install ruby-2.0.0.648-36.el7.x86_64
 install diffstat-1.58-1.el7.rfx.x86_64
-install php80-php-fpm-8.0.8-1.el7.remi.x86_64
 install pixman-0.34.0-1.el7.i686
+install devtoolset-7-libquadmath-devel-7.3.1-5.16.el7.x86_64
 install metacity-2.34.13-7.el7.x86_64
 install xorg-x11-xbitmaps-1.1.1-6.el7.noarch
 install php-symfony-common-2.8.12-2.el7.noarch
@@ -3060,6 +3085,7 @@ install mozo-1.16.0-1.el7.noarch
 install perl-Text-ParseWords-3.29-4.el7.noarch
 install libXt-1.1.5-3.el7.i686
 install python-backports-1.0-8.el7.x86_64
+install php-sodium-8.0.9-1.el7.remi.x86_64
 install openssh-server-7.4p1-21.el7.x86_64
 install perl-Pod-Escapes-1.04-299.el7_9.noarch
 install cdparanoia-libs-10.2-17.el7.x86_64
@@ -3069,13 +3095,13 @@ install kde-runtime-4.10.5-11.el7.x86_64
 install unibilium-2.0.0-1.el7.x86_64
 install libabw-0.1.1-2.el7.x86_64
 install telepathy-glib-0.24.1-1.el7.x86_64
-install php80-php-devel-8.0.8-1.el7.remi.x86_64
 install redhat-lsb-submod-security-4.1-27.el7.centos.1.x86_64
 install vte-0.28.2-10.el7.x86_64
 install fipscheck-lib-1.4.1-6.el7.x86_64
 install linux-firmware-20200421-80.git78c0348.el7_9.noarch
 install libXdamage-1.1.4-4.1.el7.i686
 install mutter-3.28.3-30.el7.x86_64
+install devtoolset-7-gcc-gdb-plugin-7.3.1-5.16.el7.x86_64
 install gimp-libs-2.8.22-1.el7.x86_64
 install nxproxy-3.5.99.26-1.el7.x86_64
 install jasper-libs-1.900.1-33.el7.i686
@@ -3161,4 +3187,5 @@ install game-music-emu-0.6.2-1.el7.x86_64
 install perl-XML-SAX-Base-1.08-7.el7.noarch
 install python-slip-0.4.0-4.el7.noarch
 install texlive-utopia-svn15878.0-45.el7.noarch
+install rh-python36-python-devel-3.6.12-1.el7.x86_64
 run
