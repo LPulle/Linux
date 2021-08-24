@@ -50,7 +50,9 @@ CherryPy
 chrome-gnome-shell
 cleanup
 Click
+cli-helpers
 colorama
+conda
 ConfigArgParse
 configobj
 configparser
@@ -91,6 +93,7 @@ future
 futures
 gast
 gensim
+ggplot
 google-api-core
 googleapis-common-protos
 google-auth
@@ -104,6 +107,7 @@ grpcio
 gssapi
 h5py
 huepy
+hug
 humanize
 hupper
 hyperlink
@@ -169,6 +173,7 @@ mccabe
 mistune
 mock
 more-itertools
+mssql-cli
 mssql-scripter
 multidict
 nbclient
@@ -201,12 +206,14 @@ perf
 pexpect
 pickleshare
 Pillow
+pip-review
 plaster
 plaster-pastedeploy
 pluggy
 ply
 policycoreutils-default-encoding
 portend
+pretty-cron
 prettytable
 prometheus-client
 prompt-toolkit
@@ -236,6 +243,8 @@ pyodbc
 PyPAM
 pyparsing
 pyparted
+PyQt5
+PyQt5-sip
 pyramid
 pyRFC3339
 pyroute2
@@ -259,6 +268,7 @@ python-linux-procfs
 python-meh
 python-nss
 python-slugify
+python-xapp
 python-yubico
 pytimeparse
 pytoml
@@ -294,6 +304,8 @@ schedutils
 scikit-learn
 scipy
 sckdump
+Scrapy
+seaborn
 selenium
 Send2Trash
 seobject
@@ -306,6 +318,7 @@ singledispatch
 six
 skll
 slip
+SLIP
 slip.dbus
 smart-open
 soupsieve
@@ -321,10 +334,12 @@ subscription-manager
 syspurpose
 tabulate
 targetcli-fb
+templated-dictionary
 tempora
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
+tensorflow-estimator
 termcolor
 terminado
 terminaltables
@@ -336,6 +351,7 @@ tqdm
 traitlets
 translationstring
 Twisted
+typed-ast
 typing
 typing-extensions
 tzlocal
