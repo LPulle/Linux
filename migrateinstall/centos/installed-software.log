@@ -332,6 +332,7 @@ devtoolset-10-elfutils-libs
 devtoolset-10-gcc
 devtoolset-10-gcc-c++
 devtoolset-10-gcc-gdb-plugin
+devtoolset-10-gcc-gfortran
 devtoolset-10-gcc-plugin-devel
 devtoolset-10-gdb-doc
 devtoolset-10-gdb-gdbserver
@@ -342,6 +343,7 @@ devtoolset-10-libgccjit-devel
 devtoolset-10-libgccjit-docs
 devtoolset-10-libitm-devel
 devtoolset-10-liblsan-devel
+devtoolset-10-libquadmath-devel
 devtoolset-10-libstdc++-devel
 devtoolset-10-libstdc++-docs
 devtoolset-10-libtsan-devel
@@ -459,6 +461,7 @@ exempi
 exiv2
 exiv2-libs
 exo
+ExpanDrive
 expat
 expat
 expat-devel
@@ -733,6 +736,7 @@ google-noto-sans-fonts
 gparted
 gperftools-libs
 gpgme
+gpg-pubkey
 gpg-pubkey
 gpg-pubkey
 gpg-pubkey
@@ -2499,6 +2503,8 @@ rarian-compat
 rasdaemon
 rasqal
 ratpoison
+rclone
+rclone-browser
 R-core
 R-core-devel
 rcs

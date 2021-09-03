@@ -1,0 +1,6 @@
+[expandrive]
+name=expandrive
+baseurl=https://packages.expandrive.com/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://packages.expandrive.com/keys/expandrive.asc
