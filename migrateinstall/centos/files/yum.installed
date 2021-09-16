@@ -825,6 +825,7 @@ install libisofs-1.2.8-4.el7.x86_64
 install dlib-19.22-1.el7.remi.x86_64
 install perl-Config-General-2.61-1.el7.noarch
 install gparted-0.33.0-1.el7.x86_64
+install libuv-1.42.0-2.el7.x86_64
 install open-sans-fonts-1.10-1.el7.noarch
 install lsof-4.87-6.el7.x86_64
 install libreoffice-draw-5.3.6.1-25.el7_9.x86_64
@@ -1364,7 +1365,6 @@ install tracker-1.10.5-8.el7.x86_64
 install texlive-xcolor-svn15878.2.11-45.el7.noarch
 install perl-Parse-EDID-1.0.7-1.el7.noarch
 install readline-static-6.2-11.el7.x86_64
-install firefox-78.13.0-2.el7.centos.x86_64
 install libsecret-0.18.6-1.el7.x86_64
 install srvadmin-smweb-10.1.0.0-4561.18274.el7.x86_64
 install cyrus-sasl-2.1.26-23.el7.x86_64
@@ -2547,7 +2547,6 @@ install subversion-ruby-1.7.14-16.el7.x86_64
 install libsepol-2.5-10.el7.i686
 install perl-devel-5.16.3-299.el7_9.x86_64
 install network-manager-applet-1.8.6-2.el7.x86_64
-install libuv-1.41.0-1.el7.x86_64
 install kde-runtime-libs-4.10.5-11.el7.x86_64
 install texlive-ntgclass-svn15878.0-45.el7.noarch
 install hunspell-en-US-0.20121024-6.el7.noarch
@@ -2636,6 +2635,7 @@ install ncdu-1.16-1.el7.x86_64
 install cdparanoia-10.2-17.el7.x86_64
 install python36-rfc3986-1.3.0-1.el7.noarch
 install git-2.31.1-1.WANdisco.469.x86_64
+install firefox-78.14.0-1.el7.centos.x86_64
 install nss-softokn-freebl-3.53.1-6.el7_9.x86_64
 install cyrus-sasl-devel-2.1.26-23.el7.x86_64
 install texlive-fancybox-svn18304.1.4-45.el7.noarch
