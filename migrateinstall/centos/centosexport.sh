@@ -58,5 +58,15 @@ git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
 
+# Cleanup
+rm -f ~/yum.installed
+rm -f ~/pip2freeze.txt
+rm -f ~/pip3freeze.txt
+rm -f ~/pip37freeze.tx
+rm -f ~/pipfreezemerge.txt
+rm -f ~/pipfreezeinstall.txt
+rm -f ~/npmmodules.txt
+rm -f ~/*.repo
+
 # Copy all files created from the above to new install into ~/files
 # Also copy across any dot files you may want
