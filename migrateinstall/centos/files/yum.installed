@@ -927,6 +927,7 @@ install fann-2.2.0-6.el7.x86_64
 install texlive-fancyhdr-svn15878.3.1-45.el7.noarch
 install unzip-6.0-22.el7_9.x86_64
 install adcli-0.8.1-16.el7_9.1.x86_64
+install php81-php-common-8.1.0~rc2-1.el7.remi.x86_64
 install rhythmbox-3.4.2-2.el7.x86_64
 install kdepimlibs-kxmlrpcclient-4.10.5-4.el7.x86_64
 install nmap-ncat-6.40-19.el7.x86_64
@@ -1898,6 +1899,7 @@ install texlive-lua-alt-getopt-svn29349.0.7.0-45.el7.noarch
 install mate-system-monitor-1.16.0-2.el7.x86_64
 install gnu-free-sans-fonts-20120503-8.el7.noarch
 install yum-plugin-replace-0.2.7-1.ius.el7.noarch
+install php81-runtime-8.1-1.el7.remi.x86_64
 install remmina-plugins-secret-1.4.18-1.el7.x86_64
 install libreoffice-graphicfilter-5.3.6.1-25.el7_9.x86_64
 install rh-python36-python-virtualenv-15.1.0-3.el7.noarch
@@ -2105,6 +2107,7 @@ install libreoffice-pyuno-5.3.6.1-25.el7_9.x86_64
 install texlive-section-svn20180.0-45.el7.noarch
 install sqlite-3.7.17-8.el7_7.1.x86_64
 install adobe-mappings-cmap-20171205-3.el7.noarch
+install php81-8.1-1.el7.remi.x86_64
 install rh-python36-python-setuptools-36.5.0-1.el7.noarch
 install mate-dictionary-1.16.1-2.el7.x86_64
 install expat-devel-2.1.0-12.el7.x86_64
@@ -2733,6 +2736,7 @@ install libdnet-1.12-13.1.el7.x86_64
 install cdrdao-1.2.3-20.el7.x86_64
 install python-smbc-1.0.13-8.el7.x86_64
 install kernel-3.10.0-514.6.2.el7.x86_64
+install php81-php-cli-8.1.0~rc2-1.el7.remi.x86_64
 install sqlite-devel-3.7.17-8.el7_7.1.x86_64
 install media-player-info-17-4.el7.noarch
 install texlive-times-svn28614.0-45.el7.noarch

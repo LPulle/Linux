@@ -2187,6 +2187,10 @@ php80-php-pecl-zip
 php80-php-process
 php80-php-xml
 php80-runtime
+php81
+php81-php-cli
+php81-php-common
+php81-runtime
 php-cli
 php-common
 php-doctrine-instantiator
