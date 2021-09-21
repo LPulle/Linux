@@ -1107,6 +1107,7 @@ install icoutils-0.31.3-1.el7_3.x86_64
 install nss-util-3.53.1-1.el7_9.x86_64
 install rh-python36-python-3.6.12-1.el7.x86_64
 install adobe-mappings-cmap-deprecated-20171205-3.el7.noarch
+install shiny-server-1.5.16.1078-1.x86_64
 install texlive-wasysym-svn15878.2.0-45.el7.noarch
 install libreoffice-emailmerge-5.3.6.1-25.el7_9.x86_64
 install abrt-addon-xorg-2.1.11-60.el7.centos.x86_64
@@ -2075,7 +2076,6 @@ install xemacs-packages-extra-info-20140715-1.el7.noarch
 install perl-Tk-804.030-6.el7.x86_64
 install mathjax-winchrome-fonts-2.7.4-2.el7.noarch
 install exempi-2.2.0-9.el7.x86_64
-install shiny-server-1.5.16.958-1.x86_64
 install texlive-glyphlist-svn28576.0-45.el7.noarch
 install libgta-1.0.4-1.el7.x86_64
 install libX11-devel-1.6.7-4.el7_9.x86_64
