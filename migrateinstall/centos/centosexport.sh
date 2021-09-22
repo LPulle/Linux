@@ -60,9 +60,10 @@ git push #login to github
 
 # Cleanup
 rm -f ~/yum.installed
+rm -f ~/pipfreeze.txt
 rm -f ~/pip2freeze.txt
 rm -f ~/pip3freeze.txt
-rm -f ~/pip37freeze.tx
+rm -f ~/pip37freeze.txt
 rm -f ~/pipfreezemerge.txt
 rm -f ~/pipfreezeinstall.txt
 rm -f ~/npmmodules.txt

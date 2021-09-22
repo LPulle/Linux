@@ -1213,7 +1213,6 @@ install python2-pyasn1-0.1.9-7.el7.noarch
 install virtuoso-opensource-6.1.6-7.el7.x86_64
 install dmraid-events-1.0.0.rc16-28.el7.x86_64
 install openblas-0.3.3-2.el7.x86_64
-install mysql80-community-release-el7-3.noarch
 install librdmacm-22.4-6.el7_9.x86_64
 install python36-ruamel-yaml-0.13.14-2.el7.x86_64
 install libmpeg2-0.5.1-15.el7.x86_64
@@ -1290,7 +1289,6 @@ install mate-desktop-1.16.2-1.el7.x86_64
 install texlive-ncntrsbk-svn28614.0-45.el7.noarch
 install mysql-community-libs-compat-8.0.19-1.el7.x86_64
 install perl-Module-Load-Conditional-0.54-3.el7.noarch
-install gd-last-2.3.3-1.el7.remi.x86_64
 install texlive-zapfding-svn28614.0-45.el7.noarch
 install setools-libs-3.3.8-4.el7.x86_64
 install rh-python36-runtime-2.0-1.el7.x86_64
@@ -2843,6 +2841,7 @@ install selinux-policy-devel-3.13.1-268.el7_9.2.noarch
 install libreoffice-x11-5.3.6.1-25.el7_9.x86_64
 install texlive-pslatex-svn16416.0-45.el7.noarch
 install colord-1.3.4-2.el7.x86_64
+install gd-last-2.3.3-2.el7.remi.x86_64
 install mate-applets-1.16.0-2.el7.x86_64
 install nautilus-sendto-3.8.6-1.el7.x86_64
 install mesa-libxatracker-18.3.4-12.el7_9.x86_64
