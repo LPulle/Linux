@@ -424,6 +424,7 @@ dracut-config-rescue
 dracut-network
 dselect
 dvd+rw-tools
+dwarves
 dwz
 dyninst
 dzen2
@@ -439,6 +440,7 @@ elfutils
 elfutils-default-yama-scope
 elfutils-libelf
 elfutils-libelf
+elfutils-libelf-devel
 elfutils-libs
 elfutils-libs
 elgis-release
@@ -1053,6 +1055,7 @@ kernel
 kernel-debug-devel
 kernel-headers
 kernel-ml
+kernel-ml
 kernel-tools
 kernel-tools-libs
 kexec-tools
@@ -1195,6 +1198,7 @@ libdvdcss
 libdvdnav
 libdvdread
 libdwarf
+libdwarves1
 libebml
 libedit
 libepoxy

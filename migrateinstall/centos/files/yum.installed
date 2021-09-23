@@ -218,6 +218,7 @@ install abrt-retrace-client-2.1.11-60.el7.centos.x86_64
 install python2-six-1.9.0-0.el7.noarch
 install lzo-devel-2.06-8.el7.x86_64
 install srvadmin-server-snmp-10.1.0.0-4561.18274.el7.x86_64
+install elfutils-libelf-devel-0.176-5.el7.x86_64
 install mint-themes-gtk3-3.18+17-1.el7.noarch
 install libuuid-2.23.2-65.el7_9.1.i686
 install hypervkvpd-0-0.34.20180415git.el7.x86_64
@@ -987,6 +988,7 @@ install kernel-ml-5.3.8-1.el7.elrepo.x86_64
 install srvadmin-deng-snmp-10.1.0.0-4561.18274.el7.x86_64
 install perl-FusionInventory-Agent-2.3.21-3.el7.noarch
 install devtoolset-9-libquadmath-devel-9.3.1-2.2.el7.x86_64
+install dwarves-1.10-1.el7.x86_64
 install sgpio-1.2.0.10-13.el7.x86_64
 install texlive-l3packages-svn29361.SVN_4467-45.el7.noarch
 install brltty-4.5-16.el7.x86_64
@@ -1581,6 +1583,7 @@ install nautilus-3.26.3.1-7.el7.x86_64
 install php-symfony-polyfill-1.5.0-1.el7.noarch
 install xmlsec1-openssl-1.2.20-7.el7_4.x86_64
 install ImageMagick-libs-7.0.3-7.x86_64
+install libdwarves1-1.10-1.el7.x86_64
 install srvadmin-omaksmig-10.1.0.0-4561.18274.el7.x86_64
 install perl-HTML-Encoding-0.61-8.el7.noarch
 install exiv2-0.27.0-4.el7_8.x86_64
@@ -2202,6 +2205,7 @@ install hypervfcopyd-0-0.34.20180415git.el7.x86_64
 install perl-Getopt-Long-2.40-3.el7.noarch
 install texlive-oberdiek-svn26725.0-45.el7.noarch
 install mint-themes-1.5.0-2.el7.noarch
+install kernel-ml-5.14.7-1.el7.elrepo.x86_64
 install js-uglify-1-1.3.4-9.el7.noarch
 install mozilla-filesystem-1.9-11.el7.x86_64
 install libxml2-2.9.1-6.el7.5.x86_64
