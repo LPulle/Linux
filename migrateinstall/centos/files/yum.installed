@@ -774,7 +774,6 @@ install xorg-x11-fonts-cyrillic-7.5-9.el7.noarch
 install python-devel-2.7.5-90.el7.x86_64
 install liblzf-3.6-7.el7.x86_64
 install php80-1.0-3.el7.remi.x86_64
-install ca-certificates-2020.2.41-70.0.el7_8.noarch
 install xorg-x11-drv-nouveau-1.0.15-1.el7.x86_64
 install php-fedora-autoloader-1.0.1-2.el7.noarch
 install mesa-dri-drivers-18.3.4-12.el7_9.x86_64
@@ -3212,6 +3211,7 @@ install usb_modeswitch-2.5.1-1.el7.x86_64
 install gpg-pubkey-8c200c71-4c6553da
 install srvadmin-idrac-10.1.0.0-4561.18274.el7.x86_64
 install php-symfony-http-kernel-2.8.12-2.el7.noarch
+install ca-certificates-2021.2.50-72.el7_9.noarch
 install python36-gobject-base-3.22.0-6.el7.x86_64
 install libXft-2.3.2-2.el7.i686
 install perl-Scalar-List-Utils-1.27-248.el7.x86_64
