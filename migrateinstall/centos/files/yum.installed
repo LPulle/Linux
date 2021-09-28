@@ -167,7 +167,6 @@ install perl-threads-1.87-4.el7.x86_64
 install texlive-amsfonts-svn29208.3.04-45.el7.noarch
 install libtalloc-2.1.16-1.el7.x86_64
 install liberation-sans-fonts-1.07.2-16.el7.noarch
-install mock-core-configs-35-1.el7.noarch
 install geos-3.4.2-2.el7.x86_64
 install util-linux-2.23.2-65.el7_9.1.x86_64
 install system-config-users-1.3.5-5.el7_9.noarch
@@ -320,7 +319,6 @@ install python-lxml-3.2.1-4.el7.x86_64
 install avalon-logkit-2.1-14.el7.noarch
 install ccsm-0.8.4-16.el7.nux.noarch
 install devtoolset-7-gcc-c++-7.3.1-5.16.el7.x86_64
-install hdf5-1.8.12-12.el7.x86_64
 install devtoolset-10-systemtap-sdt-devel-4.4-6.el7.x86_64
 install texlive-luatexbase-svn22560.0.31-45.el7.noarch
 install iwl5000-firmware-8.83.5.1_1-80.el7_9.noarch
@@ -2000,6 +1998,7 @@ install transmission-gtk-2.94-9.el7.x86_64
 install texlive-l3kernel-svn29409.SVN_4469-45.el7.noarch
 install perl-Module-Load-0.24-3.el7.noarch
 install perl-Archive-Extract-0.68-3.el7.noarch
+install mock-core-configs-36-1.el7.noarch
 install oci-umount-2.5-3.el7.x86_64
 install sound-theme-freedesktop-0.8-3.el7.noarch
 install srvadmin-marvellib-10.1.0.0-4561.18274.el7.x86_64
@@ -2905,6 +2904,7 @@ install devtoolset-9-gcc-plugin-devel-9.3.1-2.2.el7.x86_64
 install radvd-2.17-3.el7.x86_64
 install libtiff-4.0.3-35.el7.i686
 install mint-y-icons-1.1.3-3.el7.noarch
+install hdf5-1.8.12-13.el7.x86_64
 install srvadmin-oslog-10.1.0.0-4561.18274.el7.x86_64
 install libuuid-2.23.2-65.el7_9.1.x86_64
 install NetworkManager-pptp-gnome-1.2.8-1.el7.x86_64
