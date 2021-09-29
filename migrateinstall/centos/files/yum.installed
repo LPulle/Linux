@@ -84,7 +84,6 @@ install proj-devel-4.8.0-4.el7.x86_64
 install man-db-2.6.3-11.el7.x86_64
 install gnome-icon-theme-3.12.0-1.el7.noarch
 install perl-HTTP-Date-6.02-8.el7.noarch
-install php80-php-pecl-zip-1.19.4-1.el7.remi.x86_64
 install oniguruma5php-6.9.7.1-1.el7.remi.x86_64
 install opensp-1.5.2-19.el7.x86_64
 install mod_security-2.9.2-1.el7.x86_64
@@ -1382,6 +1381,7 @@ install srvadmin-smweb-10.1.0.0-4561.18274.el7.x86_64
 install cyrus-sasl-2.1.26-23.el7.x86_64
 install bash-4.2.46-34.el7.x86_64
 install libXcomposite-0.4.4-4.1.el7.x86_64
+install php80-php-pecl-zip-1.19.5-1.el7.remi.x86_64
 install hplip-common-3.15.9-5.el7.x86_64
 install texlive-ctable-svn26694.1.23-45.el7.noarch
 install OpenIPMI-2.0.27-1.el7.x86_64
