@@ -6,6 +6,12 @@ alias sudo='sudo '
 # http://www-106.ibm.com/developerwork.../l-tip-prompt/
 export PS1='\d \@ \[\e[32;1m\]\u\[\e[34;1m\]@\[\e[36;1m\]\H \[\e[34;1m\]\w\[\e[32;1m\] $ \[\e[0m\]'
 
+## override R to use local version
+#alias R='/usr/local/bin/R'
+
+## gcc devtools-10
+alias gcc='/opt/rh/devtoolset-10/root/bin/gcc'
+
 # General
 alias ..='cd ..'
 alias ...='cd ../../'
@@ -167,7 +173,7 @@ alias god='sudo -i'
 alias root='sudo -i'
 
 # Apache
-alias startapache='sudo /etc/init.d/apache2 restart&'
+alias startapache='sudo systemctl start httpd'  #'sudo /etc/init.d/apache2 restart&'
 alias stopapache='sudo apache2ctl stop'
 
 # Use this alias to edit the bashrc 
@@ -195,10 +201,13 @@ alias df='df -h'
 alias swapfree='sudo swapoff -a; sudo swapon -a'
 
 # For fun
-alias woo='Fortune'
+alias woo='fortune'
 # This will keep you sane when you're about to smash the keyboard again.
 alias frak='fortune'
 # get random BOFH excuse
 function bofh() {
     telnet towel.blinkenlights.nl 666
 }
+
+# cat a file and exclude commentted lines
+function catnc() { cat "$1" | egrep -v "^\s*(#|$)"; }
