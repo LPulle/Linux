@@ -124,6 +124,7 @@ install srvadmin-jre-10.1.0.0-4561.18274.el7.x86_64
 install libkkc-data-0.3.1-9.el7.x86_64
 install exiv2-libs-0.27.0-4.el7_8.x86_64
 install python-ldap-2.4.15-2.el7.x86_64
+install php81-php-common-8.1.0~rc3-1.el7.remi.x86_64
 install rubygem-io-console-0.4.2-36.el7.x86_64
 install texlive-cm-super-svn15878.0-45.el7.noarch
 install jq-1.6-2.el7.x86_64
@@ -440,6 +441,7 @@ install srvadmin-omacore-10.1.0.0-4561.18274.el7.x86_64
 install libpng-1.5.13-8.el7.i686
 install texlive-unicode-math-svn29413.0.7d-45.el7.noarch
 install jbigkit-libs-2.0-11.el7.i686
+install nodejs-14.18.0-1nodesource.x86_64
 install zlib-1.2.7-19.el7_9.x86_64
 install tcsh-6.18.01-17.el7_9.1.x86_64
 install perl-Class-Accessor-0.34-12.el7.noarch
@@ -929,7 +931,6 @@ install fann-2.2.0-6.el7.x86_64
 install texlive-fancyhdr-svn15878.3.1-45.el7.noarch
 install unzip-6.0-22.el7_9.x86_64
 install adcli-0.8.1-16.el7_9.1.x86_64
-install php81-php-common-8.1.0~rc2-1.el7.remi.x86_64
 install rhythmbox-3.4.2-2.el7.x86_64
 install kdepimlibs-kxmlrpcclient-4.10.5-4.el7.x86_64
 install nmap-ncat-6.40-19.el7.x86_64
@@ -1193,6 +1194,7 @@ install libXdamage-1.1.4-4.1.el7.x86_64
 install python-pytoml-0.1.14-1.git7dea353.el7.noarch
 install gpg-pubkey-85c6cd8a-4e060c35
 install x265-libs-1.9-1.el7.nux.x86_64
+install php81-php-cli-8.1.0~rc3-1.el7.remi.x86_64
 install cinnamon-themes-2017.06.20-4.el7.noarch
 install sgml-common-0.6.3-39.el7.noarch
 install texlive-pst-blur-svn15878.2.0-45.el7.noarch
@@ -2642,7 +2644,6 @@ install libappindicator-gtk3-12.10.0-13.el7.x86_64
 install blas-3.4.2-8.el7.x86_64
 install lldpad-1.0.1-5.git036e314.el7.x86_64
 install soprano-2.9.2-3.el7.x86_64
-install nodejs-14.17.6-1nodesource.x86_64
 install python2-cryptography-1.7.2-2.el7.x86_64
 install libstdc++-4.8.5-44.el7.i686
 install paratype-pt-sans-fonts-20101909-3.el7.noarch
@@ -2758,7 +2759,6 @@ install libdnet-1.12-13.1.el7.x86_64
 install cdrdao-1.2.3-20.el7.x86_64
 install python-smbc-1.0.13-8.el7.x86_64
 install kernel-3.10.0-514.6.2.el7.x86_64
-install php81-php-cli-8.1.0~rc2-1.el7.remi.x86_64
 install sqlite-devel-3.7.17-8.el7_7.1.x86_64
 install media-player-info-17-4.el7.noarch
 install texlive-times-svn28614.0-45.el7.noarch
