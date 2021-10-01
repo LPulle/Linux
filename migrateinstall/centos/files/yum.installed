@@ -124,7 +124,6 @@ install srvadmin-jre-10.1.0.0-4561.18274.el7.x86_64
 install libkkc-data-0.3.1-9.el7.x86_64
 install exiv2-libs-0.27.0-4.el7_8.x86_64
 install python-ldap-2.4.15-2.el7.x86_64
-install php81-php-common-8.1.0~rc3-1.el7.remi.x86_64
 install rubygem-io-console-0.4.2-36.el7.x86_64
 install texlive-cm-super-svn15878.0-45.el7.noarch
 install jq-1.6-2.el7.x86_64
@@ -1194,7 +1193,6 @@ install libXdamage-1.1.4-4.1.el7.x86_64
 install python-pytoml-0.1.14-1.git7dea353.el7.noarch
 install gpg-pubkey-85c6cd8a-4e060c35
 install x265-libs-1.9-1.el7.nux.x86_64
-install php81-php-cli-8.1.0~rc3-1.el7.remi.x86_64
 install cinnamon-themes-2017.06.20-4.el7.noarch
 install sgml-common-0.6.3-39.el7.noarch
 install texlive-pst-blur-svn15878.2.0-45.el7.noarch
@@ -2395,6 +2393,7 @@ install tzdata-2021a-1.el7.noarch
 install pcre-8.32-17.el7.i686
 install centos-logos-70.0.6-3.el7.centos.noarch
 install libvdpau-1.1.1-3.el7.x86_64
+install php81-php-cli-8.1.0~rc3-2.el7.remi.x86_64
 install OpenIPMI-libs-2.0.27-1.el7.x86_64
 install jbigkit-libs-2.0-11.el7.x86_64
 install python3-libs-3.6.8-18.el7.x86_64
@@ -3119,6 +3118,7 @@ install libiodbc-3.52.7-7.el7.x86_64
 install microcode_ctl-2.1-73.11.el7_9.x86_64
 install flash-plugin-32.0.0.465-release.x86_64
 install mint-y-theme-1.2.4-2.el7.noarch
+install php81-php-common-8.1.0~rc3-2.el7.remi.x86_64
 install libass-0.13.4-6.el7.x86_64
 install perl-ExtUtils-Manifest-1.61-244.el7.noarch
 install lirc-libs-0.10.0-16.el7.x86_64
