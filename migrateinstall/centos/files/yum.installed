@@ -657,6 +657,7 @@ install libieee1284-0.2.11-15.el7.x86_64
 install libXcursor-1.1.15-1.el7.i686
 install libva-1.8.3-1.el7.x86_64
 install perl-XML-TreePP-0.43-1.el7.noarch
+install php81-php-cli-8.1.0~rc3-3.el7.remi.x86_64
 install libcap-2.22-11.el7.x86_64
 install srvadmin-storage-cli-10.1.0.0-4561.18274.el7.x86_64
 install pcre-8.32-17.el7.x86_64
@@ -1787,6 +1788,7 @@ install lohit-oriya-fonts-2.5.4.1-3.el7.noarch
 install texlive-pst-plot-svn28729.1.44-45.el7.noarch
 install devtoolset-10-libstdc++-devel-10.2.1-11.1.el7.x86_64
 install cinnamon-session-3.6.1-2.el7.x86_64
+install php81-php-common-8.1.0~rc3-3.el7.remi.x86_64
 install lohit-punjabi-fonts-2.5.3-2.el7.noarch
 install srvadmin-standardAgent-10.1.0.0-4561.18274.el7.x86_64
 install libdc1394-2.2.2-3.el7.x86_64
@@ -2393,7 +2395,6 @@ install tzdata-2021a-1.el7.noarch
 install pcre-8.32-17.el7.i686
 install centos-logos-70.0.6-3.el7.centos.noarch
 install libvdpau-1.1.1-3.el7.x86_64
-install php81-php-cli-8.1.0~rc3-2.el7.remi.x86_64
 install OpenIPMI-libs-2.0.27-1.el7.x86_64
 install jbigkit-libs-2.0-11.el7.x86_64
 install python3-libs-3.6.8-18.el7.x86_64
@@ -3118,7 +3119,6 @@ install libiodbc-3.52.7-7.el7.x86_64
 install microcode_ctl-2.1-73.11.el7_9.x86_64
 install flash-plugin-32.0.0.465-release.x86_64
 install mint-y-theme-1.2.4-2.el7.noarch
-install php81-php-common-8.1.0~rc3-2.el7.remi.x86_64
 install libass-0.13.4-6.el7.x86_64
 install perl-ExtUtils-Manifest-1.61-244.el7.noarch
 install lirc-libs-0.10.0-16.el7.x86_64
