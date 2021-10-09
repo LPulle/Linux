@@ -1593,6 +1593,7 @@ install texlive-latex-bin-bin-svn14050.0-45.20130427_r30134.el7.noarch
 install deltarpm-3.6-3.el7.x86_64
 install hplip-libs-3.15.9-5.el7.x86_64
 install libsamplerate-0.1.8-6.el7.x86_64
+install mock-core-configs-36.1-1.el7.noarch
 install libpng-1.5.13-8.el7.x86_64
 install python-zope-component-4.1.0-5.el7.noarch
 install srvadmin-storage-snmp-10.1.0.0-4561.18274.el7.x86_64
@@ -2000,7 +2001,6 @@ install transmission-gtk-2.94-9.el7.x86_64
 install texlive-l3kernel-svn29409.SVN_4469-45.el7.noarch
 install perl-Module-Load-0.24-3.el7.noarch
 install perl-Archive-Extract-0.68-3.el7.noarch
-install mock-core-configs-36-1.el7.noarch
 install oci-umount-2.5-3.el7.x86_64
 install sound-theme-freedesktop-0.8-3.el7.noarch
 install srvadmin-marvellib-10.1.0.0-4561.18274.el7.x86_64
