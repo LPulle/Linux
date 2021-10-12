@@ -5,15 +5,12 @@ agate
 agate-dbf
 agate-excel
 agate-sql
-aiohttp
 appdirs
 applicationinsights
 asgiref
 asn1crypto
 astor
-astroid
 asyncio
-async-timeout
 atomicwrites
 attrs
 audioread
@@ -29,7 +26,6 @@ backports.weakref
 beautifulsoup4
 bleach
 blivet
-bokeh
 boto
 boto3
 botocore
@@ -49,9 +45,7 @@ CherryPy
 chrome-gnome-shell
 cleanup
 Click
-cli-helpers
 colorama
-conda
 ConfigArgParse
 configobj
 configparser
@@ -91,7 +85,6 @@ future
 futures
 gast
 gensim
-ggplot
 google-auth
 google-auth-oauthlib
 google-pasta
@@ -99,7 +92,6 @@ grpcio
 gssapi
 h5py
 huepy
-hug
 humanize
 hupper
 hyperlink
@@ -156,14 +148,11 @@ logutils
 lxml
 Markdown
 MarkupSafe
-matplotlib
 mccabe
 mistune
 mock
 more-itertools
-mssql-cli
 mssql-scripter
-multidict
 nbconvert
 nbformat
 ndg-httpsclient
@@ -177,7 +166,6 @@ numpy
 oauthlib
 openpyxl
 opt-einsum
-packaging
 pandas
 pandasql
 pandocfilters
@@ -192,7 +180,6 @@ perf
 pexpect
 pickleshare
 Pillow
-pip-review
 plaster
 plaster-pastedeploy
 pluggy
@@ -218,19 +205,15 @@ pycurl
 PyDispatcher
 Pygments
 pygobject
-PyGObject
 pygpgme
 PyHamcrest
 pyinotify
 pykickstart
 pyliblzma
-pylint
 pyodbc
 PyPAM
 pyparsing
 pyparted
-PyQt5
-PyQt5-sip
 pyramid
 pyRFC3339
 pyroute2
@@ -238,7 +221,6 @@ pyrsistent
 pysmbc
 PySocks
 pytesseract
-pytest
 python-augeas
 python-dateutil
 python-dmidecode
@@ -247,7 +229,6 @@ python-linux-procfs
 python-meh
 python-nss
 python-slugify
-python-xapp
 python-yubico
 pytimeparse
 pytoml
@@ -281,8 +262,6 @@ schedutils
 scikit-learn
 scipy
 sckdump
-Scrapy
-seaborn
 selenium
 Send2Trash
 seobject
@@ -295,7 +274,6 @@ singledispatch
 six
 skll
 slip
-SLIP
 slip.dbus
 smart-open
 soupsieve
@@ -311,9 +289,7 @@ subscription-manager
 syspurpose
 tabulate
 targetcli-fb
-templated-dictionary
 tempora
-tensorboard
 termcolor
 terminado
 terminaltables
@@ -323,7 +299,6 @@ tornado
 traitlets
 translationstring
 Twisted
-typed-ast
 typing
 typing-extensions
 tzlocal
@@ -344,7 +319,6 @@ widgetsnbextension
 wordcloud
 wrapt
 xlrd
-yarl
 youtube-dl
 yum-langpacks
 yum-metadata-parser
