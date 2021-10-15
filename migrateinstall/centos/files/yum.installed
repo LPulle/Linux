@@ -329,7 +329,6 @@ install cinnamon-menus-3.6.0-4.el7.x86_64
 install libavc1394-0.5.3-14.el7.x86_64
 install redshift-1.11-10.el7.x86_64
 install libacl-2.2.51-15.el7.x86_64
-install code-1.61.0-1633631470.el7.x86_64
 install libwinpr-2.1.1-2.el7.x86_64
 install texlive-pdfpages-svn27574.0.4t-45.el7.noarch
 install xorg-x11-drv-dummy-0.3.7-1.el7.1.x86_64
@@ -770,6 +769,7 @@ install figlet-2.2.5-9.el7.x86_64
 install xorg-x11-fonts-cyrillic-7.5-9.el7.noarch
 install python-devel-2.7.5-90.el7.x86_64
 install liblzf-3.6-7.el7.x86_64
+install code-1.61.1-1634175569.el7.x86_64
 install php80-1.0-3.el7.remi.x86_64
 install xorg-x11-drv-nouveau-1.0.15-1.el7.x86_64
 install php-fedora-autoloader-1.0.1-2.el7.noarch
