@@ -132,5 +132,5 @@ export PS1='\[\e[1;32m\][\d \t \u\[\e[34;1m\]@\[\e[36;1m\]\H \[\e[34;1m\]\w\[\e[
 
 # pyenv paths
 export PATH="/home/pullel/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
+#eval "$(pyenv init -)"
+#eval "$(pyenv virtualenv-init -)"
