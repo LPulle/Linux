@@ -147,6 +147,7 @@ install samba-client-libs-4.10.16-15.el7_9.x86_64
 install devtoolset-10-elfutils-libelf-devel-0.182-3.el7.x86_64
 install geocode-glib-3.26.0-3.el7.x86_64
 install tk-devel-8.5.13-6.el7.x86_64
+install python2-certbot-1.11.0-2.el7.noarch
 install libgnomekbd-3.26.0-3.el7.x86_64
 install ntp-4.2.6p5-29.el7.centos.2.x86_64
 install exo-0.10.7-1.el7.x86_64
@@ -2721,7 +2722,6 @@ install devtoolset-10-dyninst-doc-10.2.1-1.el7.x86_64
 install kde-workspace-4.11.19-16.el7_9.x86_64
 install spice-server-0.14.0-9.el7_9.1.x86_64
 install texlive-colortbl-svn25394.v1.0a-45.el7.noarch
-install python2-certbot-1.11.0-1.el7.noarch
 install gpg-pubkey-5072e1f5-58a70520
 install lrzsz-0.12.20-36.el7.x86_64
 install PackageKit-gtk3-module-1.1.10-2.el7.centos.x86_64
