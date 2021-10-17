@@ -24,7 +24,7 @@ echo run >> ~/yum.installed
 yes | sudo /bin/cp -nRf /etc/yum.repos.d/*.repo ~/ #creates ~/*.repo files
 
 # Export rpm package names to installed-software.log
-rpm -qa --qf "%{NAME}\n" |sort > ~/GitHub/Linux/migrateinstall/centos/installed-software.log
+rpm -qa --qf "%{NAME}\n" |sort | uniq > ~/GitHub/Linux/migrateinstall/centos/installed-software.log
 
 # Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
 sudo -H pip2 install --upgrade pip
