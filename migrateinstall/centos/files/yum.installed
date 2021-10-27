@@ -2700,7 +2700,6 @@ install ncdu-1.16-1.el7.x86_64
 install cdparanoia-10.2-17.el7.x86_64
 install python36-rfc3986-1.3.0-1.el7.noarch
 install git-2.31.1-1.WANdisco.469.x86_64
-install firefox-78.14.0-1.el7.centos.x86_64
 install cyrus-sasl-devel-2.1.26-23.el7.x86_64
 install texlive-fancybox-svn18304.1.4-45.el7.noarch
 install systemd-python-219-78.el7_9.3.x86_64
@@ -3015,6 +3014,7 @@ install python36-pysocks-1.6.8-7.el7.noarch
 install bind-export-libs-9.11.4-26.P2.el7_9.7.x86_64
 install glusterfs-api-6.0-49.1.el7.x86_64
 install libpath_utils-0.2.1-32.el7.x86_64
+install firefox-91.2.0-4.el7.centos.x86_64
 install rsyslog-8.24.0-57.el7_9.1.x86_64
 install libgnomecanvas-2.30.3-8.el7.x86_64
 install ibus-1.5.17-12.el7_9.x86_64
