@@ -1044,6 +1044,7 @@ kde-workspace-libs
 kernel
 kernel-debug-devel
 kernel-headers
+kernel-lt
 kernel-ml
 kernel-tools
 kernel-tools-libs
