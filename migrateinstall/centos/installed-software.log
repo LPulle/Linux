@@ -1006,6 +1006,7 @@ java-1.8.0-openjdk-headless
 javamail
 javapackages-tools
 jbigkit-libs
+jdk-17
 jemalloc
 jline
 jomolhari-fonts
