@@ -634,6 +634,7 @@ install m17n-contrib-1.1.14-3.el7.noarch
 install texlive-varwidth-svn24104.0.92-45.el7.noarch
 install perl-LWP-Protocol-https-6.04-4.el7.noarch
 install apr-util-1.5.2-6.el7.x86_64
+install code-1.62.0-1635954170.el7.x86_64
 install brasero-3.12.2-5.el7.x86_64
 install rdma-core-22.4-6.el7_9.i686
 install yumex-3.0.17-1.el7.noarch
@@ -1507,7 +1508,6 @@ install libnotify-0.7.7-1.el7.x86_64
 install libmaxminddb-1.2.0-6.el7.x86_64
 install libxml++-2.37.1-1.el7.x86_64
 install systemd-sysv-219-78.el7_9.3.x86_64
-install code-1.61.2-1634656920.el7.x86_64
 install texlive-txfonts-svn15878.0-45.el7.noarch
 install policycoreutils-devel-2.5-34.el7.x86_64
 install ibus-table-chinese-1.4.6-3.el7.noarch
