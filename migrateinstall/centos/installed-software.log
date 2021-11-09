@@ -2490,12 +2490,9 @@ redshift-gtk
 remi-release
 remmina
 remmina-plugins-exec
-remmina-plugins-nx
 remmina-plugins-rdp
 remmina-plugins-secret
-remmina-plugins-st
 remmina-plugins-vnc
-remmina-plugins-xdmcp
 rest
 rfkill
 rhash

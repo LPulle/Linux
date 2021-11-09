@@ -95,6 +95,7 @@ install system-config-printer-libs-1.4.1-23.el7.noarch
 install keyutils-libs-1.5.8-3.el7.x86_64
 install python2-future-0.18.2-2.el7.noarch
 install libreoffice-calc-5.3.6.1-25.el7_9.x86_64
+install remmina-plugins-vnc-1.4.20-1.el7.x86_64
 install libglvnd-devel-1.0.1-0.8.git5baa1e5.el7.x86_64
 install perl-macros-5.16.3-299.el7_9.x86_64
 install perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64
@@ -192,7 +193,6 @@ install libreoffice-core-5.3.6.1-25.el7_9.x86_64
 install gnome-packagekit-installer-3.28.0-1.el7.x86_64
 install gnome-documents-3.28.2-2.el7.x86_64
 install nhn-nanum-fonts-common-3.020-9.el7.noarch
-install remmina-plugins-nx-1.4.18-1.el7.x86_64
 install mate-media-1.16.0-1.el7.x86_64
 install ntsysv-1.7.6-1.el7.x86_64
 install texlive-fix2col-svn17133.0-45.el7.noarch
@@ -404,7 +404,6 @@ install libcurl-devel-7.29.0-59.el7_9.1.x86_64
 install libgfortran5-8.3.1-2.1.1.el7.x86_64
 install fontpackages-filesystem-1.44-8.el7.noarch
 install gt5-1.4.0-12.gf.el6.noarch
-install remmina-plugins-exec-1.4.18-1.el7.x86_64
 install urw-base35-fonts-common-20170801-10.el7.noarch
 install scl-utils-build-20130529-19.el7.x86_64
 install gpm-libs-1.20.7-6.el7.x86_64
@@ -745,7 +744,6 @@ install gnome-desktop-devel-2.32.0-17.el7.x86_64
 install kactivities-4.10.5-3.el7.x86_64
 install xrdp-selinux-0.9.17-2.el7.x86_64
 install libmediaart-1.9.4-1.el7.x86_64
-install remmina-plugins-vnc-1.4.18-1.el7.x86_64
 install libreoffice-impress-5.3.6.1-25.el7_9.x86_64
 install libreofficekit-5.3.6.1-25.el7_9.x86_64
 install texlive-chngcntr-svn17157.1.0a-45.el7.noarch
@@ -843,6 +841,7 @@ install perl-Config-General-2.61-1.el7.noarch
 install gparted-0.33.0-1.el7.x86_64
 install libuv-1.42.0-2.el7.x86_64
 install open-sans-fonts-1.10-1.el7.noarch
+install remmina-1.4.20-1.el7.x86_64
 install lsof-4.87-6.el7.x86_64
 install libreoffice-draw-5.3.6.1-25.el7_9.x86_64
 install gpg-pubkey-352c64e5-52ae6884
@@ -1324,9 +1323,9 @@ install rh-python36-runtime-2.0-1.el7.x86_64
 install fusioninventory-agent-2.3.21-3.el7.x86_64
 install perl-HTML-Tagset-3.20-15.el7.noarch
 install gnome-initial-setup-3.28.0-2.el7.x86_64
+install remmina-plugins-secret-1.4.20-1.el7.x86_64
 install perl-FCGI-0.74-8.el7.x86_64
 install libreoffice-pdfimport-5.3.6.1-25.el7_9.x86_64
-install remmina-1.4.18-1.el7.x86_64
 install urw-base35-nimbus-roman-fonts-20170801-10.el7.noarch
 install xorg-x11-fonts-ISO8859-9-75dpi-7.5-9.el7.noarch
 install libchamplain-0.12.16-2.el7.x86_64
@@ -1739,7 +1738,6 @@ install python-IPy-0.75-6.el7.noarch
 install tzdata-2021e-1.el7.noarch
 install screen-4.1.0-0.27.20120314git3c2946.el7_9.x86_64
 install system-config-language-1.4.0-9.el7.noarch
-install remmina-plugins-st-1.4.18-1.el7.x86_64
 install libreoffice-base-5.3.6.1-25.el7_9.x86_64
 install texlive-pspicture-svn15878.0-45.el7.noarch
 install pinentry-gtk-0.8.1-17.el7.x86_64
@@ -1947,8 +1945,8 @@ install mate-system-monitor-1.16.0-2.el7.x86_64
 install gnu-free-sans-fonts-20120503-8.el7.noarch
 install yum-plugin-replace-0.2.7-1.ius.el7.noarch
 install php81-runtime-8.1-1.el7.remi.x86_64
-install remmina-plugins-secret-1.4.18-1.el7.x86_64
 install libreoffice-graphicfilter-5.3.6.1-25.el7_9.x86_64
+install firefox-91.3.0-1.el7.centos.x86_64
 install rh-python36-python-virtualenv-15.1.0-3.el7.noarch
 install librevenge-0.0.2-2.el7.x86_64
 install clutter-gtk-1.8.4-1.el7.x86_64
@@ -2501,7 +2499,6 @@ install libqmi-utils-1.18.0-2.el7.x86_64
 install glib2-2.56.1-9.el7_9.i686
 install brasero-nautilus-3.12.2-5.el7.x86_64
 install enchant-1.6.0-8.el7.x86_64
-install remmina-plugins-xdmcp-1.4.18-1.el7.x86_64
 install perl-JSON-2.59-2.el7.noarch
 install adobe-mappings-pdf-20180407-1.el7.noarch
 install liboauth-0.9.7-4.el7.x86_64
@@ -2601,6 +2598,7 @@ install gnome-shell-extension-user-theme-3.28.1-17.el7_9.noarch
 install xorgxrdp-0.2.17-2.el7.x86_64
 install evince-libs-3.28.2-10.el7.x86_64
 install python-configobj-4.7.2-7.el7.noarch
+install remmina-plugins-rdp-1.4.20-1.el7.x86_64
 install neon-0.30.0-4.el7.x86_64
 install libsepol-devel-2.5-10.el7.x86_64
 install libicu-devel-50.2-4.el7_7.x86_64
@@ -2909,6 +2907,7 @@ install perl-IPC-Cmd-0.80-4.el7.noarch
 install selinux-policy-devel-3.13.1-268.el7_9.2.noarch
 install libreoffice-x11-5.3.6.1-25.el7_9.x86_64
 install texlive-pslatex-svn16416.0-45.el7.noarch
+install remmina-plugins-exec-1.4.20-1.el7.x86_64
 install colord-1.3.4-2.el7.x86_64
 install gd-last-2.3.3-2.el7.remi.x86_64
 install mate-applets-1.16.0-2.el7.x86_64
@@ -3016,7 +3015,6 @@ install python36-pysocks-1.6.8-7.el7.noarch
 install bind-export-libs-9.11.4-26.P2.el7_9.7.x86_64
 install glusterfs-api-6.0-49.1.el7.x86_64
 install libpath_utils-0.2.1-32.el7.x86_64
-install firefox-91.2.0-4.el7.centos.x86_64
 install rsyslog-8.24.0-57.el7_9.1.x86_64
 install libgnomecanvas-2.30.3-8.el7.x86_64
 install ibus-1.5.17-12.el7_9.x86_64
@@ -3225,7 +3223,6 @@ install rclone-1.55.1-1.el7.x86_64
 install java-1.8.0-openjdk-headless-1.8.0.312.b07-1.el7_9.x86_64
 install baobab-3.28.0-2.el7.x86_64
 install texlive-marginnote-svn25880.v1.1i-45.el7.noarch
-install remmina-plugins-rdp-1.4.18-1.el7.x86_64
 install dejavu-serif-fonts-2.33-6.el7.noarch
 install nmap-6.40-19.el7.x86_64
 install compat-exiv2-026-0.26-2.el7.x86_64
