@@ -633,7 +633,6 @@ install m17n-contrib-1.1.14-3.el7.noarch
 install texlive-varwidth-svn24104.0.92-45.el7.noarch
 install perl-LWP-Protocol-https-6.04-4.el7.noarch
 install apr-util-1.5.2-6.el7.x86_64
-install code-1.62.0-1635954170.el7.x86_64
 install brasero-3.12.2-5.el7.x86_64
 install rdma-core-22.4-6.el7_9.i686
 install yumex-3.0.17-1.el7.noarch
@@ -3129,6 +3128,7 @@ install xorg-x11-fonts-ISO8859-15-100dpi-7.5-9.el7.noarch
 install gtk2-2.24.31-1.el7.i686
 install gnote-3.28.0-1.el7.x86_64
 install pam-devel-1.1.8-23.el7.x86_64
+install code-1.62.1-1636111127.el7.x86_64
 install pulseaudio-10.0-6.el7_9.x86_64
 install rkhunter-1.4.6-3.el7.noarch
 install libmwaw-0.3.5-1.el7.x86_64
