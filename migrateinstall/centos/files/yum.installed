@@ -1540,7 +1540,6 @@ install chrony-3.4-1.el7.x86_64
 install gnome-dictionary-3.26.1-2.el7.x86_64
 install glibc-headers-2.17-325.el7_9.x86_64
 install openbox-kde-3.5.2-6.el7.noarch
-install IP2Location-libs-8.4.0-2.el7.x86_64
 install gzip-1.5-10.el7.x86_64
 install mathjax-size2-fonts-2.7.4-2.el7.noarch
 install rh-python36-python-3.6.12-1.el7.x86_64
@@ -2842,6 +2841,7 @@ install neon-0.30.0-4.el7.x86_64
 install texlive-xdvi-svn26689.22.85-45.el7.noarch
 install apache-commons-logging-1.1.2-7.el7.noarch
 install libdb-devel-5.3.21-25.el7.x86_64
+install IP2Location-libs-8.4.1-1.el7.x86_64
 install devtoolset-10-libgccjit-10.2.1-11.1.el7.x86_64
 install devtoolset-9-strace-5.1-7.el7.x86_64
 install aic94xx-firmware-30-6.el7.noarch
