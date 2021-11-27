@@ -439,7 +439,6 @@ install bsdtar-3.1.2-14.el7_7.x86_64
 install libreoffice-opensymbol-fonts-5.3.6.1-25.el7_9.noarch
 install libmspub-0.1.2-1.el7.x86_64
 install iwl3945-firmware-15.32.2.9-80.el7_9.noarch
-install libcouchbase-3.2.3-1.el7.remi.x86_64
 install urw-base35-p052-fonts-20170801-10.el7.noarch
 install libusbmuxd-1.0.10-5.el7.x86_64
 install glibc-static-2.17-325.el7_9.x86_64
@@ -647,6 +646,7 @@ install python36-chardet-3.0.4-1.el7.noarch
 install libdrm-devel-2.4.97-2.el7.x86_64
 install libsepol-2.5-10.el7.i686
 install perl-PathTools-3.40-5.el7.x86_64
+install mock-2.15-1.el7.noarch
 install libreport-anaconda-2.1.11-53.el7.centos.x86_64
 install pulseaudio-10.0-6.el7_9.x86_64
 install gstreamer1-plugins-good-1.10.4-2.el7.x86_64
@@ -663,7 +663,6 @@ install color-filesystem-1-13.el7.noarch
 install devtoolset-9-libitm-devel-9.3.1-2.2.el7.x86_64
 install microcode_ctl-2.1-73.11.el7_9.x86_64
 install guake-0.8.7-1.el7.noarch
-install mock-2.14-1.el7.noarch
 install perl-constant-1.27-2.el7.noarch
 install libburn-1.2.8-4.el7.x86_64
 install compiz-debuginfo-0.8.8-27.el7.nux.x86_64
@@ -748,6 +747,7 @@ install tbb-devel-4.1-9.20130314.el7.x86_64
 install gnome-initial-setup-3.28.0-2.el7.x86_64
 install libspiro-20071029-12.el7.x86_64
 install tracker-preferences-1.10.5-8.el7.x86_64
+install libcouchbase-3.2.4-1.el7.remi.x86_64
 install cairo-devel-1.15.12-4.el7.x86_64
 install perl-Module-CoreList-2.76.02-299.el7_9.noarch
 install autoconf-2.69-11.el7.noarch
@@ -760,7 +760,6 @@ install ghc-hoopl-3.9.0.0-26.4.el7.x86_64
 install cmake3-data-3.17.5-1.el7.noarch
 install c-ares-1.10.0-3.el7.x86_64
 install libreport-plugin-bugzilla-2.1.11-53.el7.centos.x86_64
-install libcouchbase-libevent-3.2.3-1.el7.remi.x86_64
 install libX11-common-1.6.7-4.el7_9.noarch
 install boost-wave-1.53.0-28.el7.x86_64
 install texlive-eurosym-svn17265.1.4_subrfix-45.el7.noarch
@@ -872,6 +871,7 @@ install numad-0.5-18.20150602git.el7.x86_64
 install efivar-libs-36-12.el7.x86_64
 install fdk-aac-0.1.5-0.1.gita0bd8aa.el7.x86_64
 install network-manager-applet-1.8.6-2.el7.x86_64
+install libcouchbase-libevent-3.2.4-1.el7.remi.x86_64
 install gnome-vfs2-2.24.4-14.el7.x86_64
 install gtkspell3-3.0.3-4.el7.x86_64
 install php-phpunit-PHP-Invoker-1.1.3-6.el7.noarch
@@ -942,7 +942,6 @@ install texlive-collection-documentation-base-svn17091.0-45.20130427_r30134.el7.
 install libgfortran5-8.3.1-2.1.1.el7.x86_64
 install vlc-devel-2.2.8-1.el7.nux.x86_64
 install openconnect-8.10-1.el7.x86_64
-install mock-filesystem-2.14-1.el7.noarch
 install libgnomekbd-3.26.0-3.el7.x86_64
 install vpnc-0.5.3-22.svn457.el7.x86_64
 install erlang-inets-R16B-03.18.el7.x86_64
@@ -1920,6 +1919,7 @@ install texlive-fpl-svn15878.1.002-45.el7.noarch
 install perl-devel-5.16.3-299.el7_9.x86_64
 install python36-cookies-2.2.1-8.el7.noarch
 install texlive-kpathsea-bin-svn27347.0-45.20130427_r30134.el7.x86_64
+install mock-filesystem-2.15-1.el7.noarch
 install devtoolset-10-annobin-9.23-4.el7.x86_64
 install x265-1.9-1.el7.nux.x86_64
 install tbb-4.1-9.20130314.el7.x86_64
