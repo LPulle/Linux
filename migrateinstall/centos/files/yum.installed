@@ -1503,6 +1503,7 @@ install xml-commons-apis-1.4.01-16.el7.noarch
 install dia-0.97.3-16.el7.x86_64
 install libasan5-9.3.1-2.2.el7.x86_64
 install dselect-1.18.25-9.el7.x86_64
+install webmin-1.982-1.noarch
 install audit-libs-2.8.5-4.el7.x86_64
 install devtoolset-10-libgccjit-docs-10.2.1-11.1.el7.x86_64
 install protobuf-compiler-2.5.0-8.el7.x86_64
@@ -2370,7 +2371,6 @@ install compiz-devel-0.8.8-27.el7.nux.x86_64
 install harfbuzz-1.7.5-2.el7.i686
 install libtasn1-4.10-1.el7.x86_64
 install gstreamer1-plugins-bad-freeworld-1.0.6-2.el7.nux.x86_64
-install webmin-1.981-1.noarch
 install cairo-1.15.12-4.el7.i686
 install mate-applets-1.16.0-2.el7.x86_64
 install libSM-1.2.2-2.el7.x86_64
