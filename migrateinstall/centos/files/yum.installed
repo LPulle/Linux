@@ -463,6 +463,7 @@ install glusterfs-fuse-6.0-49.1.el7.x86_64
 install perl-DBD-SQLite-1.39-3.el7.x86_64
 install rdate-1.4-25.el7.x86_64
 install libv4l-0.9.5-4.el7.x86_64
+install krb5-libs-1.15.1-51.el7_9.i686
 install devtoolset-10-perftools-10.1-0.el7.x86_64
 install thai-scalable-waree-fonts-0.5.0-7.el7.noarch
 install libconfuse-2.7-7.el7.x86_64
@@ -568,6 +569,7 @@ install abrt-cli-2.1.11-60.el7.centos.x86_64
 install perl-Convert-Bencode-1.03-9.el7.noarch
 install texlive-url-svn16864.3.2-45.el7.noarch
 install python-augeas-0.5.0-2.el7.noarch
+install krb5-workstation-1.15.1-51.el7_9.x86_64
 install libsrtp-1.4.4-11.20101004cvs.el7.x86_64
 install libmodman-2.0.1-8.el7.x86_64
 install patchutils-0.3.3-5.el7_9.x86_64
@@ -1073,7 +1075,6 @@ install Canna-libs-3.7p3-43.el7.x86_64
 install diffutils-3.3-5.el7.x86_64
 install festival-1.96-28.el7.x86_64
 install python-configobj-4.7.2-7.el7.noarch
-install libkadm5-1.15.1-50.el7.x86_64
 install fusioninventory-agent-2.3.21-3.el7.x86_64
 install devtoolset-7-gcc-7.3.1-5.16.el7.x86_64
 install gnome-system-monitor-3.28.2-1.el7.x86_64
@@ -1143,7 +1144,6 @@ install urw-base35-d050000l-fonts-20170801-10.el7.noarch
 install fvwm-2.6.6-1.el7.x86_64
 install abrt-console-notification-2.1.11-60.el7.centos.x86_64
 install zsh-5.0.2-34.el7_8.2.x86_64
-install krb5-workstation-1.15.1-50.el7.x86_64
 install keyutils-libs-1.5.8-3.el7.i686
 install ibus-gtk3-1.5.17-12.el7_9.x86_64
 install libwayland-server-1.15.0-1.el7.x86_64
@@ -1905,7 +1905,6 @@ install bwidget-1.9.0-6.el7.noarch
 install vim-common-7.4.629-8.el7_9.x86_64
 install python-pycparser-2.14-1.el7.noarch
 install libgfortran4-8.3.1-2.1.1.el7.x86_64
-install krb5-libs-1.15.1-50.el7.x86_64
 install tint2-16.2-3.el7.x86_64
 install cups-libs-1.6.3-51.el7.x86_64
 install PackageKit-gstreamer-plugin-1.1.10-2.el7.centos.x86_64
@@ -2167,6 +2166,7 @@ install kdepimlibs-akonadi-4.10.5-4.el7.x86_64
 install ruby-devel-2.0.0.648-36.el7.x86_64
 install adobe-mappings-cmap-deprecated-20171205-3.el7.noarch
 install oci-register-machine-0-6.git2b44233.el7.x86_64
+install krb5-devel-1.15.1-51.el7_9.x86_64
 install mate-dictionary-1.16.1-2.el7.x86_64
 install libwebp-devel-0.3.0-10.el7_9.x86_64
 install judy-1.0.5-1.el7.rf.x86_64
@@ -2381,6 +2381,7 @@ install xalan-j2-2.7.1-23.el7.noarch
 install faac-1.28-7.el7.x86_64
 install libtar-1.2.11-29.el7.x86_64
 install apr15u-util-1.5.4-3.ius.el7.x86_64
+install krb5-libs-1.15.1-51.el7_9.x86_64
 install NetworkManager-ppp-1.18.8-2.el7_9.x86_64
 install libreoffice-emailmerge-5.3.6.1-25.el7_9.x86_64
 install automake-1.13.4-3.el7.noarch
@@ -2422,7 +2423,6 @@ install gettext-0.19.8.1-3.el7.x86_64
 install libmnl-1.0.3-7.el7.x86_64
 install hpijs-3.15.9-5.el7.x86_64
 install libzip-0.10.1-8.el7.x86_64
-install krb5-server-1.15.1-50.el7.x86_64
 install libXaw-1.0.13-4.el7.x86_64
 install perl-Proc-Daemon-0.19-1.el7.noarch
 install util-linux-2.23.2-65.el7_9.1.x86_64
@@ -2549,6 +2549,7 @@ install libuser-python-0.60-9.el7.x86_64
 install texlive-sansmath-svn17997.1.1-45.el7.noarch
 install abrt-desktop-2.1.11-60.el7.centos.x86_64
 install perl-srpm-macros-1-8.el7.noarch
+install libkadm5-1.15.1-51.el7_9.x86_64
 install devtoolset-7-libstdc++-devel-7.3.1-5.16.el7.x86_64
 install kde-settings-ksplash-19-23.12.el7.centos.noarch
 install libde265-1.0.2-6.el7.x86_64
@@ -2613,7 +2614,6 @@ install gnome-session-xsession-3.28.1-8.el7.x86_64
 install ibus-gtk2-1.5.17-12.el7_9.x86_64
 install nautilus-extensions-3.26.3.1-7.el7.x86_64
 install liblzf-3.6-7.el7.x86_64
-install krb5-devel-1.15.1-50.el7.x86_64
 install texlive-tipa-svn29349.1.3-45.el7.noarch
 install libreoffice-math-5.3.6.1-25.el7_9.x86_64
 install libxshmfence-1.2-1.el7.i686
@@ -2867,6 +2867,7 @@ install devtoolset-10-annobin-annocheck-9.23-4.el7.x86_64
 install nss-3.67.0-3.el7_9.x86_64
 install perl-Business-ISBN-2.06-2.el7.noarch
 install perl-Digest-SHA-5.85-4.el7.x86_64
+install krb5-server-1.15.1-51.el7_9.x86_64
 install gnome-python2-2.28.1-14.el7.x86_64
 install zlib-1.2.7-19.el7_9.i686
 install ghc-ghc-7.6.3-26.4.el7.x86_64
@@ -2992,7 +2993,6 @@ install clutter-gtk-1.8.4-1.el7.x86_64
 install libcrystalhd-3.10.0-11.el7.x86_64
 install glusterfs-6.0-49.1.el7.x86_64
 install kde-runtime-4.10.5-11.el7.x86_64
-install krb5-libs-1.15.1-50.el7.i686
 install xfce4-panel-4.12.1-4.el7.x86_64
 install centos-release-scl-2-3.el7.centos.noarch
 install liberation-mono-fonts-1.07.2-16.el7.noarch
