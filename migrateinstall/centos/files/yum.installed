@@ -1131,6 +1131,7 @@ install libmateweather-1.16.1-1.el7.x86_64
 install geos-devel-3.4.2-2.el7.x86_64
 install libxkbcommon-x11-0.7.1-3.el7.x86_64
 install expat-devel-2.1.0-12.el7.x86_64
+install inxi-3.3.09-1.el7.noarch
 install fribidi-1.0.2-1.el7_7.1.x86_64
 install atomic-registries-1.22.1-33.gitb507039.el7_8.x86_64
 install abattis-cantarell-fonts-0.0.25-1.el7.noarch
@@ -3072,7 +3073,6 @@ install libdb-utils-5.3.21-25.el7.x86_64
 install gc-7.2d-7.el7.x86_64
 install farstream02-0.2.3-3.el7.x86_64
 install ncompress-4.2.4.4-3.1.el7_8.x86_64
-install inxi-3.3.06-1.el7.noarch
 install libwacom-0.30-1.el7.x86_64
 install libasyncns-0.8-7.el7.x86_64
 install cyrus-sasl-2.1.26-23.el7.x86_64
