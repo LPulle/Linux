@@ -2281,7 +2281,6 @@ install texlive-utopia-svn15878.0-45.el7.noarch
 install rootfiles-8.1-11.el7.noarch
 install php80-php-devel-8.0.13-1.el7.remi.x86_64
 install stix-fonts-1.1.0-5.el7.noarch
-install code-1.62.3-1637137194.el7.x86_64
 install libX11-1.6.7-4.el7_9.i686
 install rpm-build-libs-4.11.3-48.el7_9.x86_64
 install spice-gtk3-0.35-5.el7_9.1.x86_64
@@ -3080,6 +3079,7 @@ install libcap-ng-0.7.5-4.el7.i686
 install xmlrpc-c-client-1.32.5-1905.svn2451.el7.x86_64
 install blas-3.4.2-8.el7.x86_64
 install python-ldap-2.4.15-2.el7.x86_64
+install code-1.63.0-1638855621.el7.x86_64
 install libnl3-3.2.28-4.el7.x86_64
 install mesa-libGL-devel-18.3.4-12.el7_9.x86_64
 install libcom_err-devel-1.42.9-19.el7.x86_64
