@@ -263,6 +263,7 @@ install kgreeter-plugins-4.11.19-16.el7_9.x86_64
 install python-brlapi-0.6.0-16.el7.x86_64
 install systemd-219-78.el7_9.3.x86_64
 install texlive-koma-script-svn27255.3.11b-45.el7.noarch
+install code-1.63.1-1639448925.el7.x86_64
 install libpipeline-1.2.3-3.el7.x86_64
 install poppler-utils-0.26.5-43.el7.1.x86_64
 install libtevent-0.9.39-1.el7.x86_64
@@ -3079,7 +3080,6 @@ install libcap-ng-0.7.5-4.el7.i686
 install xmlrpc-c-client-1.32.5-1905.svn2451.el7.x86_64
 install blas-3.4.2-8.el7.x86_64
 install python-ldap-2.4.15-2.el7.x86_64
-install code-1.63.0-1638855621.el7.x86_64
 install libnl3-3.2.28-4.el7.x86_64
 install mesa-libGL-devel-18.3.4-12.el7_9.x86_64
 install libcom_err-devel-1.42.9-19.el7.x86_64
