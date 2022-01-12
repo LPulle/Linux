@@ -389,7 +389,6 @@ install perl-DBI-1.627-4.el7.x86_64
 install openblas-Rblas-0.3.3-2.el7.x86_64
 install make-3.82-24.el7.x86_64
 install sgabios-bin-0.20110622svn-4.el7.noarch
-install libzstd-1.5.0-1.el7.x86_64
 install glx-utils-8.3.0-10.el7.x86_64
 install ca-certificates-2021.2.50-72.el7_9.noarch
 install xorg-x11-fonts-ISO8859-1-75dpi-7.5-9.el7.noarch
@@ -1003,6 +1002,7 @@ install device-mapper-event-1.02.170-6.el7_9.5.x86_64
 install dmraid-events-1.0.0.rc16-28.el7.x86_64
 install ibus-hangul-1.4.2-11.el7.x86_64
 install libuser-0.60-9.el7.x86_64
+install libzstd-1.5.1-4.el7.x86_64
 install alsa-firmware-1.0.28-2.el7.noarch
 install libXxf86misc-1.0.3-7.1.el7.x86_64
 install rest-0.8.1-2.el7.x86_64
