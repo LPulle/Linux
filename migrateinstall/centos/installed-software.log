@@ -528,6 +528,7 @@ expat-devel
 expect
 faac
 faad2-libs
+facter
 fann
 farstream
 farstream02
@@ -879,6 +880,7 @@ hdf5
 HdrHistogram_c6php-libs
 hesiod
 hicolor-icon-theme
+hiera
 highcontrast-qt5
 hiredis-last
 hostname
@@ -1332,6 +1334,7 @@ libmwaw
 libnatpmp
 libndp
 libnetfilter_conntrack
+libnetfilter_queue
 libnfnetlink
 libnfsidmap
 libnghttp2
@@ -1435,6 +1438,7 @@ libsecret
 libselinux
 libselinux-devel
 libselinux-python
+libselinux-ruby
 libselinux-utils
 libsemanage
 libsemanage-python
@@ -1745,6 +1749,8 @@ mathjax-winie6-fonts
 mc
 mcelog
 mdadm
+mdatp
+mde-netfilter
 meanwhile
 media-player-info
 mesa-dri-drivers
@@ -2271,6 +2277,7 @@ pulseaudio-libs-glib2
 pulseaudio-module-bluetooth
 pulseaudio-module-x11
 pulseaudio-utils
+puppet
 pycairo
 pygobject2
 pygpgme
@@ -2531,15 +2538,18 @@ rsync
 rsyslog
 rtkit
 ruby
+ruby-augeas
 ruby-devel
 rubygem-bigdecimal
 rubygem-io-console
 rubygem-json
 rubygem-psych
 rubygem-rdoc
+rubygem-rgen
 rubygems
 ruby-irb
 ruby-libs
+ruby-shadow
 rxvt-unicode
 sac
 samba
