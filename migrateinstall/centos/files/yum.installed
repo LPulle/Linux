@@ -1003,7 +1003,6 @@ install device-mapper-event-1.02.170-6.el7_9.5.x86_64
 install dmraid-events-1.0.0.rc16-28.el7.x86_64
 install ibus-hangul-1.4.2-11.el7.x86_64
 install libuser-0.60-9.el7.x86_64
-install libzstd-1.5.1-4.el7.x86_64
 install alsa-firmware-1.0.28-2.el7.noarch
 install libXxf86misc-1.0.3-7.1.el7.x86_64
 install rest-0.8.1-2.el7.x86_64
@@ -1081,6 +1080,7 @@ install qdox-1.12.1-10.el7.noarch
 install recode-3.6-38.el7.x86_64
 install xdg-utils-1.1.0-0.17.20120809git.el7.noarch
 install NLopt-doc-2.4.2-2.el7.noarch
+install msodbcsql17-17.8.1.2-1.x86_64
 install Canna-libs-3.7p3-43.el7.x86_64
 install diffutils-3.3-5.el7.x86_64
 install festival-1.96-28.el7.x86_64
@@ -1407,7 +1407,6 @@ install subversion-python-1.7.14-16.el7.x86_64
 install varnish-libs-4.0.5-1.el7.x86_64
 install gobject-introspection-1.56.1-1.el7.x86_64
 install python-kitchen-1.1.1-5.el7.noarch
-install msodbcsql17-17.7.2.1-1.x86_64
 install coreutils-8.22-24.el7_9.2.x86_64
 install glusterfs-api-6.0-49.1.el7.x86_64
 install devtoolset-10-libquadmath-devel-10.2.1-11.2.el7.x86_64
@@ -1703,6 +1702,7 @@ install gtk2-engines-2.20.2-7.el7.x86_64
 install libcanberra-gtk3-0.30-9.el7.x86_64
 install php80-runtime-1.0-3.el7.remi.x86_64
 install devtoolset-9-make-4.2.1-2.el7.x86_64
+install libzstd-1.5.2-1.el7.x86_64
 install libepoxy-devel-1.5.2-1.el7.x86_64
 install devtoolset-9-libgccjit-docs-9.3.1-2.2.el7.x86_64
 install devtoolset-10-toolchain-10.1-0.el7.x86_64
