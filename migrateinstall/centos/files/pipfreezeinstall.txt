@@ -319,6 +319,7 @@ widgetsnbextension
 wordcloud
 wrapt
 xlrd
+xlsx2csv
 youtube-dl
 yum-langpacks
 yum-metadata-parser
