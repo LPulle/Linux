@@ -920,6 +920,7 @@ install alsa-lib-1.1.8-1.el7.i686
 install kmod-20-28.el7.x86_64
 install xemacs-nox-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
 install libexttextcat-3.4.1-3.el7.x86_64
+install msodbcsql17-17.9.1.1-1.x86_64
 install xdg-user-dirs-gtk-0.10-4.el7.x86_64
 install gupnp-av-0.12.10-1.el7.x86_64
 install libvirt-bash-completion-4.5.0-36.el7_9.5.x86_64
@@ -1079,7 +1080,6 @@ install qdox-1.12.1-10.el7.noarch
 install recode-3.6-38.el7.x86_64
 install xdg-utils-1.1.0-0.17.20120809git.el7.noarch
 install NLopt-doc-2.4.2-2.el7.noarch
-install msodbcsql17-17.8.1.2-1.x86_64
 install Canna-libs-3.7p3-43.el7.x86_64
 install diffutils-3.3-5.el7.x86_64
 install festival-1.96-28.el7.x86_64
@@ -1129,6 +1129,7 @@ install nux-dextop-release-0-5.el7.nux.noarch
 install NetworkManager-vpnc-1.2.6-1.el7.x86_64
 install device-mapper-multipath-libs-0.4.9-135.el7_9.x86_64
 install web-assets-filesystem-5-1.el7.noarch
+install mssql-cli-1.0.0-1.el7.x86_64
 install iwl3160-firmware-25.30.13.0-80.el7_9.noarch
 install jdk-17-17.0.1-ga.x86_64
 install libgs-9.25-5.el7.x86_64
@@ -1753,6 +1754,7 @@ install kscreen-1.0.1-9.el7.x86_64
 install R-java-devel-3.6.0-1.el7.x86_64
 install perl-macros-5.16.3-299.el7_9.x86_64
 install php-symfony-filesystem-2.8.12-2.el7.noarch
+install msodbcsql18-18.0.1.1-1.x86_64
 install mate-disk-usage-analyzer-1.16.1-2.el7.x86_64
 install vorbis-tools-1.4.0-13.el7.x86_64
 install libwayland-cursor-1.15.0-1.el7.x86_64
@@ -2380,6 +2382,7 @@ install kbd-1.15.5-16.el7_9.x86_64
 install libtasn1-4.10-1.el7.x86_64
 install gstreamer1-plugins-bad-freeworld-1.0.6-2.el7.nux.x86_64
 install cairo-1.15.12-4.el7.i686
+install powershell-7.2.1-1.rh.x86_64
 install mate-applets-1.16.0-2.el7.x86_64
 install libSM-1.2.2-2.el7.x86_64
 install texlive-xunicode-svn23897.0.981-45.el7.noarch
@@ -2764,6 +2767,7 @@ install evince-3.28.2-10.el7.x86_64
 install evolution-data-server-3.28.5-5.el7.x86_64
 install lohit-marathi-fonts-2.5.3-2.el7.noarch
 install liblockfile-1.08-17.el7.x86_64
+install libunwind-1.2-2.el7.x86_64
 install texlive-metafont-svn26689.2.718281-45.el7.noarch
 install pango-1.42.4-4.el7_7.i686
 install libselinux-2.5-15.el7.x86_64

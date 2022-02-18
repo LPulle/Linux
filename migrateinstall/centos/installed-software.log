@@ -1501,6 +1501,7 @@ libtsan
 libubsan1
 libudisks2
 libunistring
+libunwind
 libupnp
 libusal
 libusb
@@ -1798,6 +1799,8 @@ mpfr-devel
 mpg123-libs
 msgpack
 msodbcsql17
+msodbcsql18
+mssql-cli
 mtdev
 mtools
 mtr
@@ -2257,6 +2260,7 @@ portaudio-devel
 postfix
 postgresql-jdbc
 postgresql-libs
+powershell
 ppp
 pptp
 prelink
