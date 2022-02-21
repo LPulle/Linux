@@ -235,7 +235,6 @@ install libXcomposite-devel-0.4.4-4.1.el7.x86_64
 install perl-HTML-Tagset-3.20-15.el7.noarch
 install at-spi2-atk-2.26.2-1.el7.x86_64
 install libpng-devel-1.5.13-8.el7.x86_64
-install remmina-plugins-secret-1.4.23-4.el7.x86_64
 install pyliblzma-0.5.3-11.el7.x86_64
 install libsemanage-python-2.5-14.el7.x86_64
 install python-urllib3-1.10.2-7.el7.noarch
@@ -366,6 +365,7 @@ install libiodbc-3.52.7-7.el7.x86_64
 install libsigc++20-2.10.0-1.el7.x86_64
 install texlive-pslatex-svn16416.0-45.el7.noarch
 install openssh-server-7.4p1-22.el7_9.x86_64
+install remmina-plugins-rdp-1.4.24-2.el7.x86_64
 install setools-console-3.3.8-4.el7.x86_64
 install libvirt-daemon-driver-storage-disk-4.5.0-36.el7_9.5.x86_64
 install rh-python36-python-setuptools-36.5.0-1.el7.noarch
@@ -679,6 +679,7 @@ install devtoolset-9-libitm-devel-9.3.1-2.2.el7.x86_64
 install microcode_ctl-2.1-73.11.el7_9.x86_64
 install guake-0.8.7-1.el7.noarch
 install perl-constant-1.27-2.el7.noarch
+install remmina-plugins-vnc-1.4.24-2.el7.x86_64
 install libburn-1.2.8-4.el7.x86_64
 install compiz-debuginfo-0.8.8-27.el7.nux.x86_64
 install gperftools-libs-2.6.1-1.el7.x86_64
@@ -1090,7 +1091,6 @@ install gnome-system-monitor-3.28.2-1.el7.x86_64
 install xorg-x11-fonts-100dpi-7.5-9.el7.noarch
 install jasper-libs-1.900.1-33.el7.x86_64
 install pciutils-libs-3.5.1-3.el7.x86_64
-install remmina-plugins-vnc-1.4.23-4.el7.x86_64
 install mathjax-script-fonts-2.7.4-2.el7.noarch
 install erlang-stdlib-R16B-03.18.el7.x86_64
 install libreoffice-gtk2-5.3.6.1-25.el7_9.x86_64
@@ -1345,6 +1345,7 @@ install lohit-nepali-fonts-2.5.3-2.el7.noarch
 install kdelibs-ktexteditor-4.14.8-13.el7.x86_64
 install perl-Git-2.31.1-1.WANdisco.469.noarch
 install perl-Compress-Raw-Zlib-2.061-4.el7.x86_64
+install mdatp-101.58.80-1.x86_64
 install python36-six-1.14.0-3.el7.noarch
 install ghc-haskell98-2.0.0.2-26.4.el7.x86_64
 install vlc-core-2.2.8-1.el7.nux.x86_64
@@ -1716,7 +1717,6 @@ install libwacom-data-0.30-1.el7.noarch
 install xorg-x11-fonts-ISO8859-9-75dpi-7.5-9.el7.noarch
 install java-1.7.0-openjdk-devel-1.7.0.261-2.6.22.2.el7_8.x86_64
 install realmd-0.16.1-12.el7_9.1.x86_64
-install remmina-plugins-exec-1.4.23-4.el7.x86_64
 install flatpak-1.0.9-12.el7_9.x86_64
 install elrepo-release-7.0-5.el7.elrepo.noarch
 install libvirt-daemon-driver-secret-4.5.0-36.el7_9.5.x86_64
@@ -2087,6 +2087,7 @@ install libXtst-devel-1.2.3-1.el7.x86_64
 install sssd-ipa-1.16.5-10.el7_9.11.x86_64
 install lirc-libs-0.10.0-16.el7.x86_64
 install ksh-20120801-143.el7_9.x86_64
+install remmina-plugins-exec-1.4.24-2.el7.x86_64
 install cairo-1.15.12-4.el7.x86_64
 install texlive-underscore-svn18261.0-45.el7.noarch
 install devtoolset-7-gcc-gdb-plugin-7.3.1-5.16.el7.x86_64
@@ -2121,7 +2122,6 @@ install jomolhari-fonts-0.003-17.el7.noarch
 install perl-JSON-PP-2.27202-2.el7.noarch
 install telepathy-mission-control-5.16.3-3.el7.x86_64
 install libblockdev-fs-2.18-5.el7.x86_64
-install mdatp-101.56.62-1.x86_64
 install libudisks2-2.8.4-1.el7.x86_64
 install python36-requests-2.14.2-2.el7.noarch
 install yum-plugin-priorities-1.1.31-54.el7_8.noarch
@@ -2501,7 +2501,6 @@ install openjpeg-libs-1.5.1-18.el7.i686
 install game-music-emu-0.6.2-1.el7.x86_64
 install adwaita-icon-theme-3.28.0-1.el7.noarch
 install libgo-4.8.5-44.el7.x86_64
-install remmina-plugins-rdp-1.4.23-4.el7.x86_64
 install texlive-filecontents-svn24250.1.3-45.el7.noarch
 install ruby-2.0.0.648-36.el7.x86_64
 install php80-php-mysqlnd-8.0.16-1.el7.remi.x86_64
@@ -2560,6 +2559,7 @@ install texlive-thumbpdf-bin-svn6898.0-45.20130427_r30134.el7.noarch
 install emacs-nox-24.3-23.el7.x86_64
 install libuser-python-0.60-9.el7.x86_64
 install texlive-sansmath-svn17997.1.1-45.el7.noarch
+install remmina-plugins-secret-1.4.24-2.el7.x86_64
 install abrt-desktop-2.1.11-60.el7.centos.x86_64
 install perl-srpm-macros-1-8.el7.noarch
 install libkadm5-1.15.1-51.el7_9.x86_64
@@ -2854,7 +2854,6 @@ install texlive-xdvi-svn26689.22.85-45.el7.noarch
 install apache-commons-logging-1.1.2-7.el7.noarch
 install libdb-devel-5.3.21-25.el7.x86_64
 install IP2Location-libs-8.4.1-1.el7.x86_64
-install remmina-1.4.23-4.el7.x86_64
 install devtoolset-9-strace-5.1-7.el7.x86_64
 install aic94xx-firmware-30-6.el7.noarch
 install erlang-kernel-R16B-03.18.el7.x86_64
@@ -3299,6 +3298,7 @@ install perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64
 install mdadm-4.1-8.el7_9.x86_64
 install pluma-data-1.16.2-1.el7.noarch
 install devtoolset-9-dyninst-devel-10.1.0-4.el7.x86_64
+install remmina-1.4.24-2.el7.x86_64
 install texlive-section-svn20180.0-45.el7.noarch
 install fftw-libs-double-3.3.3-8.el7.x86_64
 install google-noto-fonts-common-20141117-5.el7.noarch
