@@ -451,6 +451,8 @@ dmenu
 dmidecode
 dmraid
 dmraid-events
+dnf
+dnf-data
 dnsmasq
 docbook-dtds
 docbook-style-xsl
@@ -1156,6 +1158,7 @@ libcollection
 libcom_err
 libcom_err-devel
 libcompizconfig
+libcomps
 libconfig
 libconfuse
 libcouchbase
@@ -1178,6 +1181,7 @@ libdhash
 libdmapsharing
 libdmx
 libdnet
+libdnf
 libdrm
 libdrm-devel
 libdv
@@ -1319,6 +1323,7 @@ libmng
 libmnl
 libmodman
 libmodplug
+libmodulemd
 libmount
 libmp4v2
 libmpc
@@ -1409,6 +1414,7 @@ libreoffice-ure
 libreoffice-ure-common
 libreoffice-writer
 libreoffice-x11
+librepo
 libreport
 libreport-anaconda
 libreport-centos
@@ -1457,6 +1463,7 @@ libSM-devel
 libsmi
 libsndfile
 libsodium
+libsolv
 libsoup
 libspectre
 libspiro
@@ -2306,11 +2313,15 @@ python2-certbot
 python2-configargparse
 python2-cryptography
 python2-distro
+python2-dnf
 python2-future
 python2-futures
+python2-hawkey
 python2-ipaclient
 python2-ipalib
 python2-josepy
+python2-libcomps
+python2-libdnf
 python2-mock
 python2-parsedatetime
 python2-pip
@@ -2347,6 +2358,7 @@ python36-requests
 python36-responses
 python36-rfc3986
 python36-rpm
+python36-rpmconf
 python36-ruamel-yaml
 python36-setproctitle
 python36-six
@@ -2528,6 +2540,8 @@ rpcbind
 rpm
 rpm-build
 rpm-build-libs
+rpmconf
+rpmconf-base
 rpmdevtools
 rpmforge-release
 rpmfusion-free-release
