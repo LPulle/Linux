@@ -48,7 +48,6 @@ install libtidy-5.4.0-1.el7.x86_64
 install devtoolset-10-make-4.2.1-1.el7.x86_64
 install gom-0.4-1.el7.x86_64
 install libwayland-server-1.15.0-1.el7.i686
-install dnf-4.0.9.2-2.el7_9.noarch
 install dbusmenu-qt-0.9.2-7.el7.x86_64
 install mathjax-2.7.4-2.el7.noarch
 install libasan6-11.2.1-1.2.el7.x86_64
