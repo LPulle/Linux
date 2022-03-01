@@ -151,7 +151,6 @@ install mesa-libxatracker-18.3.4-12.el7_9.x86_64
 install libquadmath-4.8.5-44.el7.x86_64
 install dosfstools-3.0.20-10.el7.x86_64
 install python36-rpmconf-1.0.22-1.el7.noarch
-install shiny-server-1.5.16.1078-1.x86_64
 install openjpeg2-2.3.1-3.el7_7.x86_64
 install perl-Parse-EDID-1.0.7-1.el7.noarch
 install cups-filters-1.0.35-28.el7.x86_64
@@ -709,6 +708,7 @@ install compat-exiv2-026-0.26-2.el7.x86_64
 install libcacard-2.7.0-1.el7.x86_64
 install speex-1.2-0.19.rc1.el7.x86_64
 install texlive-latex-svn27907.0-45.el7.noarch
+install shiny-server-1.5.17.973-1.x86_64
 install imsettings-1.6.3-11.el7.x86_64
 install libmount-2.23.2-65.el7_9.1.i686
 install http-parser-2.7.1-9.el7.x86_64
@@ -1121,7 +1121,6 @@ install libmad-0.15.1b-26.el7.x86_64
 install libX11-devel-1.6.7-4.el7_9.x86_64
 install php80-php-xml-8.0.16-1.el7.remi.x86_64
 install libusbx-1.0.21-1.el7.x86_64
-install HdrHistogram_c6php-libs-0.11.2-1.el7.remi.x86_64
 install gnome-themes-standard-3.28-2.el7.x86_64
 install rdma-core-22.4-6.el7_9.x86_64
 install perl-Locale-Maketext-1.23-3.el7.noarch
@@ -2019,6 +2018,7 @@ install ghc-pretty-1.1.1.0-26.4.el7.x86_64
 install kde-filesystem-4-47.el7.x86_64
 install pykickstart-1.99.66.22-1.el7.noarch
 install libmms-0.6.4-1.el7.nux.x86_64
+install HdrHistogram_c6php-libs-0.11.4-1.el7.remi.x86_64
 install texlive-ifxetex-svn19685.0.5-45.el7.noarch
 install libXmu-devel-1.1.2-2.el7.x86_64
 install jemalloc-3.6.0-1.el7.x86_64
