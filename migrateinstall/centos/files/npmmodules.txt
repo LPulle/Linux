@@ -1,3 +1,4 @@
+corepack
 fast-cli
 npm
 @types

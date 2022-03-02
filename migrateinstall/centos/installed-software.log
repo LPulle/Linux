@@ -443,6 +443,7 @@ diffstat
 diffutils
 distribution-gpg-keys
 djvulibre-libs
+dkms
 dleyna-connector-dbus
 dleyna-core
 dleyna-server
@@ -1051,6 +1052,7 @@ kde-workspace
 kde-workspace-libs
 kernel
 kernel-debug-devel
+kernel-devel
 kernel-headers
 kernel-lt
 kernel-ml
@@ -3059,7 +3061,7 @@ vim-filesystem
 vim-minimal
 vinagre
 vino
-VirtualBox-6.0
+VirtualBox-6.1
 virtuoso-opensource
 virt-what
 vlc
