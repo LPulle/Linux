@@ -452,6 +452,7 @@ dmenu
 dmidecode
 dmraid
 dmraid-events
+dnf
 dnf-data
 dnsmasq
 docbook-dtds
@@ -478,6 +479,7 @@ easy-rsa
 ebtables
 ed
 efivar-libs
+elevate-release
 elfutils
 elfutils-default-yama-scope
 elfutils-libelf
@@ -1096,6 +1098,11 @@ lash
 lcms2
 lcms2-devel
 ldns
+leapp
+leapp-data-almalinux
+leapp-deps
+leapp-upgrade-el7toel8
+leapp-upgrade-el7toel8-deps
 ledmon
 less
 leveldb
@@ -1833,6 +1840,7 @@ ndctl
 ndctl-libs
 nemo
 nemo-extensions
+neofetch
 neon
 neovim
 nepomuk-core
@@ -2321,6 +2329,7 @@ python2-hawkey
 python2-ipaclient
 python2-ipalib
 python2-josepy
+python2-leapp
 python2-libcomps
 python2-libdnf
 python2-mock

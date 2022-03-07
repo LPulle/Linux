@@ -143,6 +143,7 @@ kiwisolver
 kmod
 langtable
 lazy-object-proxy
+leapp
 leather
 logutils
 lxml
