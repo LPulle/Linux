@@ -390,7 +390,6 @@ install python36-urllib3-1.25.6-2.el7.noarch
 install nmap-6.40-19.el7.x86_64
 install dhcp-libs-4.2.5-83.el7.centos.1.x86_64
 install valgrind-3.15.0-11.el7.x86_64
-install mdatp-101.60.05-1.x86_64
 install texlive-amsfonts-svn29208.3.04-45.el7.noarch
 install texlive-pst-tree-svn24142.1.12-45.el7.noarch
 install ldns-1.6.16-10.el7.x86_64
@@ -3362,6 +3361,7 @@ install ntsysv-1.7.6-1.el7.x86_64
 install devtoolset-10-libtsan-devel-10.2.1-11.2.el7.x86_64
 install liblangtag-0.6.2-1.1.el7.x86_64
 install texlive-collection-fontsrecommended-svn28082.0-45.20130427_r30134.el7.noarch
+install mdatp-101.60.93-1.x86_64
 install php-phpunit-PHPUnit-MockObject-2.3.8-1.el7.noarch
 install libhandlebars-0.7.3-1.el7.remi.x86_64
 install mtools-4.0.18-5.el7.x86_64
