@@ -193,6 +193,7 @@ install jack-audio-connection-kit-1.9.9.5-6.el7.x86_64
 install sl-5.02-1.el7.x86_64
 install libassuan-2.1.0-3.el7.x86_64
 install php80-php-pecl-zip-1.20.0-1.el7.remi.x86_64
+install firefox-91.7.0-3.el7.centos.x86_64
 install boost-python-1.53.0-28.el7.x86_64
 install plymouth-plugin-two-step-0.8.9-0.34.20140113.el7.centos.x86_64
 install lmdb-libs-0.9.22-2.el7.x86_64
@@ -1520,7 +1521,6 @@ install libasan5-9.3.1-2.2.el7.x86_64
 install audit-libs-2.8.5-4.el7.x86_64
 install protobuf-compiler-2.5.0-8.el7.x86_64
 install libxshmfence-1.2-1.el7.x86_64
-install firefox-91.6.0-1.el7.centos.x86_64
 install gtk3-3.22.30-6.el7.x86_64
 install device-mapper-persistent-data-0.8.5-3.el7_9.2.x86_64
 install libreswan-3.25-9.1.el7_8.x86_64
