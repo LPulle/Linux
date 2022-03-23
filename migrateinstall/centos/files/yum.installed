@@ -1877,7 +1877,6 @@ install libteam-1.29-3.el7.x86_64
 install wavpack-4.60.1-9.el7.x86_64
 install ghc-haskell2010-1.1.1.0-26.4.el7.x86_64
 install libXrandr-1.5.1-2.el7.i686
-install libcaca-0.99-0.17.beta17.el7.x86_64
 install libnatpmp-20150609-1.el7.x86_64
 install gdk-pixbuf2-devel-2.36.12-3.el7.x86_64
 install libmwaw-0.3.5-1.el7.x86_64
@@ -3279,6 +3278,7 @@ install gtksourceview2-2.11.2-15.el7.x86_64
 install texlive-cmextra-svn14075.0-45.el7.noarch
 install libss-1.42.9-19.el7.x86_64
 install python2-pyroute2-0.4.13-2.el7.noarch
+install libcaca-0.99-0.40.beta20.el7.x86_64
 install festvox-slt-arctic-hts-0.20061229-28.el7.noarch
 install wodim-1.1.11-25.el7.x86_64
 install ed-1.9-4.el7.x86_64
