@@ -102,6 +102,7 @@ install libmcrypt-2.5.8-13.el7.x86_64
 install libXxf86vm-1.1.4-1.el7.x86_64
 install gpg-pubkey-4b274df2-5c17ce56
 install devtoolset-9-dyninst-static-10.1.0-4.el7.x86_64
+install tzdata-2022a-1.el7.noarch
 install emacs-common-ess-16.04-2.el7.centos.noarch
 install xorg-x11-server-utils-7.7-20.el7.x86_64
 install grubby-8.28-26.el7.x86_64
@@ -616,7 +617,6 @@ install srvadmin-sysfsutils-10.1.0.0-4561.18274.el7.x86_64
 install libstroke-0.5.1-33.el7.x86_64
 install texlive-sauerj-svn15878.0-45.el7.noarch
 install scl-utils-20130529-19.el7.x86_64
-install leapp-data-almalinux-0.1-2.el7.noarch
 install php-phpspec-prophecy-1.4.1-1.el7.noarch
 install fwupdate-libs-12-6.el7.centos.x86_64
 install gnome-shell-extension-launch-new-instance-3.28.1-17.el7_9.noarch
@@ -848,6 +848,7 @@ install texlive-sepnum-svn20186.2.0-45.el7.noarch
 install simple-scan-3.28.1-1.el7.x86_64
 install texlive-tex-gyre-svn18651.2.004-45.el7.noarch
 install shapelib-1.3.0-2.el7.x86_64
+install leapp-data-almalinux-0.1-4.el7.noarch
 install texlive-booktabs-svn15878.1.61803-45.el7.noarch
 install php-symfony-process-2.8.12-2.el7.noarch
 install lklug-fonts-0.6-10.20090803cvs.el7.noarch
@@ -1003,7 +1004,6 @@ install pypy-libs-5.0.1-3.el7.x86_64
 install devtoolset-10-libubsan-devel-10.2.1-11.2.el7.x86_64
 install m17n-db-1.6.4-4.el7.noarch
 install gnome-system-log-3.9.90-3.el7.x86_64
-install tzdata-2021e-1.el7.noarch
 install boost-iostreams-1.53.0-28.el7.x86_64
 install texlive-metafont-bin-svn26912.0-45.20130427_r30134.el7.x86_64
 install python-kmod-0.9-4.el7.x86_64
@@ -1459,6 +1459,7 @@ install libxcb-1.13-1.el7.i686
 install dracut-033-572.el7.x86_64
 install python-iniparse-0.4-9.el7.noarch
 install setroubleshoot-plugins-3.0.67-4.el7.noarch
+install tzdata-java-2022a-1.el7.noarch
 install libvorbis-1.3.3-8.el7.1.x86_64
 install hamcrest-1.3-6.el7.noarch
 install libreoffice-ure-5.3.6.1-25.el7_9.x86_64
@@ -2082,6 +2083,7 @@ install boost-serialization-1.53.0-28.el7.x86_64
 install python-smbc-1.0.13-8.el7.x86_64
 install rubygem-json-1.7.7-36.el7.x86_64
 install intel-openmp-32bit-19.0.5-281-19.0.5-281.x86_64
+install mdatp-101.62.74-1.x86_64
 install xorg-x11-drv-vmmouse-13.1.0-1.el7.1.x86_64
 install librtmp-2.4-2.20131205.gitdc76f0a.el7.nux.x86_64
 install iwl135-firmware-18.168.6.1-80.el7_9.noarch
@@ -3035,7 +3037,6 @@ install liberation-mono-fonts-1.07.2-16.el7.noarch
 install cairo-gobject-devel-1.15.12-4.el7.x86_64
 install devtoolset-10-ltrace-0.7.91-1.el7.x86_64
 install cups-pk-helper-0.2.6-2.el7.x86_64
-install tzdata-java-2021e-1.el7.noarch
 install leapp-upgrade-el7toel8-deps-0.14.0-100.202109271224Z.b7ebfca.master.el7.elevate.noarch
 install texlive-soul-svn15878.2.4-45.el7.noarch
 install google-crosextra-carlito-fonts-1.103-0.2.20130920.el7.noarch
@@ -3360,7 +3361,6 @@ install ntsysv-1.7.6-1.el7.x86_64
 install devtoolset-10-libtsan-devel-10.2.1-11.2.el7.x86_64
 install liblangtag-0.6.2-1.1.el7.x86_64
 install texlive-collection-fontsrecommended-svn28082.0-45.20130427_r30134.el7.noarch
-install mdatp-101.60.93-1.x86_64
 install php-phpunit-PHPUnit-MockObject-2.3.8-1.el7.noarch
 install libhandlebars-0.7.3-1.el7.remi.x86_64
 install mtools-4.0.18-5.el7.x86_64
