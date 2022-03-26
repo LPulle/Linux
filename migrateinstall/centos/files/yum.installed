@@ -1324,7 +1324,6 @@ install perl-IO-HTML-1.00-2.el7.noarch
 install libatasmart-0.19-6.el7.x86_64
 install libgo-devel-4.8.5-44.el7.x86_64
 install liblouis-python-2.5.2-12.el7_4.noarch
-install xrdp-0.9.18-5.el7.x86_64
 install subscription-manager-rhsm-1.24.50-1.el7.centos.x86_64
 install python36-jinja2-2.11.1-1.el7.noarch
 install texlive-latex-fonts-svn28888.0-45.el7.noarch
@@ -1387,7 +1386,6 @@ install python2-pyasn1-modules-0.1.9-7.el7.noarch
 install cyrus-sasl-scram-2.1.26-24.el7_9.x86_64
 install srvadmin-cm-9.5.0-20.09.00.x86_64
 install rh-python36-python-virtualenv-15.1.0-3.el7.noarch
-install openvpn-2.4.11-1.el7.x86_64
 install texlive-multido-svn18302.1.42-45.el7.noarch
 install mpfr-3.1.1-4.el7.x86_64
 install devtoolset-10-systemtap-client-4.4-6.el7.x86_64
@@ -1535,7 +1533,6 @@ install iscsi-initiator-utils-6.2.0.874-22.el7_9.x86_64
 install devtoolset-9-gdb-8.3-3.el7.x86_64
 install ibus-table-1.5.0-5.el7.noarch
 install qt-x11-4.8.7-9.el7_9.x86_64
-install xrdp-selinux-0.9.18-5.el7.x86_64
 install urw-base35-standard-symbols-ps-fonts-20170801-10.el7.noarch
 install abrt-dbus-2.1.11-60.el7.centos.x86_64
 install pypy-5.0.1-3.el7.x86_64
@@ -1669,6 +1666,7 @@ install texlive-babelbib-svn25245.1.31-45.el7.noarch
 install libtiff-4.0.3-35.el7.x86_64
 install texlive-tetex-svn29585.3.0-45.el7.noarch
 install java-1.7.0-openjdk-1.7.0.261-2.6.22.2.el7_8.x86_64
+install openvpn-2.4.12-1.el7.x86_64
 install gpg-pubkey-f6777c67-45e5b1b9
 install gtk-update-icon-cache-3.22.30-6.el7.x86_64
 install dcraw-9.19-6.el7.x86_64
@@ -2742,6 +2740,7 @@ install python3-setuptools-39.2.0-10.el7.noarch
 install gnutls-3.3.29-9.el7_6.x86_64
 install bzip2-devel-1.0.6-13.el7.x86_64
 install libvirt-daemon-driver-storage-rbd-4.5.0-36.el7_9.5.x86_64
+install xrdp-0.9.19-1.el7.x86_64
 install indent-2.2.11-13.el7.x86_64
 install texinfo-5.1-5.el7.x86_64
 install openblas-openmp64_-0.3.3-2.el7.x86_64
@@ -3066,6 +3065,7 @@ install patch-2.7.1-12.el7_7.x86_64
 install fuse-libs-2.9.2-11.el7.x86_64
 install texlive-bibtex-svn26689.0.99d-45.el7.noarch
 install gpg-pubkey-23b66a9d-40912de3
+install xrdp-selinux-0.9.19-1.el7.x86_64
 install libXext-devel-1.3.3-3.el7.x86_64
 install texlive-paralist-svn15878.2.3b-45.el7.noarch
 install celt051-0.5.1.3-8.el7.x86_64
