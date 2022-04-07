@@ -651,6 +651,7 @@ gettext
 gettext-common-devel
 gettext-devel
 gettext-libs
+gf-release
 ghc-array
 ghc-base
 ghc-binary
