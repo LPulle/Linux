@@ -140,6 +140,7 @@ bridge-utils
 brlapi
 brltty
 brotli
+brotli-devel
 bsdtar
 btrfs-progs
 bwidget
@@ -616,9 +617,9 @@ garcon
 gawk
 gc
 gcc
+gcc10-libgcc
 gcc-c++
 gcc-gfortran
-gcc-gnat
 gcc-go
 gcc-objc
 gcc-objc++
@@ -1226,7 +1227,6 @@ libfprint
 libfreehand
 libgcab1
 libgcc
-libgcj
 libgcrypt
 libgcrypt-devel
 libgdata
@@ -1246,7 +1246,6 @@ libglvnd-egl
 libglvnd-gles
 libglvnd-glx
 libglvnd-opengl
-libgnat
 libgnat-devel
 libgnomecanvas
 libgnomekbd
@@ -1529,6 +1528,7 @@ libutempter
 libuuid
 libuuid-devel
 libuv
+libuv-devel
 libv4l
 libva
 libva-devel
@@ -1889,6 +1889,9 @@ nmap
 nmap-ncat
 nm-connection-editor
 nodejs
+nodejs-devel
+nodejs-libs
+nodejs-packaging
 nodesource-release
 notify-python
 nspr
@@ -1959,6 +1962,7 @@ openssh-askpass
 openssh-clients
 openssh-server
 openssl
+openssl11
 openssl11-libs
 openssl-devel
 openssl-libs
@@ -3061,8 +3065,6 @@ usermode-gtk
 ustr
 util-linux
 uuid
-v8
-v8-devel
 valgrind
 varnish-libs
 vim-common
