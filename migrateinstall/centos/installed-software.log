@@ -1058,8 +1058,6 @@ kernel
 kernel-debug-devel
 kernel-devel
 kernel-headers
-kernel-lt
-kernel-ml
 kernel-tools
 kernel-tools-libs
 kexec-tools
