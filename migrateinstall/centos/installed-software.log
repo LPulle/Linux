@@ -1056,7 +1056,6 @@ kde-workspace
 kde-workspace-libs
 kernel
 kernel-debug-devel
-kernel-devel
 kernel-headers
 kernel-tools
 kernel-tools-libs

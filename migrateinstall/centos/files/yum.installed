@@ -3000,7 +3000,6 @@ install elfutils-default-yama-scope-0.176-5.el7.noarch
 install gsettings-desktop-schemas-devel-3.28.0-3.el7.x86_64
 install libgnat-devel-4.8.5-44.el7.x86_64
 install freeipmi-1.5.7-3.el7.x86_64
-install kernel-devel-3.10.0-1160.62.1.el7.x86_64
 install texlive-ifetex-svn24853.1.2-45.el7.noarch
 install libnl3-cli-3.2.28-4.el7.x86_64
 install openssh-askpass-7.4p1-22.el7_9.x86_64
