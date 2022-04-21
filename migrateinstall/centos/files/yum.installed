@@ -264,6 +264,7 @@ install lohit-telugu-fonts-2.5.3-3.el7.noarch
 install vino-3.22.0-7.el7.x86_64
 install libnetfilter_conntrack-1.0.6-1.el7_3.x86_64
 install usbredir-0.7.1-3.el7.x86_64
+install rstudio-2022.02.1+461-1.x86_64
 install abrt-addon-xorg-2.1.11-60.el7.centos.x86_64
 install python2-libdnf-0.22.5-2.el7_9.x86_64
 install texlive-gsftopk-svn26689.1.19.2-45.el7.noarch
@@ -341,7 +342,6 @@ install wireshark-1.10.14-25.el7.x86_64
 install mozjs38-38.8.0-2.el7.x86_64
 install libthai-0.1.14-9.el7.x86_64
 install samba-common-4.10.16-18.el7_9.noarch
-install rstudio-1.4.1106-1.x86_64
 install glusterfs-api-6.0-61.el7.x86_64
 install telepathy-haze-0.8.0-1.el7.x86_64
 install texlive-xkeyval-svn27995.2.6a-45.el7.noarch
@@ -1987,6 +1987,7 @@ install subversion-perl-1.7.14-16.el7.x86_64
 install NetworkManager-openconnect-1.2.4-4.el7.x86_64
 install libGLEW-1.10.0-5.el7.x86_64
 install gvfs-archive-1.36.2-5.el7_9.x86_64
+install rstudio-server-2022.02.1+461-1.x86_64
 install adobe-mappings-cmap-20171205-3.el7.noarch
 install checkpolicy-2.5-8.el7.x86_64
 install abrt-libs-2.1.11-60.el7.centos.x86_64
@@ -2121,7 +2122,6 @@ install devtoolset-9-systemtap-sdt-devel-4.1-9.el7.x86_64
 install gedit-3.28.1-3.el7.x86_64
 install python-ndg_httpsclient-0.3.2-1.el7.noarch
 install hiredis-last-0.13.3-1.el7.remi.x86_64
-install rstudio-server-1.3.1093-1.x86_64
 install gpg-pubkey-da8b7718-54420277
 install python-cups-1.9.63-6.el7.x86_64
 install ghc-dlist-0.5-11.el7.x86_64
