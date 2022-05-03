@@ -47,6 +47,7 @@ install icoutils-0.31.3-1.el7_3.x86_64
 install python-zope-event-4.0.3-2.el7.noarch
 install libtidy-5.4.0-1.el7.x86_64
 install devtoolset-10-make-4.2.1-1.el7.x86_64
+install oniguruma5php-6.9.8-1.el7.remi.x86_64
 install gom-0.4-1.el7.x86_64
 install libwayland-server-1.15.0-1.el7.i686
 install dbusmenu-qt-0.9.2-7.el7.x86_64
@@ -194,7 +195,6 @@ install gpg-pubkey-82f8c86a-5e387fde
 install jack-audio-connection-kit-1.9.9.5-6.el7.x86_64
 install sl-5.02-1.el7.x86_64
 install libassuan-2.1.0-3.el7.x86_64
-install php80-php-pecl-zip-1.20.0-1.el7.remi.x86_64
 install boost-python-1.53.0-28.el7.x86_64
 install plymouth-plugin-two-step-0.8.9-0.34.20140113.el7.centos.x86_64
 install lmdb-libs-0.9.22-2.el7.x86_64
@@ -925,7 +925,6 @@ install gpg-pubkey-00f97f56-467e318a
 install libstoragemgmt-1.8.1-2.el7_9.x86_64
 install xchat-2.8.8-25.el7.x86_64
 install mesa-filesystem-18.3.4-12.el7_9.x86_64
-install oniguruma5php-6.9.7.1-1.el7.remi.x86_64
 install NetworkManager-openvpn-1.8.10-1.el7.x86_64
 install alsa-lib-1.1.8-1.el7.i686
 install kmod-20-28.el7.x86_64
@@ -1572,6 +1571,7 @@ install srvadmin-itunnelprovider-10.1.0.0-4561.18274.el7.x86_64
 install man-pages-3.53-5.el7.noarch
 install tracker-1.10.5-8.el7.x86_64
 install gstreamer-plugins-base-0.10.36-10.el7.x86_64
+install php80-php-pecl-zip-1.20.1-1.el7.remi.x86_64
 install texlive-enumitem-svn24146.3.5.2-45.el7.noarch
 install java-1.7.0-openjdk-headless-1.7.0.261-2.6.22.2.el7_8.x86_64
 install php-phpunit-diff-1.4.3-1.el7.noarch
@@ -2089,7 +2089,6 @@ install php-sebastian-global-state-1.1.1-1.el7.noarch
 install boost-serialization-1.53.0-28.el7.x86_64
 install python-smbc-1.0.13-8.el7.x86_64
 install intel-openmp-32bit-19.0.5-281-19.0.5-281.x86_64
-install mdatp-101.62.74-1.x86_64
 install xorg-x11-drv-vmmouse-13.1.0-1.el7.1.x86_64
 install librtmp-2.4-2.20131205.gitdc76f0a.el7.nux.x86_64
 install iwl135-firmware-18.168.6.1-80.el7_9.noarch
@@ -3224,6 +3223,7 @@ install certmonger-0.78.4-17.el7_9.x86_64
 install gnome-icon-theme-extras-3.12.0-1.el7.noarch
 install NetworkManager-libreswan-gnome-1.2.4-2.el7.x86_64
 install libicu62-62.2-1.el7.remi.x86_64
+install mdatp-101.65.77-1.x86_64
 install qemu-guest-agent-2.12.0-3.el7.x86_64
 install sushi-3.28.3-1.el7.x86_64
 install dnf-data-4.0.9.2-2.el7_9.noarch
