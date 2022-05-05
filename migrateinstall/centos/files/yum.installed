@@ -3326,7 +3326,6 @@ install perl-Compress-Raw-Bzip2-2.061-3.el7.x86_64
 install pluma-data-1.16.2-1.el7.noarch
 install devtoolset-9-dyninst-devel-10.1.0-4.el7.x86_64
 install texlive-section-svn20180.0-45.el7.noarch
-install VirtualBox-6.1-6.1.34_150636_el7-2.x86_64
 install fftw-libs-double-3.3.3-8.el7.x86_64
 install google-noto-fonts-common-20141117-5.el7.noarch
 install texlive-mptopdf-bin-svn18674.0-45.20130427_r30134.el7.noarch

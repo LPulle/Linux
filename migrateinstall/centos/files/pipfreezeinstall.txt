@@ -308,7 +308,6 @@ update
 urlgrabber
 urllib3
 urwid
-vboxapi
 venusian
 virtualenv
 w3lib
