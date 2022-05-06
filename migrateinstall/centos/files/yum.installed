@@ -1258,7 +1258,6 @@ install sil-nuosu-fonts-2.1.1-5.el7.noarch
 install gegl-0.2.0-19.el7_9.1.x86_64
 install thai-scalable-fonts-common-0.5.0-7.el7.noarch
 install gtk-murrine-engine-0.98.2-10.el7.x86_64
-install code-1.66.2-1649664637.el7.x86_64
 install rkhunter-1.4.6-3.el7.noarch
 install php80-php-mbstring-8.0.18-1.el7.remi.x86_64
 install xorg-x11-xbitmaps-1.1.1-6.el7.noarch
@@ -3116,6 +3115,7 @@ install ncompress-4.2.4.4-3.1.el7_8.x86_64
 install libsolv-0.6.34-4.el7.x86_64
 install libwacom-0.30-1.el7.x86_64
 install libasyncns-0.8-7.el7.x86_64
+install code-1.67.0-1651667301.el7.x86_64
 install libcap-ng-0.7.5-4.el7.i686
 install xmlrpc-c-client-1.32.5-1905.svn2451.el7.x86_64
 install blas-3.4.2-8.el7.x86_64
