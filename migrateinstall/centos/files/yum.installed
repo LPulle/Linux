@@ -1352,7 +1352,6 @@ install libglvnd-core-devel-1.0.1-0.8.git5baa1e5.el7.x86_64
 install libglvnd-gles-1.0.1-0.8.git5baa1e5.el7.x86_64
 install gpg-pubkey-3bbf077a-51260c0f
 install python-coverage-3.6-0.5.b3.el7.x86_64
-install firefox-91.8.0-1.el7.centos.x86_64
 install lohit-nepali-fonts-2.5.3-2.el7.noarch
 install kdelibs-ktexteditor-4.14.8-13.el7.x86_64
 install perl-Git-2.31.1-1.WANdisco.469.noarch
@@ -1364,6 +1363,7 @@ install php-phpunit-Text-Template-1.2.0-5.el7.noarch
 install perl-Net-Daemon-0.48-5.el7.noarch
 install readline-static-6.2-11.el7.x86_64
 install gnome-backgrounds-3.28.0-1.el7.noarch
+install nodejs-14.19.2-1nodesource.x86_64
 install ImageMagick-7.0.3-7.x86_64
 install gstreamer1-plugins-ugly-1.0.6-3.el7.nux.x86_64
 install libcom_err-1.42.9-19.el7.i686
@@ -1557,7 +1557,6 @@ install libRmath-3.6.0-1.el7.x86_64
 install libreoffice-calc-5.3.6.1-25.el7_9.x86_64
 install python2-caribou0-0.4.21-26.el7.noarch
 install chrony-3.4-1.el7.x86_64
-install nodejs-14.19.1-1nodesource.x86_64
 install gnome-dictionary-3.26.1-2.el7.x86_64
 install glibc-headers-2.17-325.el7_9.x86_64
 install openbox-kde-3.5.2-6.el7.noarch
@@ -2522,6 +2521,7 @@ install libgo-4.8.5-44.el7.x86_64
 install texlive-filecontents-svn24250.1.3-45.el7.noarch
 install targetcli-2.1.53-1.el7_9.noarch
 install gnome-icon-theme-symbolic-3.12.0-2.el7.noarch
+install nodejs-devel-14.19.2-1nodesource.x86_64
 install devtoolset-9-oprofile-1.3.0-4.el7.x86_64
 install xorg-x11-utils-7.5-23.el7.x86_64
 install sssd-ldap-1.16.5-10.el7_9.12.x86_64
@@ -2574,7 +2574,6 @@ install libiptcdata-1.0.4-11.el7.x86_64
 install ibus-libs-1.5.17-12.el7_9.x86_64
 install texlive-thumbpdf-bin-svn6898.0-45.20130427_r30134.el7.noarch
 install emacs-nox-24.3-23.el7.x86_64
-install nodejs-devel-14.19.1-1nodesource.x86_64
 install libuser-python-0.60-9.el7.x86_64
 install texlive-sansmath-svn17997.1.1-45.el7.noarch
 install abrt-desktop-2.1.11-60.el7.centos.x86_64
@@ -3012,6 +3011,7 @@ install texlive-wasysym-svn15878.2.0-45.el7.noarch
 install usermode-gtk-1.111-6.el7.x86_64
 install boost-program-options-1.53.0-28.el7.x86_64
 install erlang-crypto-R16B-03.18.el7.x86_64
+install firefox-91.9.0-1.el7.centos.x86_64
 install srvadmin-jre-10.1.0.0-4561.18274.el7.x86_64
 install libsss_idmap-1.16.5-10.el7_9.12.x86_64
 install perl-Net-SNMP-6.0.1-7.el7.noarch
