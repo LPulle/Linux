@@ -21,11 +21,11 @@ sudo cp -nRf /etc/apt/sources.list* ~/ #creates ~/sources.list files
 sudo apt-key exportall > ~/Repo.keys #creates ~/Repo.keys
 
 # Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
-sudo -H pip2 install --upgrade pip
-sudo -H pip3 install --upgrade pip
-pip2 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip2freeze.txt
-pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip3freeze.txt
-cat ~/pip2freeze.txt ~/pip3freeze.txt | sort > ~/pipfreeze.txt
+sudo -H pip install --upgrade pip
+#sudo -H pip3 install --upgrade pip
+pip freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip2freeze.txt
+#pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip3freeze.txt
+cat ~/pip2freeze.txt | sort > ~/pipfreeze.txt
 uniq ~/pipfreeze.txt > ~/pipfreezemerge.txt
 cut -d "=" -f1 ~/pipfreezemerge.txt | uniq > ~/pipfreezeinstall.txt
 
@@ -52,7 +52,7 @@ rm -f ~/Package.list
 rm -f ~/Repo.keys
 rm -f ~/pip2freeze.txt
 rm -f ~/pip3freeze.txt
-rm -rf ~/sources.list*
+rm -rf ~/sources.list.d/
 rm -f ~/pipfreezemerge.txt
 rm -f ~/pipfreezeinstall.txt
 rm -f ~/npmmodules.txt
