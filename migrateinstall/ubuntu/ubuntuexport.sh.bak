@@ -47,15 +47,5 @@ git add -A
 git commit -am "Update ubuntu export files"
 git push #login to github
 
-# Cleanup
-rm -f ~/Package.list
-rm -f ~/Repo.keys
-rm -f ~/pip2freeze.txt
-rm -f ~/pip3freeze.txt
-rm -f ~/sources.list*
-rm -f ~/pipfreezemerge.txt
-rm -f ~/pipfreezeinstall.txt
-rm -f ~/npmmodules.txt
-
 # Copy all files created from the above to new install into ~/files
 # Also copy across any dot files you may want
