@@ -1,2 +1,2 @@
-# deb https://deb.nodesource.com/node_10.x cosmic main # disabled on upgrade to cosmic
-# deb-src https://deb.nodesource.com/node_10.x cosmic main # disabled on upgrade to cosmic
+deb [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_12.x focal main
+deb-src [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_12.x focal main
