@@ -52,7 +52,7 @@ rm -f ~/Package.list
 rm -f ~/Repo.keys
 rm -f ~/pip2freeze.txt
 rm -f ~/pip3freeze.txt
-rm -f ~/sources.list*
+rm -rf ~/sources.list*
 rm -f ~/pipfreezemerge.txt
 rm -f ~/pipfreezeinstall.txt
 rm -f ~/npmmodules.txt
