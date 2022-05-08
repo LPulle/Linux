@@ -1,5 +1,5 @@
 # Migrating Ubuntu Installs
-This is the Ubuntu version
+This is the Ubuntu version - updated for Ubuntu 20.04 now
 
 Run the ubuntuexport.sh script on the source\
 Upload the output files to the files folder - this will need to be updated periodically\
