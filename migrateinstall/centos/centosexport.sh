@@ -54,6 +54,7 @@ yes | sudo /bin/cp -f ~/pipfreezemerge.txt files
 yes | sudo /bin/cp -f ~/pipfreezeinstall.txt files
 yes | sudo /bin/cp -f ~/npmmodules.txt files
 yes | sudo /bin/cp -f ~/*.repo files
+rm -f *.bak
 git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
