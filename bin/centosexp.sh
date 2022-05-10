@@ -54,6 +54,9 @@ yes | sudo /bin/cp -f /home/pullel/pipfreezemerge.txt files
 yes | sudo /bin/cp -f /home/pullel/pipfreezeinstall.txt files
 yes | sudo /bin/cp -f /home/pullel/npmmodules.txt files
 yes | sudo /bin/cp -f /home/pullel/*.repo files
+# extra change as a .bak file appeared in this directory
+rm -f *.bak
+
 git add -A
 git commit -am "Update CentOS export files"
 git push #login to github
