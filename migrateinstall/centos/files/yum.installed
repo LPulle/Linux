@@ -60,7 +60,6 @@ install python-qrcode-core-5.0.1-1.el7.noarch
 install cdparanoia-10.2-17.el7.x86_64
 install texlive-setspace-svn24881.6.7a-45.el7.noarch
 install gnome-tweak-tool-3.28.1-7.el7.noarch
-install code-1.67.1-1651841920.el7.x86_64
 install iwl6000-firmware-9.221.4.1-80.el7_9.noarch
 install texlive-parskip-svn19963.2.0-45.el7.noarch
 install openldap-clients-2.4.44-25.el7_9.x86_64
@@ -1269,6 +1268,7 @@ install rhino-1.7R5-1.el7.noarch
 install python-sssdconfig-1.16.5-10.el7_9.12.noarch
 install php81-php-cli-8.1.6-1.el7.remi.x86_64
 install mozo-1.16.0-1.el7.noarch
+install code-1.67.2-1652812909.el7.x86_64
 install linux-firmware-20200421-80.git78c0348.el7_9.noarch
 install libXft-2.3.2-2.el7.i686
 install authconfig-6.2.8-30.el7.x86_64
