@@ -3326,8 +3326,8 @@ light-locker					install
 lightdm						install
 linux-base					install
 linux-firmware					install
-linux-headers-5.4.0-109				install
-linux-headers-5.4.0-109-generic			install
+linux-headers-5.4.0-113				install
+linux-headers-5.4.0-113-generic			install
 linux-headers-generic				install
 linux-libc-dev:amd64				install
 linux-sound-base				install

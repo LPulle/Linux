@@ -357,7 +357,7 @@ trio==0.19.0
 typing-extensions==3.10.0.2
 typing==3.7.4.3
 tzlocal==3.0
-ubuntu-advantage-tools==27.7
+ubuntu-advantage-tools==27.8
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
