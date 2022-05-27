@@ -1,5 +1,6 @@
 # Migrating to Alma Linux from CentOS 7 files
 This is the first attempt to take the files from the centos folder and install into a new Alma Linux build
+It may also work for other RHEL based distros, but am trying with Alma first to see if it works
 
 Run the alma_migrate_fromcentos7.sh
 - Installs svn, downloads the files, updates Alma and installs all the packages
