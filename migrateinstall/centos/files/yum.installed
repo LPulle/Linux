@@ -193,6 +193,7 @@ install sl-5.02-1.el7.x86_64
 install libassuan-2.1.0-3.el7.x86_64
 install boost-python-1.53.0-28.el7.x86_64
 install plymouth-plugin-two-step-0.8.9-0.34.20140113.el7.centos.x86_64
+install mock-core-configs-36.9-1.el7.noarch
 install lmdb-libs-0.9.22-2.el7.x86_64
 install mailcap-2.1.41-2.el7.noarch
 install gvfs-smb-1.36.2-5.el7_9.x86_64
@@ -472,7 +473,6 @@ install atlas-3.10.1-12.el7.x86_64
 install lightdm-gtk-common-1.8.5-19.el7.noarch
 install apr-1.4.8-7.el7.x86_64
 install perl-DBD-SQLite-1.39-3.el7.x86_64
-install distribution-gpg-keys-1.68-1.el7.noarch
 install rdate-1.4-25.el7.x86_64
 install rpmconf-base-1.0.22-1.el7.noarch
 install libv4l-0.9.5-4.el7.x86_64
@@ -1844,6 +1844,7 @@ install gnome-shell-extension-top-icons-3.28.1-17.el7_9.noarch
 install openal-soft-1.16.0-3.el7.x86_64
 install texlive-pspicture-svn15878.0-45.el7.noarch
 install cryptsetup-libs-2.0.3-6.el7.x86_64
+install distribution-gpg-keys-1.71-1.el7.noarch
 install PackageKit-gtk3-module-1.1.10-2.el7.centos.x86_64
 install CharLS-1.0-5.el7.x86_64
 install libglvnd-egl-1.0.1-0.8.git5baa1e5.el7.x86_64
@@ -2190,7 +2191,6 @@ install mate-settings-daemon-1.16.2-1.el7.x86_64
 install libxkbfile-1.0.9-3.el7.x86_64
 install liblayout-0.2.10-8.el7.noarch
 install texlive-cite-svn19955.5.3-45.el7.noarch
-install mock-core-configs-36.8-1.el7.noarch
 install kdepimlibs-akonadi-4.10.5-4.el7.x86_64
 install adobe-mappings-cmap-deprecated-20171205-3.el7.noarch
 install oci-register-machine-0-6.git2b44233.el7.x86_64
