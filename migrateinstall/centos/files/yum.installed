@@ -88,6 +88,7 @@ install libXau-1.0.8-2.1.el7.x86_64
 install devtoolset-9-memstomp-0.1.5-5.el7.x86_64
 install devtoolset-10-systemtap-runtime-4.4-6.el7.x86_64
 install R-java-3.6.0-1.el7.x86_64
+install remmina-plugins-exec-1.4.25-3.el7.x86_64
 install libiscsi-1.9.0-7.el7.x86_64
 install poppler-glib-0.26.5-43.el7.1.x86_64
 install p7zip-16.02-20.el7.x86_64
@@ -219,7 +220,6 @@ install orage-4.12.1-3.el7.x86_64
 install intel-conda-tbb-linux-64-shadow-package-2019.8-281-2019.8-281.x86_64
 install figlet-2.2.5-9.el7.x86_64
 install texlive-dvipdfmx-def-svn15878.0-45.el7.noarch
-install remmina-1.4.25-2.el7.x86_64
 install rh-python36-python-libs-3.6.12-1.el7.x86_64
 install libdb-5.3.21-25.el7.x86_64
 install dselect-1.18.25-10.el7.x86_64
@@ -325,7 +325,6 @@ install libvncserver-0.9.9-14.el7_8.1.x86_64
 install libyaz-5.14.11-1.el7.remi.x86_64
 install php-symfony-var-dumper-2.8.12-2.el7.noarch
 install pkgconfig-0.27.1-4.el7.x86_64
-install remmina-plugins-exec-1.4.25-2.el7.x86_64
 install xmlrpc-c-1.32.5-1905.svn2451.el7.x86_64
 install mesa-libGLU-devel-9.0.0-4.el7.x86_64
 install libsmi-0.4.8-13.el7.x86_64
@@ -865,7 +864,6 @@ install xdg-user-dirs-0.15-5.el7.x86_64
 install libcap-2.22-11.el7.i686
 install libmatekbd-1.16.0-1.el7.x86_64
 install libatomic-4.8.5-44.el7.x86_64
-install remmina-plugins-secret-1.4.25-2.el7.x86_64
 install gnome-documents-libs-3.28.2-2.el7.x86_64
 install xemacs-devel-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
 install libreport-rhel-anaconda-bugzilla-2.1.11-53.el7.centos.x86_64
@@ -1436,6 +1434,7 @@ install totem-nautilus-3.26.2-1.el7.x86_64
 install texlive-pst-eps-svn15878.1.0-45.el7.noarch
 install iwl1000-firmware-39.31.5.1-80.el7_9.noarch
 install firewalld-0.6.3-13.el7_9.noarch
+install remmina-1.4.25-3.el7.x86_64
 install openblas-openmp-0.3.3-2.el7.x86_64
 install php74-runtime-1.0-3.el7.remi.x86_64
 install devtoolset-10-dyninst-static-10.2.1-1.el7.x86_64
@@ -1641,6 +1640,7 @@ install mobile-broadband-provider-info-1.20170310-1.el7.noarch
 install compiz-plugins-extra-0.8.8-14.el7.nux.x86_64
 install devtoolset-7-gcc-gfortran-7.3.1-5.16.el7.x86_64
 install twolame-libs-0.3.13-12.el7.x86_64
+install remmina-plugins-rdp-1.4.25-3.el7.x86_64
 install libXft-devel-2.3.2-2.el7.x86_64
 install at-spi2-core-devel-2.28.0-1.el7.x86_64
 install augeas-libs-1.4.0-10.el7.x86_64
@@ -1916,7 +1916,6 @@ install libXtst-1.2.3-1.el7.x86_64
 install libselinux-devel-2.5-15.el7.x86_64
 install perl-XML-Parser-2.41-10.el7.x86_64
 install iw-4.3-2.el7.x86_64
-install remmina-plugins-rdp-1.4.25-2.el7.x86_64
 install libwayland-egl-1.15.0-1.el7.x86_64
 install libproxy-mozjs-0.4.11-11.el7.x86_64
 install mesa-dri-drivers-18.3.4-12.el7_9.x86_64
@@ -3158,6 +3157,7 @@ install mate-terminal-1.16.3-2.el7.x86_64
 install dotconf-1.3-8.el7.x86_64
 install virtuoso-opensource-6.1.6-7.el7.x86_64
 install w3c-libwww-devel-5.4.1-0.25.20060206cvs.el7.nux.x86_64
+install remmina-plugins-secret-1.4.25-3.el7.x86_64
 install texlive-index-svn24099.4.1beta-45.el7.noarch
 install perl-LWP-MediaTypes-6.02-2.el7.noarch
 install OpenEXR-libs-1.7.1-8.el7.x86_64
@@ -3266,6 +3266,7 @@ install devtoolset-10-libstdc++-docs-10.2.1-11.2.el7.x86_64
 install atom-1.12.2-0.1.x86_64
 install boost-graph-1.53.0-28.el7.x86_64
 install libdvdnav-5.0.3-1.el7.x86_64
+install remmina-plugins-vnc-1.4.25-3.el7.x86_64
 install iwl2030-firmware-18.168.6.1-80.el7_9.noarch
 install librdmacm-22.4-6.el7_9.x86_64
 install device-mapper-1.02.170-6.el7_9.5.x86_64
@@ -3288,7 +3289,6 @@ install texlive-attachfile-svn21866.v1.5b-45.el7.noarch
 install file-roller-3.28.1-2.el7.x86_64
 install device-mapper-event-libs-1.02.170-6.el7_9.5.x86_64
 install gnome-packagekit-updater-3.28.0-1.el7.x86_64
-install remmina-plugins-vnc-1.4.25-2.el7.x86_64
 install gdbm-1.10-8.el7.x86_64
 install langtable-python-0.0.31-4.el7.noarch
 install mate-panel-libs-1.16.2-1.el7.x86_64
