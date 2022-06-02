@@ -1592,6 +1592,7 @@ libgrilo-0.3-0:amd64				install
 libgroupsock8:amd64				install
 libgs9:amd64					install
 libgs9-common					install
+libgsasl7:amd64					install
 libgsf-1-114:amd64				install
 libgsf-1-common					install
 libgsf-bin					install
@@ -1973,6 +1974,7 @@ libkwineffects12				install
 libkwinglutils12				install
 libkwinxrenderutils12				install
 libkworkspace5-5				install
+libkyotocabinet16v5:amd64			install
 liblangtag-common				install
 liblangtag1:amd64				install
 liblapack-dev:amd64				install
@@ -2041,6 +2043,7 @@ libmagickcore-6.q16-6-extra:amd64		install
 libmagickwand-6.q16-6:amd64			install
 libmail-sendmail-perl				install
 libmailtools-perl				install
+libmailutils6:amd64				install
 libmarco-private2:amd64				install
 libmarisa0:amd64				install
 libmarkdown2:amd64				install
@@ -2336,6 +2339,7 @@ libnss3:amd64					install
 libnss3-dev:amd64				install
 libnss3-tools					install
 libntfs-3g883					install
+libntlm0:amd64					install
 libnuma1:amd64					install
 libnunit-cil-dev				install
 libnunit-console-runner2.6.3-cil		install
@@ -3371,6 +3375,8 @@ lz4						install
 lzop						install
 m17n-db						install
 m4						install
+mailutils					install
+mailutils-common				install
 make						install
 makedev						install
 man-db						install
