@@ -18,7 +18,6 @@ install perl-Module-Load-Conditional-0.54-3.el7.noarch
 install openwsman-client-2.6.3-7.git4391e5c.el7.x86_64
 install mate-power-manager-1.16.2-2.el7.x86_64
 install compiz-plugins-main-devel-0.8.8-13.el7.nux.x86_64
-install rsyslog-8.24.0-57.el7_9.2.x86_64
 install srvadmin-all-10.1.0.0-4561.18274.el7.x86_64
 install PackageKit-command-not-found-1.1.10-2.el7.centos.x86_64
 install redland-1.0.16-6.el7.x86_64
@@ -2486,6 +2485,7 @@ install firstboot-19.12-1.el7.x86_64
 install cmake3-3.17.5-1.el7.x86_64
 install cjs-3.6.1-2.el7.x86_64
 install dbus-1.10.24-15.el7.x86_64
+install firefox-91.9.1-1.el7.centos.x86_64
 install mesa-khr-devel-18.3.4-12.el7_9.x86_64
 install yelp-libs-3.28.1-1.el7.x86_64
 install xmlsec1-1.2.20-7.el7_4.x86_64
@@ -3014,7 +3014,6 @@ install texlive-wasysym-svn15878.2.0-45.el7.noarch
 install usermode-gtk-1.111-6.el7.x86_64
 install boost-program-options-1.53.0-28.el7.x86_64
 install erlang-crypto-R16B-03.18.el7.x86_64
-install firefox-91.9.0-1.el7.centos.x86_64
 install srvadmin-jre-10.1.0.0-4561.18274.el7.x86_64
 install libsss_idmap-1.16.5-10.el7_9.12.x86_64
 install perl-Net-SNMP-6.0.1-7.el7.noarch
@@ -3052,6 +3051,7 @@ install w3c-markup-validator-libs-1.3-4.el7.noarch
 install strace-4.24-6.el7.x86_64
 install texlive-collection-latex-svn25030.0-45.20130427_r30134.el7.noarch
 install NetworkManager-bluetooth-1.18.8-2.el7_9.x86_64
+install rsyslog-8.24.0-57.el7_9.3.x86_64
 install srvadmin-server-snmp-10.1.0.0-4561.18274.el7.x86_64
 install texlive-luaotfload-svn26718.1.26-45.el7.noarch
 install systemd-libs-219-78.el7_9.5.i686
