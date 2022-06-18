@@ -87,7 +87,7 @@ cheroot==8.5.2
 chrome-gnome-shell==0.0.0
 cleanup==1.0.3
 click==8.0.3
-cloud-init==22.1
+cloud-init==22.2
 colorama==0.4.3
 command-not-found==0.3
 compizconfig-python==0.9.14.1
