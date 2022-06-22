@@ -496,7 +496,6 @@ install plymouth-system-theme-0.8.9-0.34.20140113.el7.centos.x86_64
 install oniguruma-6.8.2-1.el7.x86_64
 install texlive-pst-coil-svn24020.1.06-45.el7.noarch
 install mc-4.8.7-11.el7.x86_64
-install powershell-7.2.4-1.rh.x86_64
 install geos-3.4.2-2.el7.x86_64
 install dleyna-server-0.5.0-3.el7.x86_64
 install python2-ipaclient-4.6.8-5.el7.centos.10.noarch
@@ -2118,6 +2117,7 @@ install devtoolset-9-systemtap-sdt-devel-4.1-9.el7.x86_64
 install gedit-3.28.1-3.el7.x86_64
 install python-ndg_httpsclient-0.3.2-1.el7.noarch
 install hiredis-last-0.13.3-1.el7.remi.x86_64
+install powershell-7.2.5-1.rh.x86_64
 install gpg-pubkey-da8b7718-54420277
 install python-cups-1.9.63-6.el7.x86_64
 install ghc-dlist-0.5-11.el7.x86_64
