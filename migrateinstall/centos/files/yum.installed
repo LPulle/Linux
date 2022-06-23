@@ -493,7 +493,6 @@ install libcdr-0.1.4-1.el7.x86_64
 install intel-conda-tbb-linux-32-shadow-package-2019.8-281-2019.8-281.x86_64
 install ctags-5.8-13.el7.x86_64
 install plymouth-system-theme-0.8.9-0.34.20140113.el7.centos.x86_64
-install oniguruma-6.8.2-1.el7.x86_64
 install texlive-pst-coil-svn24020.1.06-45.el7.noarch
 install mc-4.8.7-11.el7.x86_64
 install geos-3.4.2-2.el7.x86_64
@@ -1251,6 +1250,7 @@ install texlive-zapfchan-svn28614.0-45.el7.noarch
 install texlive-thumbpdf-svn26689.3.15-45.el7.noarch
 install sil-nuosu-fonts-2.1.1-5.el7.noarch
 install gegl-0.2.0-19.el7_9.1.x86_64
+install oniguruma-6.8.2-2.el7.x86_64
 install thai-scalable-fonts-common-0.5.0-7.el7.noarch
 install gtk-murrine-engine-0.98.2-10.el7.x86_64
 install rkhunter-1.4.6-3.el7.noarch
