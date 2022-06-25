@@ -297,7 +297,6 @@ install ghc-base-4.6.0.1-26.4.el7.x86_64
 install openblas-threads64_-0.3.3-2.el7.x86_64
 install libpagemaker-0.0.3-1.el7.x86_64
 install compiz-plugins-main-0.8.8-13.el7.nux.x86_64
-install mdatp-101.68.80-1.x86_64
 install rtkit-0.11-10.el7.x86_64
 install python2-pyasn1-0.1.9-7.el7.noarch
 install devtoolset-10-systemtap-server-4.4-6.el7.x86_64
@@ -1490,6 +1489,7 @@ install devtoolset-10-dyninst-10.2.1-1.el7.x86_64
 install devtoolset-9-libubsan-devel-9.3.1-2.2.el7.x86_64
 install xorg-x11-drv-nouveau-1.0.15-1.el7.x86_64
 install mozjs17-17.0.0-20.el7.x86_64
+install mdatp-101.71.18-1.x86_64
 install perl-Pod-Usage-1.63-3.el7.noarch
 install devtoolset-9-dyninst-doc-10.1.0-4.el7.x86_64
 install glusterfs-libs-6.0-61.el7.x86_64
