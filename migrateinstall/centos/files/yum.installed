@@ -175,7 +175,6 @@ install kde-style-oxygen-4.11.19-16.el7_9.x86_64
 install dconf-0.28.0-4.el7.x86_64
 install trousers-0.3.14-2.el7.x86_64
 install p7zip-plugins-16.02-20.el7.x86_64
-install dkms-3.0.3-1.el7.noarch
 install gamin-0.1.10-16.el7.x86_64
 install rrdtool-1.4.8-9.el7.x86_64
 install python36-rpm-4.11.3-9.el7.x86_64
@@ -3182,6 +3181,7 @@ install texlive-amscls-svn29207.0-45.el7.noarch
 install lightdm-gtk-1.8.5-19.el7.x86_64
 install icedax-1.1.11-25.el7.x86_64
 install python2-configargparse-0.11.0-2.el7.noarch
+install dkms-3.0.4-1.el7.noarch
 install ruby-libs-2.0.0.648-39.el7_9.x86_64
 install pnm2ppa-1.04-28.el7.x86_64
 install perl-PlRPC-0.2020-14.el7.noarch
