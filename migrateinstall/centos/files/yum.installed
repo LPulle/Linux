@@ -114,6 +114,7 @@ install fortune-mod-1.99.1-17.el7.x86_64
 install atop-2.7.1-1.el7.x86_64
 install emerald-0.8.8-10.el7.nux.x86_64
 install wmctrl-1.07-17.gf.el7.x86_64
+install remi-libzip-1.9.2-2.el7.remi.x86_64
 install gvfs-afc-1.36.2-5.el7_9.x86_64
 install gvfs-client-1.36.2-5.el7_9.x86_64
 install libwps-0.4.7-1.el7.x86_64
@@ -220,6 +221,7 @@ install texlive-dvipdfmx-def-svn15878.0-45.el7.noarch
 install rh-python36-python-libs-3.6.12-1.el7.x86_64
 install libdb-5.3.21-25.el7.x86_64
 install dselect-1.18.25-10.el7.x86_64
+install postgresql-libs-9.2.24-8.el7_9.x86_64
 install srvadmin-standardAgent-10.1.0.0-4561.18274.el7.x86_64
 install texlive-pst-math-svn20176.0.61-45.el7.noarch
 install hesiod-3.2.1-3.el7.x86_64
@@ -423,7 +425,6 @@ install filezilla-3.7.4.1-1.el7.x86_64
 install libepoxy-1.5.2-1.el7.x86_64
 install devtoolset-7-gcc-plugin-devel-7.3.1-5.16.el7.x86_64
 install alsa-utils-1.1.8-2.el7.x86_64
-install postgresql-libs-9.2.24-7.el7_9.x86_64
 install libopenraw-0.0.9-7.el7.x86_64
 install libcmpiCppImpl0-2.0.3-5.el7.x86_64
 install expat-2.1.0-14.el7_9.i686
@@ -1474,7 +1475,6 @@ install gstreamer1-plugins-ugly-free-1.10.4-3.el7.x86_64
 install php-tidy-8.0.20-1.el7.remi.x86_64
 install srvadmin-smcommon-10.1.0.0-4561.18274.el7.x86_64
 install rhash-1.3.4-2.el7.x86_64
-install libzip5-1.9.0-1.el7.remi.x86_64
 install ethtool-4.8-10.el7.x86_64
 install perl-URI-1.60-9.el7.noarch
 install openssl-1.0.2k-25.el7_9.x86_64
@@ -1557,7 +1557,6 @@ install srvadmin-itunnelprovider-10.1.0.0-4561.18274.el7.x86_64
 install man-pages-3.53-5.el7.noarch
 install tracker-1.10.5-8.el7.x86_64
 install gstreamer-plugins-base-0.10.36-10.el7.x86_64
-install php80-php-pecl-zip-1.20.1-1.el7.remi.x86_64
 install texlive-enumitem-svn24146.3.5.2-45.el7.noarch
 install java-1.7.0-openjdk-headless-1.7.0.261-2.6.22.2.el7_8.x86_64
 install php-phpunit-diff-1.4.3-1.el7.noarch
@@ -1699,6 +1698,7 @@ install openssl11-libs-1.1.1k-3.el7.x86_64
 install perl-Parallel-ForkManager-1.18-2.el7.noarch
 install perl-Encode-HanExtra-0.23-10.el7.x86_64
 install ncurses-base-5.9-14.20130511.el7_4.noarch
+install php80-php-pecl-zip-1.21.0-2.el7.remi.x86_64
 install libibverbs-22.4-6.el7_9.x86_64
 install polkit-0.112-26.el7_9.1.x86_64
 install totem-pl-parser-3.26.1-1.el7.x86_64
@@ -3290,6 +3290,7 @@ install device-mapper-event-libs-1.02.170-6.el7_9.5.x86_64
 install gnome-packagekit-updater-3.28.0-1.el7.x86_64
 install gdbm-1.10-8.el7.x86_64
 install langtable-python-0.0.31-4.el7.noarch
+install libzip5-1.9.1-1.el7.remi.x86_64
 install mate-panel-libs-1.16.2-1.el7.x86_64
 install libzmf-0.0.2-1.el7.x86_64
 install gnome-calculator-3.28.2-1.el7.x86_64
