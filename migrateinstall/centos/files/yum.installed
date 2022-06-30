@@ -866,6 +866,7 @@ install gpg-pubkey-46770c59-5ec55690
 install cinnamon-session-3.6.1-2.el7.x86_64
 install jasper-devel-1.900.1-33.el7.x86_64
 install perl-Socket6-0.23-15.el7.x86_64
+install php80-php-pecl-zip-1.21.0-3.el7.remi.x86_64
 install espeak-1.47.11-4.el7.x86_64
 install engrampa-1.16.1-1.el7.x86_64
 install xemacs-xft-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
@@ -1698,7 +1699,6 @@ install openssl11-libs-1.1.1k-3.el7.x86_64
 install perl-Parallel-ForkManager-1.18-2.el7.noarch
 install perl-Encode-HanExtra-0.23-10.el7.x86_64
 install ncurses-base-5.9-14.20130511.el7_4.noarch
-install php80-php-pecl-zip-1.21.0-2.el7.remi.x86_64
 install libibverbs-22.4-6.el7_9.x86_64
 install polkit-0.112-26.el7_9.1.x86_64
 install totem-pl-parser-3.26.1-1.el7.x86_64
@@ -1915,6 +1915,7 @@ install texlive-luatex-bin-svn26912.0-45.20130427_r30134.el7.x86_64
 install erlang-ssl-R16B-03.18.el7.x86_64
 install lohit-punjabi-fonts-2.5.3-2.el7.noarch
 install gnome-software-3.28.2-3.el7.x86_64
+install libzip5-1.9.2-3.el7.remi.x86_64
 install rubygem-rgen-0.6.6-2.el7.noarch
 install texlive-l3experimental-svn29361.SVN_4467-45.el7.noarch
 install perl-Business-ISBN-Data-20120719.001-2.el7.noarch
@@ -3290,7 +3291,6 @@ install device-mapper-event-libs-1.02.170-6.el7_9.5.x86_64
 install gnome-packagekit-updater-3.28.0-1.el7.x86_64
 install gdbm-1.10-8.el7.x86_64
 install langtable-python-0.0.31-4.el7.noarch
-install libzip5-1.9.1-1.el7.remi.x86_64
 install mate-panel-libs-1.16.2-1.el7.x86_64
 install libzmf-0.0.2-1.el7.x86_64
 install gnome-calculator-3.28.2-1.el7.x86_64
