@@ -634,7 +634,6 @@ gdbm-devel
 gdisk
 gdk-pixbuf2
 gdk-pixbuf2-devel
-gd-last
 gdm
 gedit
 gegl
@@ -2525,6 +2524,7 @@ redland
 redland-virtuoso
 redshift
 redshift-gtk
+remi-libzip
 remi-release
 remmina
 remmina-plugins-exec
