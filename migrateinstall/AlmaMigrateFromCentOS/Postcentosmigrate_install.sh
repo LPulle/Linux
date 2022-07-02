@@ -8,8 +8,8 @@ sudo yum install subversion
 
 # download the files
 # make sure you don't have a folder called "files"
-sudo svn export https://github.com/LPulle/Linux/trunk/migrateinstall/centos/files
-yes | sudo /bin/cp -fR ~/GitHub/Linux/migrateinstall/centos/files/* ~/files
+sudo svn export https://github.com/LPulle/Linux/trunk/migrateinstall/AlmaMigrateFromCentOS/files
+yes | sudo /bin/cp -fR ~/GitHub/Linux/migrateinstall/AlmaMigrateFromCentOS/files/* ~/files
 
 # Update base install, install latest dist and clean
 sudo yum update
@@ -33,9 +33,9 @@ sudo -H pip3 install --upgrade pip
 sudo -H pip3 install --upgrade setuptools pip
 sudo -H python3.6 -m pip install --upgrade pip
 #3.7
-sudo -H /usr/local/bin/pip3.7 install --upgrade pip
-sudo -H /usr/local/bin/pip3.7 install --upgrade setuptools pip
-sudo -H /usr/local/bin/python3.7 -m pip install --upgrade pip
+#sudo -H /usr/local/bin/pip3.7 install --upgrade pip
+#sudo -H /usr/local/bin/pip3.7 install --upgrade setuptools pip
+#sudo -H /usr/local/bin/python3.7 -m pip install --upgrade pip
 
 # Install python modules exported
 # this should work but it stops if it gets an error:
@@ -53,7 +53,7 @@ sudo -H /usr/local/bin/python3.7 -m pip install --upgrade pip
 
 # install using a for loop so will keep going even if it encounters an error
 # it will find errors as pipfreezeinstall.txt is a merge of python 2 and 3 module exports
-for i in $(cat ~/files/pipfreezeinstall.txt); do sudo /usr/local/bin/pip3.7 -qq install $i; done
+#for i in $(cat ~/files/pipfreezeinstall.txt); do sudo /usr/local/bin/pip3.7 -qq install $i; done
 for i in $(cat ~/files/pipfreezeinstall.txt); do sudo pip3 -qq install $i; done
 for i in $(cat ~/files/pipfreezeinstall.txt); do sudo pip2 -qq install $i; done
 
