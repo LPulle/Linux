@@ -595,7 +595,6 @@ install Thunar-1.6.16-1.el7.x86_64
 install bind-export-libs-9.11.4-26.P2.el7_9.9.x86_64
 install libmicrohttpd-0.9.33-2.el7.x86_64
 install alsa-lib-1.1.8-1.el7.x86_64
-install mde-netfilter-100.69.55-1.x86_64
 install xcb-util-cursor-0.1.2-2.el7.x86_64
 install lame-3.100-1.el7.x86_64
 install telepathy-glib-0.24.1-1.el7.x86_64
@@ -1747,6 +1746,7 @@ install redshift-1.11-10.el7.x86_64
 install texlive-beamer-svn29349.3.26-45.el7.noarch
 install qt5-qtbase-5.9.7-5.el7_9.x86_64
 install man-db-2.6.3-11.el7.x86_64
+install mde-netfilter-100.69.59-1.x86_64
 install libwpg-0.3.0-1.el7.x86_64
 install e2fsprogs-libs-1.42.9-19.el7.x86_64
 install gstreamer-python-0.10.22-6.el7.x86_64
