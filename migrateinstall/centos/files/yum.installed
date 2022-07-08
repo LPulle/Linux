@@ -1379,6 +1379,7 @@ install compizconfig-python-debuginfo-0.8.4-12.el7.nux.x86_64
 install emacs-filesystem-24.3-23.el7.noarch
 install NetworkManager-pptp-gnome-1.2.8-1.el7.x86_64
 install speech-dispatcher-python-0.7.1-15.el7.x86_64
+install code-1.69.0-1657183798.el7.x86_64
 install osinfo-db-tools-1.1.0-1.el7.x86_64
 install python36-rfc3986-1.3.0-1.el7.noarch
 install cairo-gobject-1.15.12-4.el7.x86_64
@@ -1904,7 +1905,6 @@ install librados2-10.2.5-4.el7.x86_64
 install libjpeg-turbo-1.2.90-8.el7.x86_64
 install libgusb-0.2.9-1.el7.x86_64
 install gpg-pubkey-33d40bc6-55e8543d
-install code-1.68.1-1655263151.el7.x86_64
 install libXtst-1.2.3-1.el7.x86_64
 install libselinux-devel-2.5-15.el7.x86_64
 install perl-XML-Parser-2.41-10.el7.x86_64
@@ -2428,6 +2428,7 @@ install texlive-extsizes-svn17263.1.4a-45.el7.noarch
 install mate-utils-common-1.16.1-2.el7.noarch
 install libXv-1.0.11-1.el7.x86_64
 install bolt-0.7-1.el7.x86_64
+install librdkafka1php-1.9.1-1.el7.remi.x86_64
 install flatpak-libs-1.0.9-12.el7_9.x86_64
 install perl-Socket-GetAddrInfo-0.19-4.el7.x86_64
 install ghostscript-cups-9.25-5.el7.x86_64
@@ -2853,7 +2854,6 @@ install perl-Pod-Simple-3.28-4.el7.noarch
 install libvirt-daemon-4.5.0-36.el7_9.5.x86_64
 install python-markupsafe-0.11-10.el7.x86_64
 install mesa-libgbm-18.3.4-12.el7_9.i686
-install librdkafka1php-1.9.0-1.el7.remi.x86_64
 install fontconfig-2.13.0-4.3.el7.x86_64
 install texlive-fp-svn15878.0-45.el7.noarch
 install libva-devel-1.8.3-1.el7.x86_64
@@ -3130,6 +3130,7 @@ install libcom_err-devel-1.42.9-19.el7.x86_64
 install python-jinja2-2.7.2-4.el7.noarch
 install libnotify-devel-0.7.7-1.el7.x86_64
 install mod_evasive-1.10.1-22.el7.x86_64
+install dkms-3.0.5-1.el7.noarch
 install libdv-1.0.0-17.el7.x86_64
 install srvadmin-xmlsup-10.1.0.0-4561.18274.el7.x86_64
 install xvidcore-1.3.4-2.el7.x86_64
@@ -3182,7 +3183,6 @@ install texlive-amscls-svn29207.0-45.el7.noarch
 install lightdm-gtk-1.8.5-19.el7.x86_64
 install icedax-1.1.11-25.el7.x86_64
 install python2-configargparse-0.11.0-2.el7.noarch
-install dkms-3.0.4-1.el7.noarch
 install ruby-libs-2.0.0.648-39.el7_9.x86_64
 install pnm2ppa-1.04-28.el7.x86_64
 install perl-PlRPC-0.2020-14.el7.noarch
