@@ -1380,7 +1380,6 @@ install compizconfig-python-debuginfo-0.8.4-12.el7.nux.x86_64
 install emacs-filesystem-24.3-23.el7.noarch
 install NetworkManager-pptp-gnome-1.2.8-1.el7.x86_64
 install speech-dispatcher-python-0.7.1-15.el7.x86_64
-install code-1.69.0-1657183798.el7.x86_64
 install osinfo-db-tools-1.1.0-1.el7.x86_64
 install python36-rfc3986-1.3.0-1.el7.noarch
 install cairo-gobject-1.15.12-4.el7.x86_64
@@ -1586,6 +1585,7 @@ install perl-IO-Compress-2.061-2.el7.noarch
 install qimageblitz-0.0.6-7.el7.x86_64
 install libgsf-1.14.26-7.el7.lux.x86_64
 install python36-mock-2.0.0-2.el7.noarch
+install code-1.69.1-1657615803.el7.x86_64
 install texlive-fancybox-svn18304.1.4-45.el7.noarch
 install urw-base35-fonts-common-20170801-10.el7.noarch
 install gstreamer-plugins-ugly-0.10.19-17.el7.nux.x86_64
