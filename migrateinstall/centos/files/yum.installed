@@ -168,6 +168,7 @@ install libXrandr-devel-1.5.1-2.el7.x86_64
 install plymouth-scripts-0.8.9-0.34.20140113.el7.centos.x86_64
 install perl-Thread-Queue-3.02-2.el7.noarch
 install libdca-0.0.5-9.el7.x86_64
+install firefox-91.11.0-2.el7.centos.x86_64
 install xorg-x11-fonts-misc-7.5-9.el7.noarch
 install glib2-devel-2.56.1-9.el7_9.x86_64
 install libXcursor-1.1.15-1.el7.i686
@@ -2742,7 +2743,6 @@ install xrdp-0.9.19-1.el7.x86_64
 install indent-2.2.11-13.el7.x86_64
 install texinfo-5.1-5.el7.x86_64
 install openblas-openmp64_-0.3.3-2.el7.x86_64
-install firefox-91.10.0-1.el7.centos.x86_64
 install clucene-contribs-lib-2.3.3.4-11.el7.x86_64
 install texlive-plain-svn26647.0-45.el7.noarch
 install python-schedutils-0.4-6.el7.x86_64
