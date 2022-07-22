@@ -1492,7 +1492,6 @@ install devtoolset-10-dyninst-10.2.1-1.el7.x86_64
 install devtoolset-9-libubsan-devel-9.3.1-2.2.el7.x86_64
 install xorg-x11-drv-nouveau-1.0.15-1.el7.x86_64
 install mozjs17-17.0.0-20.el7.x86_64
-install mdatp-101.71.18-1.x86_64
 install perl-Pod-Usage-1.63-3.el7.noarch
 install devtoolset-9-dyninst-doc-10.1.0-4.el7.x86_64
 install glusterfs-libs-6.0-61.el7.x86_64
@@ -1797,6 +1796,7 @@ install gnome-abrt-0.3.4-9.el7.x86_64
 install gnome-disk-utility-3.28.3-1.el7.x86_64
 install psutils-1.17-44.el7.x86_64
 install devtoolset-10-elfutils-libelf-devel-0.182-3.el7.x86_64
+install mdatp-101.73.77-1.x86_64
 install libcdio-0.92-3.el7.x86_64
 install devtoolset-9-elfutils-libs-0.176-6.el7.x86_64
 install devtoolset-10-elfutils-libelf-0.182-3.el7.x86_64
