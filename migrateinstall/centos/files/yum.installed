@@ -276,6 +276,7 @@ install fontpackages-devel-1.44-8.el7.noarch
 install python2-xapps-overrides-1.0.4-15.el7.x86_64
 install tcl-8.5.13-8.el7.x86_64
 install mythes-en-3.0-13.el7.noarch
+install libuv-devel-1.44.2-1.el7.x86_64
 install libpinyin-data-0.9.93-4.el7.x86_64
 install gsm-1.0.13-11.el7.x86_64
 install libglvnd-opengl-1.0.1-0.8.git5baa1e5.el7.x86_64
@@ -777,7 +778,6 @@ install libX11-common-1.6.7-4.el7_9.noarch
 install boost-wave-1.53.0-28.el7.x86_64
 install texlive-eurosym-svn17265.1.4_subrfix-45.el7.noarch
 install intel-compxe-pset-2019.5-075-2019.5-075.noarch
-install libuv-devel-1.44.1-1.el7.x86_64
 install systemtap-runtime-4.0-13.el7.x86_64
 install php-sebastian-recursion-context-1.0.2-1.el7.noarch
 install libxfce4util-4.12.1-2.el7.x86_64
@@ -961,6 +961,7 @@ install libgfortran5-8.3.1-2.1.1.el7.x86_64
 install vlc-devel-2.2.8-1.el7.nux.x86_64
 install openconnect-8.10-1.el7.x86_64
 install libgnomekbd-3.26.0-3.el7.x86_64
+install libidn2-2.3.3-1.el7.x86_64
 install vpnc-0.5.3-22.svn457.el7.x86_64
 install erlang-inets-R16B-03.18.el7.x86_64
 install devtoolset-10-valgrind-devel-3.16.1-5.el7.x86_64
@@ -1238,7 +1239,6 @@ install libsysfs-2.1.0-16.el7.x86_64
 install xml-commons-resolver-1.2-15.el7.noarch
 install libXi-1.7.9-1.el7.x86_64
 install devtoolset-10-dyninst-testsuite-10.2.1-1.el7.x86_64
-install libuv-1.44.1-1.el7.x86_64
 install texlive-mh-svn29420.0-45.el7.noarch
 install libXext-1.3.3-3.el7.i686
 install gettext-devel-0.19.8.1-3.el7.x86_64
@@ -2013,6 +2013,7 @@ install perl-libintl-1.20-12.el7.x86_64
 install libtool-ltdl-2.4.2-22.el7_3.x86_64
 install rasqal-0.9.30-4.el7.x86_64
 install python2-certbot-1.11.0-2.el7.noarch
+install lynis-3.0.8-1.el7.noarch
 install xorg-x11-xkb-utils-7.7-14.el7.x86_64
 install postgresql-jdbc-9.2.1002-8.el7_8.noarch
 install srvadmin-storage-cli-10.1.0.0-4561.18274.el7.x86_64
@@ -2755,7 +2756,6 @@ install cim-schema-2.33.0-6.el7.noarch
 install rubygems-2.0.14.1-39.el7_9.noarch
 install lohit-kannada-fonts-2.5.3-3.el7.noarch
 install libvirt-daemon-driver-storage-iscsi-4.5.0-36.el7_9.5.x86_64
-install lynis-3.0.7-1.el7.noarch
 install control-center-filesystem-3.28.1-8.el7_9.1.x86_64
 install proj-4.8.0-4.el7.x86_64
 install texlive-mflogo-svn17487.0-45.el7.noarch
@@ -3315,7 +3315,6 @@ install xfdesktop-4.12.4-3.el7.x86_64
 install gnome-online-miners-3.26.0-1.el7.x86_64
 install gjs-1.52.5-1.el7_6.x86_64
 install libarchive-3.1.2-14.el7_7.x86_64
-install libidn2-2.3.2-1.el7.x86_64
 install fusioninventory-agent-yum-plugin-2.3.21-3.el7.noarch
 install texlive-pst-grad-svn15878.1.06-45.el7.noarch
 install libass-0.13.4-6.el7.x86_64
@@ -3339,6 +3338,7 @@ install texlive-ec-svn25033.1.0-45.el7.noarch
 install libmatroska-1.5.2-1.el7.x86_64
 install atkmm-2.24.2-1.el7.x86_64
 install devtoolset-9-annobin-annocheck-8.79-2.el7.x86_64
+install libuv-1.44.2-1.el7.x86_64
 install texlive-palatino-svn28614.0-45.el7.noarch
 install texlive-pst-3d-svn17257.1.10-45.el7.noarch
 install system-config-keyboard-base-1.4.0-5.el7.noarch
