@@ -2220,6 +2220,7 @@ install file-roller-nautilus-3.28.1-2.el7.x86_64
 install ghc-network-2.4.1.2-32.el7.x86_64
 install libkkc-common-0.3.1-9.el7.noarch
 install exo-0.10.7-1.el7.x86_64
+install libicu69-69.1-4.el7.remi.x86_64
 install NetworkManager-l2tp-1.2.20-1.el7.x86_64
 install libblockdev-mdraid-2.18-5.el7.x86_64
 install tre-common-0.8.0-18.20140228gitc2f5d13.el7.noarch
@@ -2533,7 +2534,6 @@ install neofetch-6.1.0-1.el7.noarch
 install gnome-shell-extension-common-3.28.1-17.el7_9.noarch
 install gpg-pubkey-1019ced6-4e9cac25
 install devtoolset-9-elfutils-devel-0.176-6.el7.x86_64
-install libicu69-69.1-2.el7.remi.x86_64
 install remmina-1.4.25-4.el7.x86_64
 install lpsolve-5.5.2.0-8.el7.x86_64
 install devtoolset-9-elfutils-libelf-devel-0.176-6.el7.x86_64
