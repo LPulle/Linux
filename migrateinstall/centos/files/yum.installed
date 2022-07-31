@@ -809,6 +809,7 @@ install cyrus-sasl-md5-2.1.26-24.el7_9.x86_64
 install opencv-core-2.4.5-3.el7.x86_64
 install libreport-centos-2.1.11-53.el7.centos.x86_64
 install texlive-dvipdfmx-bin-svn26509.0-45.20130427_r30134.el7.x86_64
+install openssl11-1.1.1k-4.el7.x86_64
 install pkcs11-helper-1.11-3.el7.x86_64
 install perl-Encode-2.51-7.el7.x86_64
 install fuse-overlayfs-0.7.2-6.el7_8.x86_64
@@ -918,7 +919,6 @@ install mesa-filesystem-18.3.4-12.el7_9.x86_64
 install NetworkManager-openvpn-1.8.10-1.el7.x86_64
 install alsa-lib-1.1.8-1.el7.i686
 install kmod-20-28.el7.x86_64
-install openssl11-1.1.1k-3.el7.x86_64
 install xemacs-nox-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
 install libexttextcat-3.4.1-3.el7.x86_64
 install msodbcsql17-17.9.1.1-1.x86_64
@@ -1701,7 +1701,6 @@ install boost-locale-1.53.0-28.el7.x86_64
 install createrepo_c-0.10.0-20.el7.x86_64
 install dbus-devel-1.10.24-15.el7.x86_64
 install fwupd-1.0.8-5.el7.x86_64
-install openssl11-libs-1.1.1k-3.el7.x86_64
 install perl-Parallel-ForkManager-1.18-2.el7.noarch
 install perl-Encode-HanExtra-0.23-10.el7.x86_64
 install ncurses-base-5.9-14.20130511.el7_4.noarch
@@ -1812,6 +1811,7 @@ install orca-3.6.3-4.el7.x86_64
 install libidn-1.28-4.el7.x86_64
 install ipset-7.1-1.el7.x86_64
 install devtoolset-9-systemtap-initscript-4.1-9.el7.x86_64
+install openssl11-libs-1.1.1k-4.el7.x86_64
 install libXft-2.3.2-2.el7.x86_64
 install sane-backends-libs-1.0.24-12.el7.x86_64
 install iwl2000-firmware-18.168.6.1-80.el7_9.noarch
