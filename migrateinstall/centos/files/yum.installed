@@ -194,7 +194,6 @@ install sl-5.02-1.el7.x86_64
 install libassuan-2.1.0-3.el7.x86_64
 install boost-python-1.53.0-28.el7.x86_64
 install plymouth-plugin-two-step-0.8.9-0.34.20140113.el7.centos.x86_64
-install mock-core-configs-36.9-1.el7.noarch
 install lmdb-libs-0.9.22-2.el7.x86_64
 install mailcap-2.1.41-2.el7.noarch
 install gvfs-smb-1.36.2-5.el7_9.x86_64
@@ -743,7 +742,6 @@ install dbus-libs-1.10.24-15.el7.x86_64
 install openssl-libs-1.0.2k-25.el7_9.x86_64
 install ghc-directory-1.2.0.1-26.4.el7.x86_64
 install cinnamon-desktop-3.6.2-4.el7.x86_64
-install distribution-gpg-keys-1.72-1.el7.noarch
 install dconf-editor-3.28.0-1.el7.x86_64
 install libmp4v2-2.1.0-0.19.trunkREV507.el7.x86_64
 install libXau-1.0.8-2.1.el7.i686
@@ -2027,6 +2025,7 @@ install ghc-pretty-1.1.1.0-26.4.el7.x86_64
 install kde-filesystem-4-47.el7.x86_64
 install pykickstart-1.99.66.22-1.el7.noarch
 install libmms-0.6.4-1.el7.nux.x86_64
+install mock-core-configs-36.10-1.el7.noarch
 install texlive-ifxetex-svn19685.0.5-45.el7.noarch
 install libXmu-devel-1.1.2-2.el7.x86_64
 install jemalloc-3.6.0-1.el7.x86_64
@@ -2814,6 +2813,7 @@ install x264-0.142-11.20141221git6a301b6.el7.nux.x86_64
 install kde-settings-plasma-19-23.12.el7.centos.noarch
 install iio-sensor-proxy-2.2-3.el7.x86_64
 install libRmath-devel-3.6.0-1.el7.x86_64
+install distribution-gpg-keys-1.74-1.el7.noarch
 install libmtp-1.1.14-1.el7.x86_64
 install python2-pyrfc3339-1.1-3.el7.noarch
 install texlive-latexconfig-svn28991.0-45.el7.noarch
