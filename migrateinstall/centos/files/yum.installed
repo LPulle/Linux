@@ -1228,7 +1228,6 @@ install xorg-x11-fonts-ISO8859-2-100dpi-7.5-9.el7.noarch
 install libblockdev-part-2.18-5.el7.x86_64
 install zeromq-devel-4.1.4-6.el7.x86_64
 install libverto-devel-0.2.5-4.el7.x86_64
-install dell-system-update-1.9.3.0-22.01.00.x86_64
 install perl-FusionInventory-Agent-2.3.21-3.el7.noarch
 install xfce-polkit-0.2-8.el7.x86_64
 install srvadmin-storageservices-snmp-10.1.0.0-4561.18274.el7.x86_64
@@ -1427,6 +1426,7 @@ install python-kitchen-1.1.1-5.el7.noarch
 install coreutils-8.22-24.el7_9.2.x86_64
 install devtoolset-10-libquadmath-devel-10.2.1-11.2.el7.x86_64
 install devtoolset-10-systemtap-runtime-python2-4.4-6.el7.x86_64
+install dell-system-update-2.0.0.0-22.07.00.x86_64
 install python-enum34-1.0.4-1.el7.noarch
 install gpg-pubkey-5072e1f5-58a70520
 install totem-nautilus-3.26.2-1.el7.x86_64
