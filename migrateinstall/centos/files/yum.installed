@@ -516,7 +516,6 @@ install rarian-compat-0.8.1-11.el7.x86_64
 install iwl6000g2b-firmware-18.168.6.1-80.el7_9.noarch
 install intel-comp-nomcu-vars-19.0.5-281-19.0.5-281.noarch
 install ghc-random-1.0.1.1-27.el7.x86_64
-install perf-3.10.0-1160.76.1.el7.x86_64
 install stoken-libs-0.92-1.el7.x86_64
 install readline-6.2-11.el7.x86_64
 install devtoolset-9-elfutils-libelf-0.176-6.el7.x86_64
@@ -626,6 +625,7 @@ install openblas-serial64-0.3.3-2.el7.x86_64
 install avahi-libs-0.6.31-20.el7.i686
 install devtoolset-10-systemtap-initscript-4.4-6.el7.x86_64
 install libXt-1.1.5-3.el7.x86_64
+install perf-3.10.0-1160.76.1.el7.centos.plus.x86_64
 install kwin-libs-4.11.19-16.el7_9.x86_64
 install ibus-table-chinese-1.4.6-3.el7.noarch
 install texlive-l3packages-svn29361.SVN_4467-45.el7.noarch
@@ -730,6 +730,7 @@ install avalon-framework-4.3-10.el7.noarch
 install systemd-219-78.el7_9.5.x86_64
 install ratpoison-1.4.8-6.el7.x86_64
 install crystalhd-firmware-3.10.0-11.el7.noarch
+install code-1.70.2-1660629488.el7.x86_64
 install elfutils-libs-0.176-5.el7.i686
 install gdb-7.6.1-120.el7.x86_64
 install devtoolset-10-dyninst-devel-10.2.1-1.el7.x86_64
@@ -1440,7 +1441,6 @@ install devtoolset-10-dyninst-static-10.2.1-1.el7.x86_64
 install xorg-x11-fonts-ISO8859-14-75dpi-7.5-9.el7.noarch
 install webkitgtk4-2.28.2-3.el7.x86_64
 install mint-themes-gtk3-3.18+17-1.el7.noarch
-install python-perf-3.10.0-1160.76.1.el7.x86_64
 install librepository-1.1.3-9.el7.noarch
 install xemacs-erlang-el-R16B-03.18.el7.noarch
 install gdk-pixbuf2-2.36.12-3.el7.i686
@@ -1651,6 +1651,7 @@ install gstreamer-0.10.36-7.el7.x86_64
 install python2-psutil-5.6.7-1.el7.x86_64
 install gnome-clocks-3.28.0-1.el7.x86_64
 install php-symfony-dependency-injection-2.8.12-2.el7.noarch
+install python-perf-3.10.0-1160.76.1.el7.centos.plus.x86_64
 install libnotify-0.7.7-1.el7.x86_64
 install PackageKit-1.1.10-2.el7.centos.x86_64
 install libstaroffice-0.0.4-1.el7.x86_64
@@ -2274,7 +2275,6 @@ install mate-menus-preferences-category-menu-1.16.0-1.el7.x86_64
 install yelp-3.28.1-1.el7.x86_64
 install khmeros-base-fonts-5.0-17.el7.noarch
 install python2-six-1.9.0-0.el7.noarch
-install bpftool-3.10.0-1160.76.1.el7.x86_64
 install php74-php-json-7.4.30-1.el7.remi.x86_64
 install byacc-1.9.20130304-3.el7.x86_64
 install unbound-libs-1.6.6-5.el7_8.x86_64
@@ -2630,6 +2630,7 @@ install dleyna-connector-dbus-0.2.0-2.el7.x86_64
 install cracklib-2.9.0-11.el7.x86_64
 install texlive-avantgar-svn28614.0-45.el7.noarch
 install ModemManager-glib-1.6.10-4.el7.x86_64
+install bpftool-3.10.0-1160.76.1.el7.centos.plus.x86_64
 install libfprint-0.8.2-1.el7.x86_64
 install PyYAML-3.10-11.el7.x86_64
 install hwdata-0.252-9.7.el7.x86_64
@@ -3046,7 +3047,6 @@ install libsexy-0.1.11-23.el7.x86_64
 install libnma-1.8.6-2.el7.x86_64
 install ibus-rawcode-1.3.2-3.el7.x86_64
 install texlive-pdftex-svn29585.1.40.11-45.el7.noarch
-install code-1.70.1-1660113182.el7.x86_64
 install pygtk2-2.24.0-9.el7.x86_64
 install dvd+rw-tools-7.1-15.el7.x86_64
 install w3c-markup-validator-libs-1.3-4.el7.noarch
