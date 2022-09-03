@@ -1701,6 +1701,7 @@ install boost-locale-1.53.0-28.el7.x86_64
 install createrepo_c-0.10.0-20.el7.x86_64
 install dbus-devel-1.10.24-15.el7.x86_64
 install fwupd-1.0.8-5.el7.x86_64
+install remi-release-7.9-4.el7.remi.noarch
 install perl-Parallel-ForkManager-1.18-2.el7.noarch
 install perl-Encode-HanExtra-0.23-10.el7.x86_64
 install ncurses-base-5.9-14.20130511.el7_4.noarch
@@ -2772,7 +2773,6 @@ install texlive-ntgclass-svn15878.0-45.el7.noarch
 install xorg-x11-fonts-ISO8859-15-100dpi-7.5-9.el7.noarch
 install ntpdate-4.2.6p5-29.el7.centos.2.x86_64
 install gssdp-1.0.2-1.el7.x86_64
-install remi-release-7.9-3.el7.remi.noarch
 install krb5-devel-1.15.1-54.el7_9.x86_64
 install yum-3.4.3-168.el7.centos.noarch
 install mesa-libglapi-18.3.4-12.el7_9.i686
