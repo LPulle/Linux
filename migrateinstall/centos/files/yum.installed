@@ -1252,6 +1252,7 @@ install sil-nuosu-fonts-2.1.1-5.el7.noarch
 install php-process-8.0.23-1.el7.remi.x86_64
 install gegl-0.2.0-19.el7_9.1.x86_64
 install oniguruma-6.8.2-2.el7.x86_64
+install distribution-gpg-keys-1.77-1.el7.noarch
 install python-libs-2.7.5-92.el7_9.x86_64
 install thai-scalable-fonts-common-0.5.0-7.el7.noarch
 install python2-ipalib-4.6.8-5.el7.centos.11.noarch
@@ -2734,7 +2735,6 @@ install libdwarf-20130207-4.el7.x86_64
 install libmount-2.23.2-65.el7_9.1.x86_64
 install libdvbpsi-1.3.3-1.el7.x86_64
 install libgpg-error-1.12-3.el7.x86_64
-install distribution-gpg-keys-1.76-1.el7.noarch
 install libxml++-2.37.1-1.el7.x86_64
 install libXau-devel-1.0.8-2.1.el7.x86_64
 install libxcb-1.13-1.el7.x86_64
