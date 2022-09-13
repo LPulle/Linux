@@ -49,6 +49,7 @@ appdirs
 applicationinsights
 apturl
 argon2-cffi
+args
 asgiref
 asn1crypto
 astor
@@ -87,6 +88,7 @@ cheroot
 chrome-gnome-shell
 cleanup
 click
+clint
 cloud-init
 colorama
 command-not-found
@@ -158,6 +160,7 @@ ipython
 ipywidgets
 isodate
 isort
+itchiodl
 itsdangerous
 jaraco.classes
 jaraco.collections
