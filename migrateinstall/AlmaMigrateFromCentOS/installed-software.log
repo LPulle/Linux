@@ -707,6 +707,8 @@ gtkmm24
 gtkmm30
 gtksourceview3
 gtkspell3
+gucharmap
+gucharmap-libs
 guile
 gupnp
 gupnp-av
@@ -1095,6 +1097,7 @@ libatomic_ops
 libattr
 libavc1394
 libavdevice
+libavif
 libbabeltrace
 libbase
 libbasicobjects
@@ -2700,6 +2703,7 @@ subversion-tools
 sudo
 suitesparse
 sushi
+svt-av1-libs
 swig
 switcheroo-control
 swtpm
