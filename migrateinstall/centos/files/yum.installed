@@ -216,6 +216,7 @@ install intel-conda-tbb-linux-64-shadow-package-2019.8-281-2019.8-281.x86_64
 install figlet-2.2.5-9.el7.x86_64
 install texlive-dvipdfmx-def-svn15878.0-45.el7.noarch
 install rh-python36-python-libs-3.6.12-1.el7.x86_64
+install open-vm-tools-11.0.5-3.el7_9.4.x86_64
 install libdb-5.3.21-25.el7.x86_64
 install dselect-1.18.25-10.el7.x86_64
 install postgresql-libs-9.2.24-8.el7_9.x86_64
@@ -864,6 +865,7 @@ install xemacs-devel-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
 install libreport-rhel-anaconda-bugzilla-2.1.11-53.el7.centos.x86_64
 install quota-4.01-19.el7.x86_64
 install protobuf-devel-2.5.0-8.el7.x86_64
+install code-1.71.1-1662667351.el7.x86_64
 install gpg-pubkey-46770c59-5ec55690
 install cinnamon-session-3.6.1-2.el7.x86_64
 install jasper-devel-1.900.1-33.el7.x86_64
@@ -952,7 +954,6 @@ install ModemManager-1.6.10-4.el7.x86_64
 install yasm-1.2.0-4.el7.x86_64
 install libmusicbrainz5-5.0.1-9.el7.x86_64
 install xorg-x11-drivers-7.7-6.el7.x86_64
-install open-vm-tools-11.0.5-3.el7_9.3.x86_64
 install libref_array-0.1.5-32.el7.x86_64
 install texlive-mparhack-svn15878.1.4-45.el7.noarch
 install unixODBC-devel-2.3.7-1.rh.x86_64
@@ -2347,6 +2348,7 @@ install gnome-shell-extension-window-list-3.28.1-17.el7_9.noarch
 install ipxe-roms-qemu-20180825-3.git133f4c.el7.noarch
 install nano-2.3.1-10.el7.x86_64
 install wxGTK-2.8.12-20.el7.x86_64
+install open-vm-tools-desktop-11.0.5-3.el7_9.4.x86_64
 install keyutils-libs-devel-1.5.8-3.el7.x86_64
 install blktrace-1.0.5-9.el7.x86_64
 install libmustache-0.5.0-1.el7.remi.x86_64
@@ -3183,7 +3185,6 @@ install devtoolset-9-ltrace-0.7.91-2.el7.x86_64
 install texlive-amscls-svn29207.0-45.el7.noarch
 install lightdm-gtk-1.8.5-19.el7.x86_64
 install icedax-1.1.11-25.el7.x86_64
-install code-1.71.0-1662018467.el7.x86_64
 install python2-configargparse-0.11.0-2.el7.noarch
 install ruby-libs-2.0.0.648-39.el7_9.x86_64
 install pnm2ppa-1.04-28.el7.x86_64
@@ -3251,7 +3252,6 @@ install file-5.11-37.el7.x86_64
 install qgnomeplatform-0.3-5.el7.x86_64
 install fipscheck-lib-1.4.1-6.el7.x86_64
 install devtoolset-9-perftools-9.1-0.el7.x86_64
-install open-vm-tools-desktop-11.0.5-3.el7_9.3.x86_64
 install apr-util-devel-1.5.2-6.el7.x86_64
 install varnish-libs-4.0.5-3.el7.x86_64
 install devtoolset-9-gcc-c++-9.3.1-2.2.el7.x86_64
