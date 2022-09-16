@@ -865,7 +865,6 @@ install xemacs-devel-21.5.34-8.20140605hgacf1c26e3019.el7.x86_64
 install libreport-rhel-anaconda-bugzilla-2.1.11-53.el7.centos.x86_64
 install quota-4.01-19.el7.x86_64
 install protobuf-devel-2.5.0-8.el7.x86_64
-install code-1.71.1-1662667351.el7.x86_64
 install gpg-pubkey-46770c59-5ec55690
 install cinnamon-session-3.6.1-2.el7.x86_64
 install jasper-devel-1.900.1-33.el7.x86_64
@@ -2307,6 +2306,7 @@ install erlang-runtime_tools-R16B-03.18.el7.x86_64
 install xorg-x11-fonts-ISO8859-1-100dpi-7.5-9.el7.noarch
 install mathjax-typewriter-fonts-2.7.4-2.el7.noarch
 install texlive-utopia-svn15878.0-45.el7.noarch
+install code-1.71.2-1663191299.el7.x86_64
 install rootfiles-8.1-11.el7.noarch
 install libsss_certmap-1.16.5-10.el7_9.13.x86_64
 install stix-fonts-1.1.0-5.el7.noarch
