@@ -433,10 +433,10 @@ install libopenraw-0.0.9-7.el7.x86_64
 install libcmpiCppImpl0-2.0.3-5.el7.x86_64
 install expat-2.1.0-14.el7_9.i686
 install gstreamer1-plugins-bad-free-gtk-1.10.4-3.el7.x86_64
-install xorgxrdp-0.2.18-1.el7.x86_64
 install p11-kit-0.23.5-3.el7.x86_64
 install brlapi-0.6.0-16.el7.x86_64
 install xcb-util-0.4.0-2.el7.x86_64
+install xorgxrdp-0.9.19-1.el7.x86_64
 install libvirt-daemon-driver-qemu-4.5.0-36.el7_9.5.x86_64
 install gcc-c++-4.8.5-44.el7.x86_64
 install texlive-cm-svn29581.0-45.el7.noarch
