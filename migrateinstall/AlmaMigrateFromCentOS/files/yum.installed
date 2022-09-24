@@ -244,6 +244,7 @@ install libXpm-devel-3.5.12-8.el8.x86_64
 install tcsh-6.20.00-15.el8.x86_64
 install libicu-devel-60.3-2.el8_1.x86_64
 install python3-dasbus-1.2-2.el8.noarch
+install java-latest-openjdk-18.0.2.0.9-1.rolling.el8.x86_64
 install google-droid-sans-fonts-20120715-13.el8.noarch
 install intltool-0.51.0-11.el8.noarch
 install perl-Try-Tiny-0.30-7.module_el8.5.0+2812+ed912d05.noarch
@@ -277,7 +278,6 @@ install protobuf-devel-3.5.0-13.el8.x86_64
 install clang-13.0.1-2.module_el8.6.0+2964+73bb2697.x86_64
 install less-530-1.el8.x86_64
 install neovim-0.7.0-1.el8.x86_64
-install xrdp-0.9.19-1.el8.x86_64
 install dejavu-sans-mono-fonts-2.35-7.el8.noarch
 install cairo-1.15.12-6.el8.x86_64
 install authselect-1.2.2-3.el8.x86_64
@@ -340,6 +340,7 @@ install overpass-fonts-3.0.2-3.el8.noarch
 install libipa_hbac-2.6.2-4.el8_6.1.x86_64
 install perl-UNIVERSAL-require-0.18-17.el8.noarch
 install device-mapper-1.02.181-3.el8_6.2.x86_64
+install xrdp-selinux-0.9.20-1.el8.x86_64
 install perl-Exporter-5.72-396.el8.noarch
 install libmediaart-1.9.4-4.el8.x86_64
 install pesign-0.112-26.el8.x86_64
@@ -882,6 +883,7 @@ install libXt-devel-1.1.5-12.el8.x86_64
 install ibus-gtk3-1.5.19-14.el8_5.x86_64
 install khmeros-base-fonts-5.0-25.el8.noarch
 install thai-scalable-waree-fonts-0.6.5-1.el8.noarch
+install xrdp-0.9.20-1.el8.x86_64
 install liberation-mono-fonts-2.00.3-7.el8.noarch
 install langtable-0.0.51-4.el8.noarch
 install perl-GD-Barcode-1.15-36.el8.noarch
@@ -1083,6 +1085,7 @@ install iso-codes-devel-3.79-2.el8.noarch
 install texlive-collection-latexrecommended-20180414-25.el8.noarch
 install gdb-headless-8.2-18.el8.x86_64
 install libxslt-devel-1.1.32-6.el8.x86_64
+install xorgxrdp-0.9.19-1.el8.x86_64
 install python3-meh-0.47.2-1.el8.noarch
 install xorg-x11-xinit-1.3.4-18.el8.x86_64
 install perl-Scalar-List-Utils-1.49-2.el8.x86_64
@@ -1920,6 +1923,7 @@ install paps-0.6.8-41.el8.x86_64
 install elfutils-debuginfod-client-devel-0.186-1.el8.x86_64
 install perl-Encode-2.97-3.el8.x86_64
 install liberation-fonts-common-2.00.3-7.el8.noarch
+install java-latest-openjdk-headless-18.0.2.0.9-1.rolling.el8.x86_64
 install PackageKit-glib-1.1.12-6.el8.x86_64
 install python3-langtable-0.0.51-4.el8.noarch
 install startup-notification-0.12-15.el8.x86_64
@@ -2121,6 +2125,7 @@ install tbb-devel-2018.2-9.el8.x86_64
 install paktype-naskh-basic-fonts-4.1-9.el8.noarch
 install gnome-bluetooth-3.34.3-1.el8.x86_64
 install python3-productmd-1.11-3.el8.noarch
+install libconfuse-3.3-7.el8.x86_64
 install libXxf86vm-devel-1.1.4-9.el8.x86_64
 install kf5-kparts-5.88.0-1.el8.x86_64
 install elfutils-0.186-1.el8.x86_64
@@ -2282,7 +2287,6 @@ install edk2-ovmf-20220126gitbb1bba3d77-2.el8.noarch
 install libgusb-0.3.0-1.el8.x86_64
 install texlive-bibtex-20180414-25.el8.x86_64
 install qemu-kvm-block-gluster-6.2.0-11.module_el8.6.0+3259+f1e4044a.5.x86_64
-install java-latest-openjdk-18.0.1.0.10-1.rolling.el8.x86_64
 install libgxps-0.3.0-5.el8.x86_64
 install texlive-bera-20180414-25.el8.noarch
 install php82-runtime-8.2-2.el8.remi.x86_64
@@ -2448,7 +2452,6 @@ install xfce4-settings-4.16.2-1.el8.x86_64
 install dracut-config-rescue-049-202.git20220511.el8_6.x86_64
 install xorg-x11-drivers-7.7-30.el8.x86_64
 install libatomic-8.5.0-10.1.el8_6.alma.x86_64
-install xrdp-selinux-0.9.19-1.el8.x86_64
 install php80-php-fpm-8.0.23-1.el8.remi.x86_64
 install pkgconf-m4-1.4.2-1.el8.noarch
 install xorg-x11-utils-7.5-28.el8.x86_64
@@ -2675,7 +2678,6 @@ install libvirt-daemon-driver-interface-8.0.0-5.4.module_el8.6.0+3259+f1e4044a.x
 install texlive-rsfs-20180414-25.el8.noarch
 install jack-audio-connection-kit-1.9.14-4.el8.x86_64
 install facter-3.14.2-4.el8.x86_64
-install java-latest-openjdk-headless-18.0.1.0.10-1.rolling.el8.x86_64
 install libgsf-1.14.41-5.el8.x86_64
 install libverto-libevent-0.3.0-5.el8.x86_64
 install python3-rpm-4.14.3-23.el8.x86_64
@@ -2939,11 +2941,9 @@ install GeoIP-GeoLite-data-2018.06-5.el8.noarch
 install gcc-toolset-11-gcc-11.2.1-9.1.el8.x86_64
 install paper-2.3-1.el8.x86_64
 install libnet-1.1.6-15.el8.x86_64
-install xorgxrdp-0.2.18-1.el8.x86_64
 install netcdf-4.7.0-2.el8.x86_64
 install atlas-3.10.3-8.el8.x86_64
 install libshout-2.2.2-19.el8.x86_64
-install libconfuse-3.3-1.el8.x86_64
 install libXt-1.1.5-12.el8.x86_64
 install libhangul-0.1.0-16.el8.x86_64
 install perl-Data-OptList-0.110-6.el8.noarch
