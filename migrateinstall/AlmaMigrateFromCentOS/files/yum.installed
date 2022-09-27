@@ -1138,7 +1138,6 @@ install php-PsrLog-1.1.4-1.el8.remi.noarch
 install perl-Net-Ping-2.55-421.el8.noarch
 install perl-Encode-Locale-1.05-10.module_el8.5.0+2812+ed912d05.noarch
 install libraqm-0.7.0-4.el8.x86_64
-install HdrHistogram_c6php-libs-0.11.5-1.el8.remi.x86_64
 install xcb-util-keysyms-0.4.0-7.el8.x86_64
 install policycoreutils-2.9-19.el8.x86_64
 install lcms2-devel-2.9-2.el8.x86_64
@@ -3208,6 +3207,7 @@ install perl-Proc-Daemon-0.23-12.el8.noarch
 install perl-Errno-1.28-421.el8.x86_64
 install gnome-user-docs-3.28.2-1.el8.noarch
 install fontconfig-2.13.1-4.el8.x86_64
+install HdrHistogram_c6php-libs-0.11.6-1.el8.remi.x86_64
 install kf5-kdeclarative-5.88.0-1.el8.x86_64
 install tre-devel-0.8.0-27.20140228gitc2f5d13.el8.x86_64
 install log4j-2.17.1-4.module_el8.6.0+2885+57fd4498.noarch
