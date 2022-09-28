@@ -888,6 +888,7 @@ install perl-File-Temp-0.23.01-3.el7.noarch
 install perl-Net-SSLeay-1.55-6.el7.x86_64
 install python-pyudev-0.15-9.el7.noarch
 install numad-0.5-18.20150602git.el7.x86_64
+install HdrHistogram_c6php-libs-0.11.6-1.el7.remi.x86_64
 install efivar-libs-36-12.el7.x86_64
 install fdk-aac-0.1.5-0.1.gita0bd8aa.el7.x86_64
 install network-manager-applet-1.8.6-2.el7.x86_64
@@ -2959,7 +2960,6 @@ install libX11-1.6.7-4.el7_9.x86_64
 install libxklavier-5.4-7.el7.x86_64
 install srvadmin-tomcat-10.1.0.0-4561.18274.el7.x86_64
 install python2-pip-8.1.2-14.el7.noarch
-install HdrHistogram_c6php-libs-0.11.5-1.el7.remi.x86_64
 install libcgroup-tools-0.41-21.el7.x86_64
 install remmina-plugins-vnc-1.4.25-4.el7.x86_64
 install gcc-4.8.5-44.el7.x86_64
