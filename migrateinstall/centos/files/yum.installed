@@ -389,7 +389,6 @@ install php-phpunit-File-Iterator-1.4.0-1.el7.noarch
 install llvm-3.4.2-9.el7.x86_64
 install python-pyblock-0.53-6.el7.x86_64
 install kpartx-0.4.9-135.el7_9.x86_64
-install dkms-3.0.6-1.el7.noarch
 install libshout-2.2.2-11.el7.x86_64
 install python36-urllib3-1.25.6-2.el7.noarch
 install nmap-6.40-19.el7.x86_64
@@ -1855,7 +1854,6 @@ install babl-0.1.10-10.el7.x86_64
 install mathjax-vector-fonts-2.7.4-2.el7.noarch
 install libmaxminddb-1.2.0-6.el7.x86_64
 install oci-systemd-hook-0.2.0-1.git05e6923.el7_6.x86_64
-install mock-core-configs-36.12-1.el7.noarch
 install srvadmin-deng-snmp-10.1.0.0-4561.18274.el7.x86_64
 install libreport-python-2.1.11-53.el7.centos.x86_64
 install texlive-graphics-svn25405.1.0o-45.el7.noarch
@@ -2404,6 +2402,7 @@ install kbd-1.15.5-16.el7_9.x86_64
 install libtasn1-4.10-1.el7.x86_64
 install gstreamer1-plugins-bad-freeworld-1.0.6-2.el7.nux.x86_64
 install cairo-1.15.12-4.el7.i686
+install mock-core-configs-36.13-1.el7.noarch
 install mate-applets-1.16.0-2.el7.x86_64
 install libSM-1.2.2-2.el7.x86_64
 install texlive-xunicode-svn23897.0.981-45.el7.noarch
@@ -2788,6 +2787,7 @@ install php-symfony-http-foundation-2.8.12-2.el7.noarch
 install evince-3.28.2-10.el7.x86_64
 install nodejs-packaging-25-1.el7.noarch
 install lohit-marathi-fonts-2.5.3-2.el7.noarch
+install dkms-3.0.7-1.el7.noarch
 install liblockfile-1.08-17.el7.x86_64
 install libunwind-1.2-2.el7.x86_64
 install texlive-metafont-svn26689.2.718281-45.el7.noarch
