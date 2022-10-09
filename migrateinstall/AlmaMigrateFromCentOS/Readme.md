@@ -5,7 +5,7 @@ It may also work for other RHEL based distros, but am trying with Alma first to 
 Run the alma_migrate_fromcentos7.sh
 - Installs svn, downloads the files, updates Alma and installs all the packages
 - Created on Alma Linux WSL instance but needs more testing
-- Also reinstalls/updates python and npm including all the modules\
+- Also reinstalls/updates python and npm including all the modules
 
 Also included now are versions of the migrate and export scripts based on the CentOS versions for pushing the files to this repo (export)
 And also one for migrating to another Alma install (migrate)
