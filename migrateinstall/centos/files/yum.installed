@@ -1355,6 +1355,7 @@ install gpg-pubkey-3bbf077a-51260c0f
 install python-coverage-3.6-0.5.b3.el7.x86_64
 install lohit-nepali-fonts-2.5.3-2.el7.noarch
 install kdelibs-ktexteditor-4.14.8-13.el7.x86_64
+install code-1.72.1-1665423941.el7.x86_64
 install perl-Compress-Raw-Zlib-2.061-4.el7.x86_64
 install python36-six-1.14.0-3.el7.noarch
 install ghc-haskell98-2.0.0.2-26.4.el7.x86_64
@@ -2183,7 +2184,6 @@ install empathy-3.12.13-1.el7.x86_64
 install fontconfig-devel-2.13.0-4.3.el7.x86_64
 install libnl-1.1.4-3.el7.x86_64
 install tk-8.5.13-6.el7.x86_64
-install code-1.72.0-1664927055.el7.x86_64
 install mate-settings-daemon-1.16.2-1.el7.x86_64
 install libxkbfile-1.0.9-3.el7.x86_64
 install liblayout-0.2.10-8.el7.noarch
