@@ -45,6 +45,7 @@ install muffin-3.6.0-2.el7.x86_64
 install freetype-2.8-14.el7_9.1.x86_64
 install vlgothic-fonts-20130607-2.el7.noarch
 install perl-Time-Piece-1.20.1-299.el7_9.x86_64
+install leapp-upgrade-el7toel8-0.16.0-6.el7.elevate.1.noarch
 install icoutils-0.31.3-1.el7_3.x86_64
 install python-zope-event-4.0.3-2.el7.noarch
 install libtidy-5.4.0-1.el7.x86_64
@@ -118,7 +119,6 @@ install atop-2.7.1-1.el7.x86_64
 install emerald-0.8.8-10.el7.nux.x86_64
 install wmctrl-1.07-17.gf.el7.x86_64
 install remi-libzip-1.9.2-2.el7.remi.x86_64
-install leapp-upgrade-el7toel8-deps-0.16.0-6.el7.elevate.noarch
 install libwps-0.4.7-1.el7.x86_64
 install python36-PyYAML-3.13-1.el7.x86_64
 install php-symfony-yaml-2.8.12-2.el7.noarch
@@ -783,6 +783,7 @@ install systemtap-runtime-4.0-13.el7.x86_64
 install php-sebastian-recursion-context-1.0.2-1.el7.noarch
 install libxfce4util-4.12.1-2.el7.x86_64
 install libsemanage-2.5-14.el7.x86_64
+install leapp-upgrade-el7toel8-deps-0.16.0-6.el7.elevate.1.noarch
 install gpg-pubkey-11f63c51-3c7dc11d
 install centos-release-7-9.2009.1.el7.centos.x86_64
 install pcre2-10.23-2.el7.x86_64
@@ -1355,7 +1356,6 @@ install gpg-pubkey-3bbf077a-51260c0f
 install python-coverage-3.6-0.5.b3.el7.x86_64
 install lohit-nepali-fonts-2.5.3-2.el7.noarch
 install kdelibs-ktexteditor-4.14.8-13.el7.x86_64
-install code-1.72.1-1665423941.el7.x86_64
 install perl-Compress-Raw-Zlib-2.061-4.el7.x86_64
 install python36-six-1.14.0-3.el7.noarch
 install ghc-haskell98-2.0.0.2-26.4.el7.x86_64
@@ -1985,6 +1985,7 @@ install clutter-gst2-2.0.18-1.el7.x86_64
 install subversion-perl-1.7.14-16.el7.x86_64
 install NetworkManager-openconnect-1.2.4-4.el7.x86_64
 install libGLEW-1.10.0-5.el7.x86_64
+install code-1.72.2-1665614416.el7.x86_64
 install rstudio-server-2022.02.1+461-1.x86_64
 install adobe-mappings-cmap-20171205-3.el7.noarch
 install checkpolicy-2.5-8.el7.x86_64
@@ -2549,7 +2550,6 @@ install sg3_utils-1.37-19.el7.x86_64
 install devtoolset-9-dwz-0.12-1.1.el7.x86_64
 install harfbuzz-1.7.5-2.el7.x86_64
 install tree-1.6.0-10.el7.x86_64
-install leapp-upgrade-el7toel8-0.16.0-6.el7.elevate.noarch
 install logrotate-3.8.6-19.el7.x86_64
 install liblouis-2.5.2-12.el7_4.x86_64
 install devtoolset-10-make-devel-4.2.1-1.el7.x86_64
