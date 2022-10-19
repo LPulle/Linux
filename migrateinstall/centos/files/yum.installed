@@ -154,7 +154,6 @@ install w3c-markup-validator-1.3-4.el7.noarch
 install mesa-libxatracker-18.3.4-12.el7_9.x86_64
 install libquadmath-4.8.5-44.el7.x86_64
 install dosfstools-3.0.20-10.el7.x86_64
-install python36-rpmconf-1.0.22-1.el7.noarch
 install openjpeg2-2.3.1-3.el7_7.x86_64
 install perl-Parse-EDID-1.0.7-1.el7.noarch
 install m17n-contrib-1.1.14-3.el7.noarch
@@ -475,7 +474,6 @@ install lightdm-gtk-common-1.8.5-19.el7.noarch
 install apr-1.4.8-7.el7.x86_64
 install perl-DBD-SQLite-1.39-3.el7.x86_64
 install rdate-1.4-25.el7.x86_64
-install rpmconf-base-1.0.22-1.el7.noarch
 install libv4l-0.9.5-4.el7.x86_64
 install devtoolset-10-perftools-10.1-0.el7.x86_64
 install thai-scalable-waree-fonts-0.5.0-7.el7.noarch
@@ -1139,6 +1137,7 @@ install srvadmin-hapi-10.1.0.0-4561.18274.el7.x86_64
 install qt5-qtquickcontrols-5.9.7-1.el7.x86_64
 install libcmis-0.5.1-2.el7.x86_64
 install libmateweather-1.16.1-1.el7.x86_64
+install rpmconf-1.1.7-1.el7.1.noarch
 install geos-devel-3.4.2-2.el7.x86_64
 install libxkbcommon-x11-0.7.1-3.el7.x86_64
 install python2-hawkey-0.22.5-2.el7_9.x86_64
@@ -1560,7 +1559,6 @@ install openbox-kde-3.5.2-6.el7.noarch
 install mathjax-size2-fonts-2.7.4-2.el7.noarch
 install rh-python36-python-3.6.12-1.el7.x86_64
 install texlive-pst-text-svn15878.1.00-45.el7.noarch
-install rpmconf-1.0.22-1.el7.noarch
 install srvadmin-itunnelprovider-10.1.0.0-4561.18274.el7.x86_64
 install man-pages-3.53-5.el7.noarch
 install tracker-1.10.5-8.el7.x86_64
@@ -1769,6 +1767,7 @@ install libreoffice-pyuno-5.3.6.1-25.el7_9.x86_64
 install clang-3.4.2-9.el7.x86_64
 install vinagre-3.22.0-14.el7.x86_64
 install libndp-1.2-9.el7.x86_64
+install python36-rpmconf-1.1.7-1.el7.1.noarch
 install kernel-devel-3.10.0-1160.62.1.el7.x86_64
 install erlang-syntax_tools-R16B-03.18.el7.x86_64
 install texlive-xcolor-svn15878.2.11-45.el7.noarch
@@ -2897,6 +2896,7 @@ install libreoffice-data-5.3.6.1-25.el7_9.noarch
 install clutter-gst3-3.0.26-1.el7.x86_64
 install devtoolset-10-memstomp-0.1.5-6.el7.x86_64
 install php-phpunit-Version-1.0.5-1.el7.noarch
+install rpmconf-base-1.1.7-1.el7.1.noarch
 install perl-Business-ISBN-2.06-2.el7.noarch
 install perl-Digest-SHA-5.85-4.el7.x86_64
 install gnome-python2-2.28.1-14.el7.x86_64
