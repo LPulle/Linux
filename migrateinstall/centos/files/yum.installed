@@ -1246,7 +1246,6 @@ install texlive-thumbpdf-svn26689.3.15-45.el7.noarch
 install sil-nuosu-fonts-2.1.1-5.el7.noarch
 install gegl-0.2.0-19.el7_9.1.x86_64
 install oniguruma-6.8.2-2.el7.x86_64
-install distribution-gpg-keys-1.77-1.el7.noarch
 install python-libs-2.7.5-92.el7_9.x86_64
 install thai-scalable-fonts-common-0.5.0-7.el7.noarch
 install samba-client-libs-4.10.16-20.el7_9.x86_64
@@ -2413,6 +2412,7 @@ install apr15u-util-1.5.4-3.ius.el7.x86_64
 install NetworkManager-ppp-1.18.8-2.el7_9.x86_64
 install libreoffice-emailmerge-5.3.6.1-25.el7_9.x86_64
 install automake-1.13.4-3.el7.noarch
+install distribution-gpg-keys-1.78-1.el7.noarch
 install libdnf-0.22.5-2.el7_9.x86_64
 install python36-markupsafe-0.23-3.el7.x86_64
 install dracut-network-033-572.el7.x86_64
