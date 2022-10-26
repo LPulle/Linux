@@ -1780,6 +1780,7 @@ nmap
 nmap-ncat
 nodejs
 nodejs-devel
+nodejs-docs
 nodejs-full-i18n
 nodejs-packaging
 npm

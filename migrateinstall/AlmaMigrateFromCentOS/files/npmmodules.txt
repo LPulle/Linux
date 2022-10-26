@@ -1,5 +1,1 @@
-LICENSE
-README.md
-bin
-dotfiles
-migrateinstall
+npm

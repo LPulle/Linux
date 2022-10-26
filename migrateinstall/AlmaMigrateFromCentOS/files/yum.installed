@@ -92,7 +92,6 @@ install libblkid-2.32.1-35.el8.x86_64
 install dia-0.97.3-19.el8.x86_64
 install realmd-0.16.3-25.el8.x86_64
 install iwl3160-firmware-25.30.13.0-107.el8.1.noarch
-install nodejs-devel-10.24.0-1.module_el8.3.0+2047+b07ac28e.x86_64
 install libnotify-0.7.7-6.el8.x86_64
 install pango-1.42.4-8.el8.x86_64
 install python3-pyxdg-0.25-16.el8.noarch
@@ -476,6 +475,7 @@ install libdbusmenu-gtk3-16.04.0-12.el8.x86_64
 install libndp-1.7-6.el8.x86_64
 install copy-jdk-configs-4.0-2.el8.noarch
 install sane-backends-drivers-scanners-1.0.27-22.el8.x86_64
+install nodejs-devel-16.17.1-1.module_el8.6.0+3328+2e4711d7.x86_64
 install apr-util-1.6.1-6.el8.x86_64
 install ghc-process-1.6.1.0-68.4.el8.x86_64
 install pykickstart-3.16.14-1.el8.noarch
@@ -569,6 +569,7 @@ install python3-distro-1.4.0-2.module_el8.5.0+2569+5c5719bc.noarch
 install librevenge-0.0.4-12.el8.x86_64
 install libspiro-20150131-8.el8.x86_64
 install mcpp-2.7.2-20.el8.x86_64
+install nodejs-full-i18n-16.17.1-1.module_el8.6.0+3328+2e4711d7.x86_64
 install arpack-3.7.0-1.el8.x86_64
 install dejavu-sans-fonts-2.35-7.el8.noarch
 install xterm-resize-331-1.el8_3.2.x86_64
@@ -1177,7 +1178,6 @@ install ibus-m17n-1.3.4-26.el8.x86_64
 install taglib-1.11.1-8.el8.x86_64
 install iwl6050-firmware-41.28.5.1-107.el8.1.noarch
 install libglade2-2.6.4-23.el8.x86_64
-install nodejs-full-i18n-10.24.0-1.module_el8.3.0+2047+b07ac28e.x86_64
 install libtirpc-1.1.4-6.el8.x86_64
 install gupnp-av-0.12.10-6.el8.x86_64
 install ncurses-compat-libs-6.1-9.20180224.el8.x86_64
@@ -1354,6 +1354,7 @@ install libsamplerate-0.1.9-1.el8.x86_64
 install libslirp-4.4.0-1.module_el8.6.0+2878+e681bc44.x86_64
 install apr-util-devel-1.6.1-6.el8.x86_64
 install net-snmp-libs-5.8-25.el8.x86_64
+install nodejs-16.17.1-1.module_el8.6.0+3328+2e4711d7.x86_64
 install libfontenc-1.1.3-8.el8.x86_64
 install unzip-6.0-46.el8.x86_64
 install python3-gobject-base-3.28.3-2.el8.x86_64
@@ -2395,6 +2396,7 @@ install psacct-6.6.3-4.el8.x86_64
 install sane-backends-libs-1.0.27-22.el8.x86_64
 install libaec-1.0.2-3.el8.x86_64
 install libidn-1.34-5.el8.x86_64
+install npm-8.15.0-1.16.17.1.1.module_el8.6.0+3328+2e4711d7.x86_64
 install libchamplain-gtk-0.12.16-2.el8.x86_64
 install cowsay-3.04-16.el8.noarch
 install dejavu-serif-fonts-2.35-7.el8.noarch
@@ -2528,6 +2530,7 @@ install libpath_utils-0.2.1-39.el8.x86_64
 install catimg-2.7.0-3.el8.x86_64
 install gsm-1.0.17-5.el8.x86_64
 install libasan6-11.2.1-9.1.el8.x86_64
+install nodejs-docs-16.17.1-1.module_el8.6.0+3328+2e4711d7.noarch
 install libijs-0.35-5.el8.x86_64
 install hplip-common-3.18.4-9.el8.alma.x86_64
 install perl-Math-BigInt-1.9998.11-7.el8.noarch
@@ -2849,7 +2852,6 @@ install libsysfs-2.1.0-25.el8.x86_64
 install proj-6.3.2-4.el8.x86_64
 install protobuf-lite-3.5.0-13.el8.x86_64
 install libmaxminddb-1.2.0-10.el8.x86_64
-install nodejs-10.24.0-1.module_el8.3.0+2047+b07ac28e.x86_64
 install gpg-pubkey-5f11735a-5a58bcd7
 install redshift-1.12-10.el8.x86_64
 install glusterfs-fuse-6.0-56.4.el8.x86_64
@@ -2949,7 +2951,6 @@ install open-vm-tools-desktop-11.3.5-1.el8_6.1.x86_64
 install python2-libs-2.7.18-10.module_el8.6.0+2781+fed64c13.alma.x86_64
 install rclone-1.57.0-1.el8.x86_64
 install ffmpeg-libs-4.2.7-1.el8.x86_64
-install npm-6.14.11-1.10.24.0.1.module_el8.3.0+2047+b07ac28e.x86_64
 install mesa-filesystem-21.3.4-1.el8.x86_64
 install libhandlebars-0.7.3-1.el8.remi.x86_64
 install iwl105-firmware-18.168.6.1-107.el8.1.noarch
