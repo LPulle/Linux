@@ -392,6 +392,7 @@ install kpartx-0.4.9-135.el7_9.x86_64
 install libshout-2.2.2-11.el7.x86_64
 install python36-urllib3-1.25.6-2.el7.noarch
 install nmap-6.40-19.el7.x86_64
+install code-1.73.0-1667318873.el7.x86_64
 install dhcp-libs-4.2.5-83.el7.centos.1.x86_64
 install valgrind-3.15.0-11.el7.x86_64
 install texlive-amsfonts-svn29208.3.04-45.el7.noarch
@@ -701,6 +702,7 @@ install devtoolset-9-build-9.1-0.el7.x86_64
 install libxcb-devel-1.13-1.el7.x86_64
 install gdbm-devel-1.10-8.el7.x86_64
 install libcap-2.22-11.el7.x86_64
+install mdatp-101.85.27-1.x86_64
 install compat-exiv2-026-0.26-2.el7.x86_64
 install libcacard-2.7.0-1.el7.x86_64
 install speex-1.2-0.19.rc1.el7.x86_64
@@ -1980,7 +1982,6 @@ install clutter-gst2-2.0.18-1.el7.x86_64
 install subversion-perl-1.7.14-16.el7.x86_64
 install NetworkManager-openconnect-1.2.4-4.el7.x86_64
 install libGLEW-1.10.0-5.el7.x86_64
-install code-1.72.2-1665614416.el7.x86_64
 install rstudio-server-2022.02.1+461-1.x86_64
 install adobe-mappings-cmap-20171205-3.el7.noarch
 install checkpolicy-2.5-8.el7.x86_64
@@ -3071,7 +3072,6 @@ install php-symfony-event-dispatcher-2.8.12-2.el7.noarch
 install libasan6-11.2.1-9.el7.x86_64
 install dpkg-1.18.25-10.el7.x86_64
 install libattr-2.4.46-13.el7.i686
-install mdatp-101.80.97-1.x86_64
 install urw-base35-c059-fonts-20170801-10.el7.noarch
 install glusterfs-client-xlators-6.0-61.el7.x86_64
 install libquadmath-devel-4.8.5-44.el7.x86_64
