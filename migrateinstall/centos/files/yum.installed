@@ -969,6 +969,7 @@ install pcre-8.32-17.el7.x86_64
 install xorg-x11-fonts-ISO8859-14-100dpi-7.5-9.el7.noarch
 install bzip2-libs-1.0.6-13.el7.i686
 install words-3.0-22.el7.noarch
+install dkms-3.0.8-1.el7.noarch
 install python-nss-0.16.0-3.el7.x86_64
 install avahi-ui-gtk3-0.6.31-20.el7.x86_64
 install perl-threads-1.87-4.el7.x86_64
@@ -2783,7 +2784,6 @@ install php-symfony-http-foundation-2.8.12-2.el7.noarch
 install evince-3.28.2-10.el7.x86_64
 install nodejs-packaging-25-1.el7.noarch
 install lohit-marathi-fonts-2.5.3-2.el7.noarch
-install dkms-3.0.7-1.el7.noarch
 install liblockfile-1.08-17.el7.x86_64
 install libunwind-1.2-2.el7.x86_64
 install texlive-metafont-svn26689.2.718281-45.el7.noarch
