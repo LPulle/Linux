@@ -2188,6 +2188,7 @@ php80-php-process
 php80-php-xml
 php80-runtime
 php81
+php81-build
 php81-php-cli
 php81-php-common
 php81-php-fpm
@@ -2198,6 +2199,7 @@ php81-php-sodium
 php81-php-xml
 php81-runtime
 php82
+php82-build
 php82-php-cli
 php82-php-common
 php82-php-fpm

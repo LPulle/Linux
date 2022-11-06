@@ -45,6 +45,7 @@ install python3-simpleline-1.1.1-2.el8.noarch
 install paps-libs-0.6.8-41.el8.x86_64
 install elfutils-devel-0.186-1.el8.x86_64
 install hiredis-0.13.3-13.el8.x86_64
+install netcat-1.219-1.el8.x86_64
 install pcre2-devel-10.32-2.el8.x86_64
 install kf5-kcmutils-5.88.0-1.el8.x86_64
 install gnome-shell-extension-top-icons-3.32.1-27.el8.noarch
@@ -151,6 +152,7 @@ install perl-Net-CUPS-0.64-11.el8.x86_64
 install gnome-disk-utility-3.28.3-2.el8.x86_64
 install bzip2-1.0.6-26.el8.x86_64
 install qt5-qttools-5.15.2-4.el8.x86_64
+install tzdata-2022f-1.el8.noarch
 install python3-pysocks-1.6.8-3.el8.noarch
 install traceroute-2.1.0-6.el8.x86_64
 install avahi-glib-0.7-20.el8.x86_64
@@ -557,7 +559,6 @@ install libgcab1-1.1-1.el8.x86_64
 install rng-tools-6.14-6.git.b2b7934e.el8_6.x86_64
 install sg3_utils-libs-1.44-5.el8.x86_64
 install perl-Data-Section-0.200007-3.el8.noarch
-install dkms-3.0.7-1.el8.noarch
 install tigervnc-server-minimal-1.12.0-4.el8.x86_64
 install glibmm24-2.56.0-2.el8.x86_64
 install xfwm4-4.16.1-1.el8.x86_64
@@ -660,7 +661,6 @@ install perl-Sys-Syslog-0.35-397.el8.x86_64
 install xemacs-packages-base-el-20190327-1.el8.noarch
 install gstreamer1-plugins-good-1.16.1-2.el8.x86_64
 install ksystemstats-5.23.3-1.el8.x86_64
-install msodbcsql18-18.1.1.1-1.x86_64
 install gvfs-archive-1.36.2-11.el8.x86_64
 install perl-encoding-2.22-3.el8.x86_64
 install python3-ruamel-yaml-0.16.6-8.el8.x86_64
@@ -780,7 +780,6 @@ install ghc-ghci-8.2.2-68.4.el8.x86_64
 install texlive-tetex-20180414-25.el8.noarch
 install kyotocabinet-libs-1.2.76-17.el8.x86_64
 install perl-Tk-804.034-2.el8.x86_64
-install php74-php-common-7.4.32-2.el8.remi.x86_64
 install libfreehand-0.1.2-2.el8.x86_64
 install xcb-util-renderutil-0.3.9-10.el8.x86_64
 install nmap-ncat-7.70-6.el8.x86_64
@@ -869,6 +868,7 @@ install perl-podlators-4.11-1.el8.noarch
 install docbook-style-xsl-1.79.2-9.el8.noarch
 install perl-Sub-Quote-2.006003-3.el8.noarch
 install libXt-devel-1.1.5-12.el8.x86_64
+install php81-build-8.1-2.el8.remi.x86_64
 install ibus-gtk3-1.5.19-14.el8_5.x86_64
 install khmeros-base-fonts-5.0-25.el8.noarch
 install thai-scalable-waree-fonts-0.6.5-1.el8.noarch
@@ -1000,7 +1000,6 @@ install libvirt-daemon-driver-storage-scsi-8.0.0-5.5.module_el8.6.0+3337+88d7cc9
 install hardlink-1.3-6.el8.x86_64
 install texlive-index-20180414-25.el8.noarch
 install libpeas-gtk-1.22.0-6.el8.x86_64
-install netcat-1.218-5.el8.x86_64
 install pcre2-utf16-10.32-2.el8.x86_64
 install libusb-0.1.5-12.el8.x86_64
 install libmwaw-0.3.14-1.el8.x86_64
@@ -1074,6 +1073,7 @@ install texlive-collection-latexrecommended-20180414-25.el8.noarch
 install gdb-headless-8.2-18.el8.x86_64
 install libxslt-devel-1.1.32-6.el8.x86_64
 install xorgxrdp-0.9.19-1.el8.x86_64
+install php74-php-common-7.4.33-1.el8.remi.x86_64
 install python3-meh-0.47.2-1.el8.noarch
 install xorg-x11-xinit-1.3.4-18.el8.x86_64
 install perl-Scalar-List-Utils-1.49-2.el8.x86_64
@@ -1283,6 +1283,7 @@ install perl-Getopt-Long-2.50-4.el8.noarch
 install elfutils-libelf-devel-0.186-1.el8.x86_64
 install parallel-20190922-1.el8.noarch
 install libevent-2.1.8-5.el8.x86_64
+install msodbcsql18-18.1.2.1-1.x86_64
 install perl-Tie-IxHash-1.23-13.el8.noarch
 install libzip-1.7.3-1.module_el8.6.0+2739+efabdb8f.x86_64
 install qt5-qttools-libs-designer-5.15.2-4.el8.x86_64
@@ -1501,6 +1502,7 @@ install systemtap-devel-4.6-4.el8.x86_64
 install kf5-kpackage-5.88.0-1.el8.x86_64
 install pcre-devel-8.42-6.el8.x86_64
 install python3-dbus-1.2.4-15.el8.x86_64
+install epel-release-8-18.el8.noarch
 install timedatex-0.5-3.el8.x86_64
 install perl-IO-1.38-421.el8.x86_64
 install pinentry-gtk-1.1.0-2.el8.x86_64
@@ -1554,7 +1556,6 @@ install libbluray-1.0.2-3.el8.x86_64
 install tar-1.30-5.el8.x86_64
 install cyrus-sasl-2.1.27-6.el8_5.x86_64
 install w3m-img-0.5.3-55.git20220429.el8.x86_64
-install tzdata-2022e-1.el8.noarch
 install harfbuzz-1.7.5-3.el8.x86_64
 install criu-3.15-3.module_el8.6.0+2751+06427ca3.x86_64
 install hplip-libs-3.18.4-9.el8.alma.x86_64
@@ -1713,6 +1714,7 @@ install ibus-setup-1.5.19-14.el8_5.noarch
 install perl-libs-5.26.3-421.el8.x86_64
 install chrony-4.1-1.el8.alma.x86_64
 install ima-evm-utils-1.3.2-12.el8.x86_64
+install dkms-3.0.8-1.el8.noarch
 install libdaemon-0.14-15.el8.x86_64
 install lvm2-libs-2.03.14-3.el8_6.2.x86_64
 install kf5-kdelibs4support-5.88.0-1.el8.x86_64
@@ -1814,7 +1816,6 @@ install libvirt-daemon-driver-nodedev-8.0.0-5.5.module_el8.6.0+3337+88d7cc9c.x86
 install kernel-modules-4.18.0-372.32.1.el8_6.x86_64
 install samba-4.15.5-10.el8_6.x86_64
 install grub2-tools-minimal-2.02-123.el8_6.8.alma.x86_64
-install php74-php-cli-7.4.32-2.el8.remi.x86_64
 install httpd-tools-2.4.37-47.module_el8.6.0+2935+fb177b09.2.x86_64
 install php82-php-xml-8.2.0~rc5-18.el8.remi.x86_64
 install libksba-1.3.5-8.el8_6.x86_64
@@ -2115,6 +2116,7 @@ install tbb-devel-2018.2-9.el8.x86_64
 install paktype-naskh-basic-fonts-4.1-9.el8.noarch
 install gnome-bluetooth-3.34.3-1.el8.x86_64
 install python3-productmd-1.11-3.el8.noarch
+install php74-php-json-7.4.33-1.el8.remi.x86_64
 install libconfuse-3.3-7.el8.x86_64
 install libXxf86vm-devel-1.1.4-9.el8.x86_64
 install kf5-kparts-5.88.0-1.el8.x86_64
@@ -2236,7 +2238,6 @@ install xemacs-filesystem-21.5.34-35.20190323hgc0ed7ef9a5a1.el8.noarch
 install microcode_ctl-20220207-1.20220510.1.el8_6.x86_64
 install python3-libipa_hbac-2.6.2-4.el8_6.1.x86_64
 install xfce4-pulseaudio-plugin-0.4.3-3.el8.x86_64
-install tzdata-java-2022e-1.el8.noarch
 install ruby-irb-2.5.9-110.module_el8.6.0+3074+4b08f9d4.noarch
 install python3-libxml2-2.9.7-13.el8_6.1.x86_64
 install xorg-x11-drv-evdev-2.10.6-2.el8.x86_64
@@ -2327,6 +2328,7 @@ install tcp_wrappers-7.6-96.el8.x86_64
 install khmeros-fonts-common-5.0-25.el8.noarch
 install zenity-3.28.1-1.el8.x86_64
 install libuuid-devel-2.32.1-35.el8.x86_64
+install php74-php-xml-7.4.33-1.el8.remi.x86_64
 install libyaz-5.14.11-14.el8.remi.x86_64
 install perl-Sub-Exporter-Progressive-0.001013-5.el8.noarch
 install systemtap-4.6-4.el8.x86_64
@@ -2484,7 +2486,6 @@ install source-highlight-3.1.8-17.el8.x86_64
 install iwl2030-firmware-18.168.6.1-108.el8_6.1.noarch
 install texlive-cm-super-20180414-25.el8.noarch
 install f35-backgrounds-kde-35.0.1-2.el8.noarch
-install mdatp-101.80.97-1.x86_64
 install texlive-zapfchan-20180414-25.el8.noarch
 install gtk3-devel-3.22.30-10.el8.x86_64
 install perl-Socket-2.027-3.el8.x86_64
@@ -2723,7 +2724,6 @@ install kwayland-server-5.23.3-1.el8.x86_64
 install cmake-3.20.2-4.el8.x86_64
 install libgphoto2-2.5.16-3.el8.x86_64
 install plymouth-plugin-label-0.9.4-11.20200615git1e36e30.el8.x86_64
-install msodbcsql18-18.0.1.1-1.x86_64
 install xorg-x11-fonts-100dpi-7.5-19.el8.noarch
 install libxshmfence-1.3-2.el8.x86_64
 install apache-commons-logging-1.2-13.module_el8.6.0+2752+f1f3449e.noarch
@@ -2739,7 +2739,6 @@ install NetworkManager-libreswan-gnome-1.2.10-4.el8.x86_64
 install postfix-3.5.8-4.el8.x86_64
 install libupnp-1.8.7-1.el8.x86_64
 install autofs-5.1.4-82.el8.x86_64
-install php74-php-json-7.4.32-2.el8.remi.x86_64
 install libXtst-1.2.3-7.el8.x86_64
 install lsscsi-0.32-3.el8.x86_64
 install pygtk2-2.24.0-24.module_el8.0.0+6039+48ed2b14.x86_64
@@ -2791,6 +2790,7 @@ install perl-Term-ANSIColor-4.06-396.el8.noarch
 install libXrandr-devel-1.5.2-1.el8.x86_64
 install texlive-varwidth-20180414-25.el8.noarch
 install libzstd-devel-1.4.4-1.el8.x86_64
+install php82-build-8.2-2.el8.remi.x86_64
 install python3-pid-2.1.1-7.el8.noarch
 install libXvMC-1.0.12-1.el8.x86_64
 install xfce4-panel-4.16.3-1.el8.x86_64
@@ -2900,6 +2900,7 @@ install PackageKit-gstreamer-plugin-1.1.12-6.el8.x86_64
 install tcp_wrappers-libs-7.6-96.el8.x86_64
 install libXtst-devel-1.2.3-7.el8.x86_64
 install python3-ntplib-0.3.3-10.el8.noarch
+install php74-php-cli-7.4.33-1.el8.remi.x86_64
 install fontconfig-devel-2.13.1-4.el8.x86_64
 install qt5-qttools-common-5.15.2-4.el8.noarch
 install perl-Devel-SelfStubber-1.06-421.el8.noarch
@@ -2948,7 +2949,6 @@ install libhandlebars-0.7.3-1.el8.remi.x86_64
 install go-srpm-macros-2-17.el8.noarch
 install texlive-glyphlist-20180414-25.el8.noarch
 install libvirt-daemon-driver-storage-iscsi-direct-8.0.0-5.5.module_el8.6.0+3337+88d7cc9c.x86_64
-install epel-release-8-17.el8.noarch
 install kf5-khtml-5.88.0-1.el8.x86_64
 install libvirt-gobject-3.0.0-1.el8.x86_64
 install boost-1.66.0-10.el8.x86_64
@@ -2996,6 +2996,7 @@ install pango-devel-1.42.4-8.el8.x86_64
 install ibus-gtk2-1.5.19-14.el8_5.x86_64
 install kf5-kunitconversion-5.88.0-1.el8.x86_64
 install perl-YAML-Tiny-1.73-2.el8.noarch
+install mdatp-101.85.27-1.x86_64
 install gdb-8.2-18.el8.x86_64
 install bind-license-9.11.36-3.el8_6.1.noarch
 install python3-chardet-3.0.4-7.el8.noarch
@@ -3097,6 +3098,7 @@ install xorg-x11-fonts-Type1-7.5-19.el8.noarch
 install perl-Module-CoreList-tools-5.20181130-1.el8.noarch
 install Thunar-4.16.8-1.el8.x86_64
 install blivet-data-3.4.0-9.el8.noarch
+install tzdata-java-2022f-1.el8.noarch
 install libkworkspace5-5.23.3-2.el8.x86_64
 install perl-generators-1.10-9.el8.noarch
 install PackageKit-1.1.12-6.el8.x86_64
@@ -3177,7 +3179,6 @@ install texlive-ec-20180414-25.el8.noarch
 install kernel-core-4.18.0-372.26.1.el8_6.x86_64
 install kf5-filesystem-5.88.0-1.el8.x86_64
 install texlive-filehook-20180414-25.el8.noarch
-install php74-php-xml-7.4.32-2.el8.remi.x86_64
 install libreoffice-pyuno-6.4.7.2-10.el8.alma.x86_64
 install gd-2.2.5-7.el8.x86_64
 install plasma-desktop-5.23.3-1.el8.x86_64
