@@ -598,6 +598,7 @@ install ghostscript-9.25-5.el7.x86_64
 install sil-abyssinica-fonts-1.200-6.el7.noarch
 install Thunar-1.6.16-1.el7.x86_64
 install libmicrohttpd-0.9.33-2.el7.x86_64
+install inxi-3.3.22-1.el7.noarch
 install alsa-lib-1.1.8-1.el7.x86_64
 install xcb-util-cursor-0.1.2-2.el7.x86_64
 install lame-3.100-1.el7.x86_64
@@ -3301,7 +3302,6 @@ install nhn-nanum-gothic-fonts-3.020-9.el7.noarch
 install sssd-common-1.16.5-10.el7_9.13.x86_64
 install kde-runtime-libs-4.10.5-11.el7.x86_64
 install mate-polkit-1.16.0-2.el7.x86_64
-install inxi-3.3.21-1.el7.noarch
 install ghc-filepath-1.3.0.1-26.4.el7.x86_64
 install elfutils-libelf-0.176-5.el7.i686
 install subversion-kde-1.7.14-16.el7.x86_64
