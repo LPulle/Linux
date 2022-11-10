@@ -391,7 +391,6 @@ install kpartx-0.4.9-135.el7_9.x86_64
 install libshout-2.2.2-11.el7.x86_64
 install python36-urllib3-1.25.6-2.el7.noarch
 install nmap-6.40-19.el7.x86_64
-install code-1.73.0-1667318873.el7.x86_64
 install dhcp-libs-4.2.5-83.el7.centos.1.x86_64
 install valgrind-3.15.0-11.el7.x86_64
 install texlive-amsfonts-svn29208.3.04-45.el7.noarch
@@ -1600,6 +1599,7 @@ install os-prober-1.58-9.el7.x86_64
 install mpfr-devel-3.1.1-4.el7.x86_64
 install zlib-devel-1.2.7-20.el7_9.x86_64
 install nepomuk-core-4.10.5-6.el7.x86_64
+install code-1.73.1-1667967421.el7.x86_64
 install libstdc++-devel-4.8.5-44.el7.x86_64
 install pulseaudio-module-bluetooth-10.0-6.el7_9.x86_64
 install popt-1.13-16.el7.x86_64
