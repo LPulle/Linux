@@ -1186,6 +1186,7 @@ install libzapojit-0.0.3-4.el7.x86_64
 install liberation-sans-fonts-1.07.2-16.el7.noarch
 install ghc-process-1.1.0.2-26.4.el7.x86_64
 install hicolor-icon-theme-0.12-7.el7.noarch
+install distribution-gpg-keys-1.79-1.el7.noarch
 install perl-version-0.99.07-6.el7.x86_64
 install tigervnc-server-1.8.0-22.el7.x86_64
 install python-cffi-1.6.0-5.el7.x86_64
@@ -2411,7 +2412,6 @@ install apr15u-util-1.5.4-3.ius.el7.x86_64
 install NetworkManager-ppp-1.18.8-2.el7_9.x86_64
 install libreoffice-emailmerge-5.3.6.1-25.el7_9.x86_64
 install automake-1.13.4-3.el7.noarch
-install distribution-gpg-keys-1.78-1.el7.noarch
 install libdnf-0.22.5-2.el7_9.x86_64
 install python36-markupsafe-0.23-3.el7.x86_64
 install dracut-network-033-572.el7.x86_64
