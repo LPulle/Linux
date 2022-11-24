@@ -290,6 +290,7 @@ install libabw-0.1.1-2.el7.x86_64
 install libXvMC-1.0.10-1.el7.x86_64
 install kcm_colors-4.11.19-16.el7_9.x86_64
 install libssh-0.7.1-7.el7.x86_64
+install inxi-3.3.23-1.el7.noarch
 install devtoolset-9-gcc-gfortran-9.3.1-2.2.el7.x86_64
 install system-config-printer-udev-1.4.1-23.el7.x86_64
 install filesystem-3.2-25.el7.x86_64
@@ -597,7 +598,6 @@ install ghostscript-9.25-5.el7.x86_64
 install sil-abyssinica-fonts-1.200-6.el7.noarch
 install Thunar-1.6.16-1.el7.x86_64
 install libmicrohttpd-0.9.33-2.el7.x86_64
-install inxi-3.3.22-1.el7.noarch
 install alsa-lib-1.1.8-1.el7.x86_64
 install xcb-util-cursor-0.1.2-2.el7.x86_64
 install lame-3.100-1.el7.x86_64
