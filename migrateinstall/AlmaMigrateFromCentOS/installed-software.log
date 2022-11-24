@@ -421,6 +421,8 @@ expat-devel
 expect
 f35-backgrounds-base
 f35-backgrounds-kde
+f36-backgrounds-base
+f36-backgrounds-kde
 faad2-libs
 facter
 fann
@@ -661,6 +663,7 @@ google-noto-emoji-fonts
 google-noto-fonts-common
 google-noto-mono-fonts
 google-noto-sans-fonts
+google-noto-serif-fonts
 gparted
 gperftools-libs
 gpg-pubkey
@@ -3113,4 +3116,5 @@ zlib-devel
 zsh
 zstd
 zvbi
+zxing-cpp
 zziplib
