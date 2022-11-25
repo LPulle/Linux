@@ -30,7 +30,7 @@ yes | sudo /bin/cp -nRf /etc/yum.repos.d/*.repo /home/pullel #creates ~/*.repo f
 rpm -qa --qf "%{NAME}\n" | sort | uniq > /home/pullel/GitHub/Linux/migrateinstall/AlmaMigrateFromCentOS/installed-software.log
 
 # Upgrade pip and export all python modules (excluding pyOpenSSL and cryptography)
-sudo -H pip install --upgrade pip
+#sudo -H pip install --upgrade pip
 sudo -H pip3 install --upgrade pip
 #sudo -H /usr/local/bin/pip3.7 install --upgrade pip
 #pip freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > /home/pullel/pip2freeze.txt
