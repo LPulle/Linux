@@ -17,6 +17,9 @@ fi
 # pull the latest version from repo
 sudo git pull origin master
 
+# run dnf upgrade
+dnf upgrade -y
+
 # Export rpm files and yum repos
 rpm -qa > /home/pullel/yum.installed
 sed -i 's/^/install /' /home/pullel/yum.installed
