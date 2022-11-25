@@ -33,11 +33,11 @@ rpm -qa --qf "%{NAME}\n" | sort | uniq > /home/pullel/GitHub/Linux/migrateinstal
 sudo -H pip install --upgrade pip
 sudo -H pip3 install --upgrade pip
 #sudo -H /usr/local/bin/pip3.7 install --upgrade pip
-pip freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > /home/pullel/pip2freeze.txt
+#pip freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > /home/pullel/pip2freeze.txt
 pip3 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > /home/pullel/pip3freeze.txt
 #/usr/local/bin/pip3.7 freeze | sed -e '/pyOpenSSL/d' | sed -e '/cryptography/d' | sed -e '/pycairo/d' | sed -e '/pyusb/d' > ~/pip37freeze.txt
-cat /home/pullel/pip2freeze.txt pip3freeze.txt | sort > /home/pullel/pipfreeze.txt
-uniq /home/pullel/pipfreeze.txt > /home/pullel/pipfreezemerge.txt
+#cat /home/pullel/pip2freeze.txt pip3freeze.txt | sort > /home/pullel/pipfreeze.txt
+uniq /home/pullel/pip3freeze.txt > /home/pullel/pipfreezemerge.txt
 cut -d "=" -f1 /home/pullel/pipfreezemerge.txt | uniq > /home/pullel/pipfreezeinstall.txt
 
 # Export npm modules
