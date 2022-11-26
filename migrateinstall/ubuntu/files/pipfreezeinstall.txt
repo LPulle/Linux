@@ -58,6 +58,7 @@ asyncio
 atomicwrites
 attrs
 audioread
+autosub @ git+https://github.com/agermanidis/autosub.git@d32389cb76e63ec6959111c3f989a72f36f726fe
 backcall
 backports-abc
 backports.csv
@@ -84,6 +85,7 @@ certbot
 certifi
 cffi
 chardet
+charset-normalizer
 cheroot
 chrome-gnome-shell
 cleanup
@@ -131,9 +133,13 @@ future
 futures
 gast
 gensim
+google-api-core
+google-api-python-client
+google-auth-httplib2
 google-auth-oauthlib
 google-auth
 google-pasta
+googleapis-common-protos
 gpg
 greenlet
 grpcio
@@ -246,6 +252,7 @@ ply
 portend
 powerline-status
 prettytable
+progressbar2
 prometheus-client
 prompt-toolkit
 protobuf
@@ -276,6 +283,7 @@ pyroute2.nslink
 pyroute2
 pyrsistent
 pyserial
+pysrt
 pytesseract
 python-apt
 python-augeas
@@ -283,6 +291,7 @@ python-dateutil
 python-debian
 python-nss
 python-slugify
+python-utils
 python-xapp
 python-xlib
 python-yubico
@@ -365,6 +374,7 @@ ubuntu-drivers-common
 ufw
 unattended-upgrades
 update
+uritemplate
 urlgrabber
 urllib3
 urwid
