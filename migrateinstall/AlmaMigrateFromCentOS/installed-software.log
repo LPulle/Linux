@@ -257,7 +257,9 @@ compat-libtiff3
 compat-lua-libs
 compiler-rt
 conda
+conmon
 container-selinux
+containernetworking-plugins
 containers-common
 copy-jdk-configs
 coreutils
@@ -2170,6 +2172,9 @@ plymouth-system-theme
 plymouth-theme-charge
 plymouth-theme-spinner
 pnm2ppa
+podman
+podman-catatonit
+podman-docker
 policycoreutils
 policycoreutils-devel
 policycoreutils-python-utils
@@ -2550,6 +2555,7 @@ sgabios-bin
 sgml-common
 sgpio
 shadow-utils
+shadow-utils-subid
 shapelib
 shared-mime-info
 shim-x64
