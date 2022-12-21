@@ -1240,6 +1240,7 @@ libmbim
 libmbim-utils
 libmcpp
 libmcrypt
+libmd
 libmediaart
 libmemcached
 libmemcached-libs
