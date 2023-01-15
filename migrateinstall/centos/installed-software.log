@@ -1139,6 +1139,7 @@ libblockdev-part
 libblockdev-swap
 libblockdev-utils
 libbluray
+libbrotli
 libburn
 libbytesize
 libcaca
@@ -1264,7 +1265,7 @@ libgudev1
 libgusb
 libgweather
 libgxps
-libhandlebars
+libhandlebars5
 libhangul
 libibverbs
 libical
@@ -2583,6 +2584,7 @@ ruby-irb
 ruby-libs
 ruby-shadow
 rxvt-unicode
+rxvt-unicode-terminfo
 sac
 samba
 samba-client
