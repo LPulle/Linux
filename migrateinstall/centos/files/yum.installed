@@ -1252,7 +1252,6 @@ install php80-php-bcmath-8.0.27-1.el7.remi.x86_64
 install python-libs-2.7.5-92.el7_9.x86_64
 install thai-scalable-fonts-common-0.5.0-7.el7.noarch
 install samba-client-libs-4.10.16-20.el7_9.x86_64
-install powershell-7.3.1-1.rh.x86_64
 install gtk-murrine-engine-0.98.2-10.el7.x86_64
 install tuned-2.11.0-12.el7_9.noarch
 install rsync-3.1.2-12.el7_9.x86_64
@@ -2873,6 +2872,7 @@ install texlive-xdvi-svn26689.22.85-45.el7.noarch
 install apache-commons-logging-1.1.2-7.el7.noarch
 install libdb-devel-5.3.21-25.el7.x86_64
 install IP2Location-libs-8.4.1-1.el7.x86_64
+install powershell-7.3.2-1.rh.x86_64
 install devtoolset-9-strace-5.1-7.el7.x86_64
 install aic94xx-firmware-30-6.el7.noarch
 install erlang-kernel-R16B-03.18.el7.x86_64
