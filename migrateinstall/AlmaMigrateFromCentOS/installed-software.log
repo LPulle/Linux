@@ -16,6 +16,7 @@ NetworkManager
 NetworkManager-adsl
 NetworkManager-bluetooth
 NetworkManager-l2tp
+NetworkManager-l2tp-gnome
 NetworkManager-libnm
 NetworkManager-libreswan
 NetworkManager-libreswan-gnome
@@ -1313,12 +1314,13 @@ libplist
 libpmem
 libpng
 libpng-devel
-libpq
+libpq5
 libprojectM
 libprojectM-devel
 libproxy
 libpskc
 libpsl
+libptytty
 libpurple
 libpwquality
 libqalculate
@@ -1439,6 +1441,7 @@ libtiff-devel
 libtiger
 libtimezonemap
 libtirpc
+libtirpc-devel
 libtomcrypt
 libtommath
 libtool
@@ -2084,6 +2087,7 @@ perl-threads-shared
 perl-utils
 perl-version
 pesign
+pgdg-redhat-repo
 phonon-qt5
 phonon-qt5-backend-gstreamer
 php
@@ -2194,6 +2198,9 @@ portaudio
 portaudio-devel
 postfix
 postgresql-jdbc
+postgresql15
+postgresql15-libs
+postgresql15-server
 powershell
 ppp
 pptp
@@ -2300,6 +2307,7 @@ python3-libstoragemgmt
 python3-libxml2
 python3-linux-procfs
 python3-louis
+python3-magic
 python3-mako
 python3-markupsafe
 python3-meh
@@ -2519,6 +2527,8 @@ samba-client-libs
 samba-common
 samba-common-libs
 samba-common-tools
+samba-dc-libs
+samba-dcerpc
 samba-libs
 sane-backends
 sane-backends-drivers-cameras

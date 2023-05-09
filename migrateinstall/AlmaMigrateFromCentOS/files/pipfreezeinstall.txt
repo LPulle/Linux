@@ -115,6 +115,7 @@ enum34
 et-xmlfile
 ethtool
 falcon
+file-magic
 filelock
 frozendict
 funcsigs
