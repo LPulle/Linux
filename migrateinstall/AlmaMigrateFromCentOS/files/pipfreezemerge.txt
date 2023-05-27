@@ -27,7 +27,7 @@ PyYAML==3.12
 Pygments==2.12.0
 QtPy==2.0.1
 SQLAlchemy==1.4.36
-SSSDConfig==2.7.3
+SSSDConfig==2.8.2
 Send2Trash==1.8.0
 SpeechRecognition==3.8.1
 Twisted==22.4.0
@@ -63,7 +63,7 @@ backports.weakref==1.0.post1
 backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bleach==4.1.0
-blivet==3.4.0
+blivet==3.6.0
 boto3==1.23.9
 boto==2.49.0
 botocore==1.26.9
@@ -307,7 +307,7 @@ setools==4.3.0
 setproctitle==1.2.3
 setroubleshoot==1.1
 simplegeneric==0.8.1
-simpleline==1.1.1
+simpleline==1.1.3
 singledispatch==3.7.0
 six==1.11.0
 skll==2.5.0
@@ -321,8 +321,8 @@ statsmodels==0.12.2
 stopwords==1.0.0
 style==1.1.0
 subprocess32==3.5.4
-subscription-manager==1.28.32
-syspurpose==1.28.32
+subscription-manager==1.28.36
+syspurpose==1.28.36
 systemd-python==234
 tabulate==0.8.9
 targetcli-fb==2.1.53

@@ -1271,6 +1271,7 @@ libmwaw
 libnatpmp
 libndp
 libnet
+libnetapi
 libnetfilter_conntrack
 libnetfilter_queue
 libnfnetlink
@@ -1447,6 +1448,7 @@ libtommath
 libtool
 libtool-ltdl
 libtpms
+libtraceevent
 libtree-sitter
 libtsan
 libucil
@@ -1518,6 +1520,7 @@ libwmf
 libwmf-lite
 libwnck3
 libwpd
+libwpe
 libwpg
 libwps
 libwsman1
@@ -2529,6 +2532,7 @@ samba-common-libs
 samba-common-tools
 samba-dc-libs
 samba-dcerpc
+samba-ldb-ldap-modules
 samba-libs
 sane-backends
 sane-backends-drivers-cameras
@@ -2868,6 +2872,7 @@ texlive-thumbpdf
 texlive-times
 texlive-tipa
 texlive-tools
+texlive-translator
 texlive-txfonts
 texlive-type1cm
 texlive-typehtml
@@ -3005,6 +3010,7 @@ wodim
 woff2
 words
 wpa_supplicant
+wpebackend-fdo
 wqy-microhei-fonts
 wxBase3
 wxGTK3
