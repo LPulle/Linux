@@ -1,0 +1,13 @@
+# ELevate project testing repo for el7/el8
+
+[elevate-testing]
+name=ELevate Testing
+baseurl=https://repo.almalinux.org/elevate/testing/el$releasever/$basearch/
+gpgkey=https://repo.almalinux.org/elevate/RPM-GPG-KEY-ELevate
+
+## Sources
+[elevate-testing-source]
+name=name=ELevate Testing - Source
+baseurl=https://repo.almalinux.org/elevate/testing/el$releasever/SRPMS/
+enabled=0
+gpgkey=https://repo.almalinux.org/elevate/RPM-GPG-KEY-ELevate
