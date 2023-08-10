@@ -577,6 +577,7 @@ gimp-libs
 git
 git-core
 git-core-doc
+git-credential-libsecret
 gjs
 gl-manpages
 glade-libs

@@ -219,6 +219,7 @@ install setroubleshoot-plugins-3.3.14-1.el8.noarch
 install libvirt-daemon-driver-storage-iscsi-8.0.0-19.2.module_el8.8.0+3585+76b9c397.alma.x86_64
 install lzop-1.03-20.el8.x86_64
 install texlive-txfonts-20180414-29.el8_8.noarch
+install postgresql15-15.4-1PGDG.rhel8.x86_64
 install pixman-devel-0.38.4-2.el8.x86_64
 install passwd-0.80-4.el8.x86_64
 install libucil-0.9.10-16.el8.x86_64
@@ -518,6 +519,7 @@ install libacl-2.2.53-1.el8.x86_64
 install python3-libcomps-0.1.18-1.el8.x86_64
 install brlapi-0.6.7-32.el8.x86_64
 install protobuf-lite-3.5.0-15.el8.x86_64
+install postgresql15-server-15.4-1PGDG.rhel8.x86_64
 install texlive-bibtex-20180414-29.el8_8.x86_64
 install SDL-1.2.15-39.el8.x86_64
 install autoconf-2.69-29.el8.noarch
@@ -558,7 +560,6 @@ install libgcab1-1.1-1.el8.x86_64
 install perl-DynaLoader-Functions-0.003-2.el8.noarch
 install evolution-data-server-3.28.5-20.el8.x86_64
 install perl-Data-Section-0.200007-3.el8.noarch
-install libpq5-15.3-42.1PGDG.rhel8.x86_64
 install glibmm24-2.56.0-2.el8.x86_64
 install xfwm4-4.16.1-1.el8.x86_64
 install mesa-libxatracker-22.3.0-2.el8.x86_64
@@ -832,6 +833,7 @@ install glib2-2.56.4-161.el8.x86_64
 install texlive-rsfs-20180414-29.el8_8.noarch
 install brotli-devel-1.0.6-3.el8.x86_64
 install sox-14.4.2.0-29.el8.x86_64
+install mutter-3.32.2-70.el8_8.alma.x86_64
 install fxload-2008_10_13-10.el8.x86_64
 install libtiff-devel-4.0.9-28.el8_8.x86_64
 install automake-1.16.1-7.el8.noarch
@@ -842,7 +844,6 @@ install stoken-libs-0.92-1.el8.x86_64
 install xfce4-terminal-1.0.4-1.el8.x86_64
 install gnome-menus-3.13.3-11.el8.x86_64
 install xmlsec1-openssl-1.2.25-4.el8.x86_64
-install mutter-3.32.2-69.el8_8.x86_64
 install perl-Digest-1.17-395.el8.noarch
 install gpg-pubkey-be1229cf-5631588c
 install libtermkey-0.20-1.el8.x86_64
@@ -908,7 +909,6 @@ install texlive-breqn-20180414-29.el8_8.noarch
 install dejavu-fonts-common-2.35-7.el8.noarch
 install kf5-kitemviews-5.96.0-1.el8.x86_64
 install libuv-1.41.1-1.el8_4.x86_64
-install postgresql15-libs-15.3-2PGDG.rhel8.x86_64
 install perl-IPC-Cmd-1.02-1.el8.noarch
 install wpa_supplicant-2.10-1.el8.x86_64
 install pinfo-0.6.10-18.el8.x86_64
@@ -1582,7 +1582,6 @@ install gnome-shell-extension-window-list-3.32.1-33.el8.noarch
 install qemu-guest-agent-6.2.0-32.module_el8.8.0+3553+bd08596b.x86_64
 install nodejs-packaging-25-1.module_el8.5.0+2605+45d748af.noarch
 install python3-kickstart-3.16.15-1.el8.noarch
-install postgresql15-15.3-2PGDG.rhel8.x86_64
 install libreoffice-math-6.4.7.2-13.el8.alma.x86_64
 install totem-3.26.2-1.el8.x86_64
 install libinput-1.16.3-3.el8_6.x86_64
@@ -1978,7 +1977,6 @@ install perl-XML-Dumper-0.81-35.el8.noarch
 install libblockdev-part-2.28-2.el8.x86_64
 install dnf-4.7.0-16.el8_8.alma.noarch
 install zsh-5.5.1-10.el8.x86_64
-install postgresql15-server-15.3-2PGDG.rhel8.x86_64
 install gnome-session-wayland-session-3.28.1-20.el8_8.x86_64
 install yum-utils-4.0.21-19.el8_8.noarch
 install python3-qt5-base-5.15.0-3.el8.x86_64
@@ -2246,6 +2244,7 @@ install texlive-euro-20180414-29.el8_8.noarch
 install SDL2-2.0.10-2.el8.x86_64
 install libpwquality-1.4.4-6.el8.x86_64
 install libvirt-daemon-driver-storage-iscsi-direct-8.0.0-19.2.module_el8.8.0+3585+76b9c397.alma.x86_64
+install libpq5-15.4-42PGDG.rhel8.x86_64
 install libassuan-2.5.1-3.el8.x86_64
 install libqxp-0.0.1-2.el8.x86_64
 install texlive-charter-20180414-29.el8_8.noarch
@@ -2531,6 +2530,7 @@ install setools-4.3.0-3.el8.x86_64
 install coreutils-common-8.30-15.el8.x86_64
 install subscription-manager-1.28.36-2.el8.alma.x86_64
 install qrencode-libs-3.4.4-5.el8.x86_64
+install git-credential-libsecret-2.39.3-1.el8_8.x86_64
 install wxGTK3-i18n-3.0.4-11.el8.noarch
 install xerces-c-3.2.3-5.el8.x86_64
 install texlive-cite-20180414-29.el8_8.noarch
@@ -2834,6 +2834,7 @@ install libreport-gtk-2.9.5-15.el8.alma.1.x86_64
 install jline-2.14.6-2.module_el8.0.0+6044+f3cbc35d.noarch
 install pam-1.3.1-25.el8.x86_64
 install libvirt-daemon-driver-storage-logical-8.0.0-19.2.module_el8.8.0+3585+76b9c397.alma.x86_64
+install postgresql15-libs-15.4-1PGDG.rhel8.x86_64
 install gnupg2-2.2.20-3.el8_6.x86_64
 install texlive-avantgar-20180414-29.el8_8.noarch
 install nettle-3.4.1-7.el8.x86_64
