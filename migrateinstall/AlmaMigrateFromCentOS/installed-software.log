@@ -235,8 +235,10 @@ cifs-utils
 cim-schema
 ck
 clang
+clang-devel
 clang-libs
 clang-resource-filesystem
+clang-tools-extra
 clucene-contribs-lib
 clucene-core
 clutter
@@ -1322,6 +1324,7 @@ libpmem
 libpng
 libpng-devel
 libpq5
+libpq5-devel
 libprojectM
 libprojectM-devel
 libproxy
@@ -1566,7 +1569,10 @@ lklug-fonts
 lksctp-tools
 lldpad
 llvm
+llvm-devel
 llvm-libs
+llvm-static
+llvm-test
 lm_sensors
 lm_sensors-libs
 lmdb-libs
@@ -1678,6 +1684,7 @@ mousetweaks
 mozilla-filesystem
 mozjs52
 mozjs60
+mpdecimal
 mpfr
 mpfr-devel
 mpg123-libs
@@ -1975,8 +1982,10 @@ perl-IO-Compress
 perl-IO-HTML
 perl-IO-Socket-IP
 perl-IO-Socket-SSL
+perl-IO-Tty
 perl-IO-Zlib
 perl-IPC-Cmd
+perl-IPC-Run
 perl-IPC-Run3
 perl-IPC-SysV
 perl-IPC-System-Simple
@@ -2238,7 +2247,9 @@ portaudio
 portaudio-devel
 postfix
 postgresql-jdbc
+postgresql11-libs
 postgresql15
+postgresql15-devel
 postgresql15-libs
 postgresql15-server
 powershell
@@ -2290,6 +2301,7 @@ python3-abrt-addon
 python3-audit
 python3-augeas
 python3-babel
+python3-backoff
 python3-bind
 python3-blivet
 python3-blockdev
@@ -2430,14 +2442,12 @@ python3-unbound
 python3-urllib3
 python3-urwid
 python3-yubico
+python3.11
+python3.11-libs
+python3.11-pip-wheel
+python3.11-setuptools-wheel
+python3.11-tkinter
 python36
-python39
-python39-libs
-python39-pip
-python39-pip-wheel
-python39-setuptools
-python39-setuptools-wheel
-python39-tkinter
 qemu-guest-agent
 qemu-img
 qemu-kvm

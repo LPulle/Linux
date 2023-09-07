@@ -54,6 +54,7 @@ atomicwrites
 attrs
 audioread
 backcall
+backoff
 backports-abc
 backports.csv
 backports.functools-lru-cache
