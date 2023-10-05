@@ -316,7 +316,7 @@ skll==2.5.0
 slip.dbus==0.6.4
 slip==0.6.4
 smart-open==6.0.0
-sos==4.5.6
+sos==4.6.0
 soupsieve==2.3.2.post1
 sqlparse==0.4.2
 statsmodels==0.12.2
