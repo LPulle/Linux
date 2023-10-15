@@ -11,6 +11,17 @@ sudo yum install subversion
 sudo svn export https://github.com/LPulle/Linux/trunk/migrateinstall/AlmaMigrateFromCentOS/files
 yes | sudo /bin/cp -fR ~/GitHub/Linux/migrateinstall/AlmaMigrateFromCentOS/files/* ~/files
 
+# Install the relevant repos depending on Alma9 or Alma8
+os=`cat /etc/almalinux-release`
+Alma9=`grep "9" /etc/almalinux-release | wc -l`
+if [[ $Alma9="1" ]]
+then ./install_repos_9.sh
+fi
+Alma8=`grep "8" /etc/almalinux-release | wc -l`
+if [[ $Alma8="1" ]]
+then ./install_repos_8.sh
+fi
+
 # Update base install, install latest dist and clean
 sudo yum update
 
