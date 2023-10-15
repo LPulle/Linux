@@ -26,7 +26,16 @@ fi
 sudo yum update
 
 # Install packages with yum
-sudo yum shell ~/files/yum.installed
+# use the historic Alma 8 file
+# this won't be updated going forward after switch to Alma9
+if [[ $Alma8="1" ]]
+then yum shell ~/files/yum.installed_8
+fi
+
+# use the latest yum.installed file for Alma9 
+if [[ $Alma9="1" ]]
+then yum shell ~files/yum.installed
+fi
 
 # Check for updates again after installing new software
 # Commented out as managing software updates manually
