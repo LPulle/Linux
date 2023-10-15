@@ -11,3 +11,4 @@ Also included now are versions of the migrate and export scripts based on the Ce
 And also one for migrating to another Alma install (migrate)
 - This currently uses a yum.installed file which should still work but ideally should be switched to dnf
 - It also does updates and installs as part of the migrate using yum - again should work but ideally a switch to dnf is better
+- Added repo scripts with version checking for Alma Linux 8 or 9
