@@ -39,7 +39,14 @@ fi
 
 # Check for updates again after installing new software
 # Commented out as managing software updates manually
-#sudo yum update
+sudo yum update
+
+# install all the software from the installed-software.log (the install will be slow)
+# this first one doesn't work because it fails when it gets an error
+#sudo ACCEPT_EULA=Y dnf install $(cat installed-software.log)
+##instead we use a for loop - because of that it will take longer
+for i in $(cat installed-software.log); do sudo ACCEPT_EULA=Y dnf install -y $i; done
+#sudo dnf upgrade -y
 
 # Some software manages upgrades with their own package manager
 #Python pip
