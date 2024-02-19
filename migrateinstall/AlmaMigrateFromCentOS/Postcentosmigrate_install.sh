@@ -34,7 +34,7 @@ fi
 
 # use the latest yum.installed file for Alma9 
 if [[ $Alma9="1" ]]
-then yum shell ~files/yum.installed
+then yum shell ~/files/yum.installed
 fi
 
 # Check for updates again after installing new software
